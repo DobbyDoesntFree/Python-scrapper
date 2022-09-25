@@ -24,4 +24,4 @@ else:
             results.append(job_data)      
     for result in results:
         print(result)
-        print("//////////////////////")
+        print("///////////////////////")
