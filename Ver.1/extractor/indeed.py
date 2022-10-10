@@ -1,6 +1,5 @@
 from requests import get
 from bs4 import BeautifulSoup
-from extractor.wwr import extract_jobs
 from selenium import webdriver
 
 def get_page_count(keyword):
@@ -15,8 +14,6 @@ def get_page_count(keyword):
         return 5
     else:
         return len(pagination_div)
-
-
 
 
 def extract_indeed_jobs(keyword):
@@ -54,8 +51,3 @@ def extract_indeed_jobs(keyword):
             # use this for loop for return results one by one
             # extract text : use .string as span tag, use .text as div tag
     return results    
-
-
-
-jobs = (extract_indeed_jobs("python"))
-print(len(jobs))
