@@ -15,7 +15,6 @@ def get_page_count(keyword):
     else:
         return len(pagination_div)
 
-
 def extract_indeed_jobs(keyword):
     pages = get_page_count(keyword)
     print("Found", pages, "pages")
@@ -43,7 +42,7 @@ def extract_indeed_jobs(keyword):
                 link = anchor['href']
                 company = j.find("span", class_="companyName")
                 location = j.find("div", class_="companyLocation")
-                job_data = {'link': f"https://kr.indeed.com{link}",'company':company.string, 'location':location.text, 'position':title}
+                job_data = {'link': f"https://kr.indeed.com{link}",'company':company.string.replace(",", " "), 'location':location.text.replace(",", " "), 'position':title.replace(",", " ")}
                 results.append(job_data)
         #for r in results:
         #    print (r)
