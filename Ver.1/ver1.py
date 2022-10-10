@@ -5,12 +5,10 @@ from extractor.indeed import extract_indeed_jobs
 keyword = input("What do you want to search for?")
 
 wwr = extract_wwr_jobs(keyword)
-
 indeed = extract_indeed_jobs(keyword)
-
 jobs = indeed + wwr
 
-file=open(f"{keyword}.csv","w", encoding="utf-8")
+file=open(f"{keyword}.csv","w", encoding="utf-8") # create file 
 file.write("Position,Company,Location,URL\n")
              
 

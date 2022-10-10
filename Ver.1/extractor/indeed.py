@@ -4,16 +4,24 @@ from selenium import webdriver
 
 def get_page_count(keyword):
     browser = webdriver.Chrome(r"C:\Users\Luna\Desktop\Projects\Python Scrapper\Ver.1\chromedriver.exe")
-    browser.get(f"https://kr.indeed.com/jobs?q={keyword}")
-    soup = BeautifulSoup(browser.page_source,"html.parser")
-    pagination = soup.find("nav", class_="css-jbuxu0")
-    pagination_div = pagination.select("div")
-    if len(pagination_div)== 0:
-        return 1
-    elif len(pagination_div)>=5:
-        return 5
-    else:
-        return len(pagination_div)
+    page_pointor = 0
+    res = []
+    loop_indicator = 6
+    while loop_indicator>=6:
+        browser.get(f"https://kr.indeed.com/jobs?q={keyword}&start={page_pointor*10}")
+        soup = BeautifulSoup(browser.page_source,"html.parser")
+        pagination = soup.find("nav", class_="css-jbuxu0")
+        pagination_div = pagination.select("div") # box amount
+        pagination_next = pagination.select("div > a.css-fnfhcj") # if this is 1 and pagination_div also less than 6 make break point
+
+        if len(pagination_div)<=5 and len(pagination_next) ==0:
+            return len(pagination_div)
+        else:
+            page_pointor = page_pointor + 1
+            loop_indicator = len(pagination_div)
+            res.append(len(pagination_div))
+    
+    return len(res)
 
 def extract_indeed_jobs(keyword):
     pages = get_page_count(keyword)

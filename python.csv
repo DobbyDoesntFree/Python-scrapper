@@ -1,79 +1,1004 @@
+Column1,Column2,Column3,Column4
 Position,Company,Location,URL
-ë¼ì¸í”„ë Œì¦ˆ 2022ë…„ ê° ë¶€ë¬¸ ìˆ˜ì‹œì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë¼ì¸í”„ë Œì¦ˆ,ì„œìš¸ ìš©ì‚°êµ¬,https://kr.indeed.com/rc/clk?jk=1015284880e2ff62&fccid=b6f22bcb6078a2c4&vjs=3
-AI ì˜ìƒì²˜ë¦¬ ì•Œê³ ë¦¬ì¦˜ ê°œë°œìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—ìŠ¤ì¼€ì´í…”ë ˆì½¤,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=d2b4fb4e11a672d9&fccid=ce2f0f28b40a5be8&vjs=3
-Computer Vision Engineerì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—ìŠ¤ì¼€ì´í…”ë ˆì½¤,ì„œìš¸ ì¢…ë¡œêµ¬,https://kr.indeed.com/rc/clk?jk=218abedd7afd1346&fccid=ce2f0f28b40a5be8&vjs=3
-[Data] ë°ì´í„° ì—”ì§€ë‹ˆì–´ (í”Œë«í¼)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=b3e849c22a37e611&fccid=aea6a13a3459fdb2&vjs=3
-[Data] ë¶„ì„ ë°ì´í„° ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=ebf3b3cab8333419&fccid=aea6a13a3459fdb2&vjs=3
-ETFìš´ìš©íŒ€ (ì‹ ì…ì‚¬ì›-ëŒ€ë¦¬ê¸‰)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì‹ í•œìì‚°ìš´ìš©,ëŒ€í•œë¯¼êµ­,https://kr.indeed.com/rc/clk?jk=0a7d793321e65446&fccid=d93d518e8dbb7037&vjs=3
-[Data] ë°ì´í„°ì›¨ì–´í•˜ìš°ìŠ¤ ìš´ì˜ ë‹´ë‹¹ìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=c689e743fca21b2f&fccid=aea6a13a3459fdb2&vjs=3
-ì „ë‚¨ ICTì´ë…¸ë² ì´ì…˜ìŠ¤í€˜ì–´ ì¸ê³µì§€ëŠ¥ êµìœ¡ìƒ (7ê¸°)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì •ë³´ê¸°ìˆ ì„œë¹„ìŠ¤ì‚°ì—…í˜‘íšŒ,ì„œìš¸,https://kr.indeed.com/rc/clk?jk=89babd6062cd969e&fccid=21e7cb4036a655e0&vjs=3
-[ì •ê·œì§] 2022ë…„ ì†Œí”„íŠ¸ì›¨ì–´ ì—°êµ¬ê°œë°œ ì‹ ì…/ê²½ë ¥ ì‚¬ì›ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ìŠ¤ì¹´ì´ì‹œìŠ¤,ìš¸ì‚° ë¶êµ¬,https://kr.indeed.com/rc/clk?jk=9f50e72b1130520d&fccid=c182093a93404981&vjs=3
-[Cloud] Kubernetes Engineerì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=6c54a16e72301957&fccid=aea6a13a3459fdb2&vjs=3
-í•œêµ­í•„ë¦½ëª¨ë¦¬ìŠ¤ 2022ë…„ ìƒë°˜ê¸° ìˆ˜ì‹œì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­í•„ë¦½ëª¨ë¦¬ìŠ¤ãˆœ,ì„œìš¸ ì˜ë“±í¬êµ¬,https://kr.indeed.com/rc/clk?jk=44e9ac7f0f94e784&fccid=fb7e65f74b012d18&vjs=3
-[ì‹ ìš©ë¦¬ìŠ¤í¬ëª¨ë¸ë§] ê°œì¸/ê°œì¸ì‚¬ì—…ì ì‹ ìš©í‰ê°€ëª¨í˜• ê°œë°œ ë° ìš´ì˜ ë‹´ë‹¹ìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=b7128e1a15428f4b&fccid=aea6a13a3459fdb2&vjs=3
-[Cloud] í´ë¼ìš°ë“œ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=a6c35b29cdaef9f5&fccid=aea6a13a3459fdb2&vjs=3
-[í´ë¼ìš°ë“œì‹œìŠ¤í…œì—”ì§€ë‹ˆì–´ë§] ì‹œìŠ¤í…œ ì—”ì§€ë‹ˆì–´ ì˜ì…ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì¹´ì¹´ì˜¤ì—”í„°í”„ë¼ì´ì¦ˆ,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=64cf858fd8d27c42&fccid=e19aa33fc391b310&vjs=3
-[ë¬´ë£Œêµìœ¡/ì—°ê³„] í´ë¼ìš°ë“œ ê¸°ë°˜ ìŠ¤ë§ˆíŠ¸ìœµí•©ë³´ì•ˆ ê³¼ì • SKì‰´ë”ìŠ¤ ë£¨í‚¤ì¦ˆ 10ê¸°ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—ìŠ¤ì¼€ì´ì‰´ë”ìŠ¤,ì„œìš¸,https://kr.indeed.com/rc/clk?jk=e48494b430c1d8b3&fccid=eb364ecce5dfad88&vjs=3
-[11ë²ˆê°€] í´ë¼ìš°ë“œ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì‹­ì¼ë²ˆê°€,ì„œìš¸ ì¤‘êµ¬,https://kr.indeed.com/rc/clk?jk=c097b17dad2fbf93&fccid=54911ff2dce6c429&vjs=3
-[ë°ì´í„°/ë§ˆì¼€íŒ…/ITê°œë°œ] ì¼ë°˜ì§(ê²½ë ¥) ìƒì‹œì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­í‰ê°€ë°ì´í„°,ì„œìš¸ ì˜ë“±í¬êµ¬,https://kr.indeed.com/rc/clk?jk=15c7509b65eaa6e6&fccid=7936dc2e7d11e91f&vjs=3
-[FrontEnd] ì›¹ì„œë¹„ìŠ¤ í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=48641f82ffd3fd2c&fccid=aea6a13a3459fdb2&vjs=3
-ì‘ìš©ì†Œí”„íŠ¸ì›¨ì–´[ì¸ê³µì§€ëŠ¥(AI)  Python ë“±] ì‹ ì…/ê²½ë ¥ ì •ê·œì§ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì¿ ë…¸ì†Œí”„íŠ¸,ì„œìš¸ ì„±ë¶êµ¬,https://kr.indeed.com/rc/clk?jk=2bc8b58abe63d404&fccid=f2fc7b11fc1dd68f&vjs=3
-íŒŒì´ì¬ ë°±ì—”ë“œ ê°œë°œì (Python Backend Engineer)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,íœ´ë ˆì´í¬ì§€í‹°ë¸Œ,ì„œìš¸ ê°•ë‚¨êµ¬,https://kr.indeed.com/rc/clk?jk=730d15c6dd640481&fccid=9f7671105b7ffbe3&vjs=3
-[SRE] ì˜¤í”ˆì†ŒìŠ¤ ì„œë¹„ìŠ¤ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=61421993b3329d45&fccid=aea6a13a3459fdb2&vjs=3
-NAVER  LINE ì„œë¹„ìŠ¤ í”Œë«í¼ ìš´ì˜ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—”ì•„ì´í‹°ì„œë¹„ìŠ¤,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=ce842726ea136440&fccid=d389f1042b660837&vjs=3
-ì†”ë£¨ì…˜ ê¸°ë°˜ í”„ë¡œê·¸ë˜ë¨¸(java  c#  python)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì†”ë¸Œë¦¬ë“œí”ŒëŸ¬ìŠ¤,ì„œìš¸ ê¸ˆì²œêµ¬,https://kr.indeed.com/rc/clk?jk=25dfbc8203b21947&fccid=5d8bbb5b9944cc27&vjs=3
-ì—…ê³„ ìµœê³  ëŒ€ìš°ë¡œ íŒŒì´ì¬(Python) ê°œë°œìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì¿¼ë“œë§ˆì´ë„ˆ,ì„œìš¸ ê°•ë‚¨êµ¬,https://kr.indeed.com/rc/clk?jk=42a26d7138ea5864&fccid=4689e54333c19a95&vjs=3
-[ì‹ ì…] ìœ„ëŒ€í•œ Rookies 5ê¸° (Python/Backend Developer)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ìœ„ëŒ€í•œìƒìƒ,ì„œìš¸ ì„œì´ˆêµ¬,https://kr.indeed.com/rc/clk?jk=215ee623b7478042&fccid=e8cc3946292de49a&vjs=3
-AI ì˜ìƒì²˜ë¦¬ Serving ì‹œìŠ¤í…œ ê°œë°œìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—ìŠ¤ì¼€ì´í…”ë ˆì½¤,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=11deb018d1164440&fccid=ce2f0f28b40a5be8&vjs=3
-ì „ë¬¸ì—°êµ¬ìš”ì› (ë³‘ì—­íŠ¹ë¡€) ìˆ˜ì‹œ (AI / HW ë¶„ì•¼)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë”¥ì—‘ìŠ¤,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=78e99625e5de3c95&fccid=e34932b8232a173b&vjs=3
-[R&D] ë”¥ëŸ¬ë‹ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=abf7474c591f3f7f&fccid=aea6a13a3459fdb2&vjs=3
-Data Engineerì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ìœ„ëŒ€í•œìƒìƒ,ì„œìš¸ ì„œì´ˆêµ¬,https://kr.indeed.com/rc/clk?jk=ca7437c7ff4d619b&fccid=e8cc3946292de49a&vjs=3
-ê²Œì„ ë°ì´í„° ì„œë¹„ìŠ¤/í”Œë«í¼ ê°œë°œì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,NHN,ì„±ë‚¨ íŒêµì—­,https://kr.indeed.com/rc/clk?jk=028f37ec9f6509a9&fccid=a72ebaf825acf7af&vjs=3
-Search Data Platform Engineer ì˜ì…ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì¹´ì¹´ì˜¤í˜ì´,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=4024219bbfb23e5e&fccid=c3aa6121be03065c&vjs=3
-HPC Engineer (Team Lead)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,Altair Engineering,ê²½ê¸°ë„ ì„±ë‚¨,https://kr.indeed.com/rc/clk?jk=afd18c1d3e06b7d6&fccid=3453268f43beb582&vjs=3
-(ì£¼)ë„¤ì˜¤ìœ„ë“œë„· ë³‘ì—­íŠ¹ë¡€(ë³´ì¶©ì—­) ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë„¤ì˜¤ìœ„ë“œë„·,ì„±ë‚¨ ìˆ˜ì •êµ¬,https://kr.indeed.com/rc/clk?jk=5e52b53f6be0ac62&fccid=1e52e50673979f4e&vjs=3
-Backend Developer (Python/Senior/6ë…„ì´ìƒ)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ìœ„ëŒ€í•œìƒìƒ,ì„œìš¸ ì„œì´ˆêµ¬,https://kr.indeed.com/rc/clk?jk=fc654a7e06cbf028&fccid=e8cc3946292de49a&vjs=3
-ììœ¨ ì£¼í–‰  ë¡œë´‡ SW ê°œë°œìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—ë°”,ì„±ë‚¨ ìˆ˜ì •êµ¬,https://kr.indeed.com/rc/clk?jk=e30fe92d72ceb17c&fccid=5cc87f5890bd7170&vjs=3
-ê°œë°œì(PHP/Python/My SQL ë“±)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í«ì´ì§€,ì„œìš¸ ì¢…ë¡œêµ¬,https://kr.indeed.com/rc/clk?jk=e2a0a47c157e5c65&fccid=156bb0350f6796cc&vjs=3
-2022ë…„ ICTì´ë…¸ë² ì´ì…˜ìŠ¤í€˜ì–´ì‚¬ì—… ì¸ê³µì§€ëŠ¥ ì§€ì‹ê³¼ ê¸°ì´ˆ ê³¼ì •ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì¬ë‹¨ë²•ì¸ í•œêµ­ì—ì´ì•„ì´ë¸”ë¡ì²´ì¸ìœµí•©ì›,ê²½ìƒë‚¨ë„,https://kr.indeed.com/rc/clk?jk=45041ab8e1a55368&fccid=f05769bef089cf29&vjs=3
-Software Developer for MBUX Navigation Online Servicesì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,Mercedes-Benz Korea Limited,ì„œìš¸,https://kr.indeed.com/rc/clk?jk=703729b8f457fc42&fccid=b25343f021fb51d7&vjs=3
-GIS Engineer Offshore (KR) RWE Renewables Koreaì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,RWE Renewables Korea LLC,ì„œìš¸,https://kr.indeed.com/rc/clk?jk=2742a2a8f661467c&fccid=169d4d0de76b0575&vjs=3
-[11ë²ˆê°€] ë¦¬í…Œì¼ 11ë²ˆê°€ ìƒí’ˆ Selection Analystì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì‹­ì¼ë²ˆê°€,ì„œìš¸ ì¤‘êµ¬,https://kr.indeed.com/rc/clk?jk=415de8ea86f88c36&fccid=54911ff2dce6c429&vjs=3
-ìì‚°ìš´ìš©íŒ€ ì „ëµ/ë¦¬ìŠ¤í¬íŒ€ í€€íŠ¸(ê²¨ìš¸ë°©í•™ ì¸í„´)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë§ˆì´í¼ìŠ¤íŠ¸ì—ì…‹ìì‚°ìš´ìš©,ëŒ€í•œë¯¼êµ­,https://kr.indeed.com/rc/clk?jk=872035f47cfd4850&fccid=e26f0428e52f0752&vjs=3
-Python ê¸°ë°˜ ë¹…ë°ì´í„° ì²˜ë¦¬ ê°œë°œìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë“œë¦¼ì–´ìŠ¤ì»´í¼ë‹ˆ,ì„œìš¸ ì„œì´ˆêµ¬,https://kr.indeed.com/rc/clk?jk=d364360d1e0368e3&fccid=d5dc18a57ad82f07&vjs=3
-[ê·¸ë¡œìŠ¤ë§ˆì¼€íŒ…] ê·¸ë¡œìŠ¤ë§ˆì¼€íŒ… ë‹´ë‹¹ìì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=da34d167eab33f11&fccid=aea6a13a3459fdb2&vjs=3
-Vision AI ì „ë¬¸ê°€ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—ìŠ¤ì¼€ì´í…”ë ˆì½¤,ì„œìš¸ ì¤‘êµ¬,https://kr.indeed.com/rc/clk?jk=0ae330e9e800f9a6&fccid=ce2f0f28b40a5be8&vjs=3
-[í•œêµ­ì „ê¸°ì•ˆì „ê³µì‚¬] 2022ë…„ í•˜ë°˜ê¸° ê²½ë ¥ì§ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì „ê¸°ì•ˆì „ê³µì‚¬,ì „ë¼ë¶ë„ ì™„ì£¼,https://kr.indeed.com/rc/clk?jk=1e81440aa0ed276a&fccid=ba35eb7d48548b2d&vjs=3
-[ì™¸êµ­ê³„ ìŠ¤íƒ€íŠ¸ì—… ë¯¸ì†Œ] Business Analyst Intern (ì •ê·œì§ ì „í™˜í˜•)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ìœ í•œíšŒì‚¬ ë¯¸ì†Œ,ì„œìš¸,https://kr.indeed.com/rc/clk?jk=4c25d6649f8434a8&fccid=02936474a8d39137&vjs=3
-ì—°êµ¬ì†Œ R&D ì¸í”„ë¼ ìš´ì˜ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì•ˆë©,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=5fe21ceab5a3ce0b&fccid=0b88b2af6686dd2b&vjs=3
-[NAVER Cloud] ì‹œìŠ¤í…œ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë„¤ì´ë²„í´ë¼ìš°ë“œ,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=75dc525f15f4c03a&fccid=54815931228b42c0&vjs=3
-ì¸ê³µì§€ëŠ¥(ë”¥ëŸ¬ë‹) ë¡œë´‡ ìë™í™” ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œì(Pythonìš°ëŒ€)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì£¼ì‹íšŒì‚¬ í† íŠ¸ ê´€ì‹¬ê¸°ì—…,ì„œìš¸ ì„±ìˆ˜ë™1ê°€,https://kr.indeed.com/rc/clk?jk=058e9510f9548e49&fccid=bc605d141ca9f67d&vjs=3
-Data Scientistì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ìœ„ëŒ€í•œìƒìƒ,ì„œìš¸ ì„œì´ˆêµ¬,https://kr.indeed.com/rc/clk?jk=f542fd8d59d1ee01&fccid=e8cc3946292de49a&vjs=3
-Software Engineerì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,GE Healthcare,ê²½ê¸°ë„ ì„±ë‚¨,https://kr.indeed.com/rc/clk?jk=13b675c6f73ff110&fccid=65b5f2aba4dbd31f&vjs=3
-[Data] ë°±ì—”ë“œ ì†Œí”„íŠ¸ì›¨ì–´ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ì¹´ì¹´ì˜¤ì€í–‰,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=5ba1b26ae11c7184&fccid=aea6a13a3459fdb2&vjs=3
-2022ë…„ ìƒë°˜ê¸° ì£¼ì‹íšŒì‚¬ ì˜ë§ˆ ì „ ê°œë°œ ì§êµ° (ë°±ì—”ë“œ  í”„ë¡ íŠ¸ì—”ë“œ ì™¸ ì‹ ì…/ê²½ë ¥ ì •ê·œì§)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì˜ë§ˆ,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=13ef6f86810c0843&fccid=a3463f311ce6421e&vjs=3
-UX Researcherì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,LINE Plus corporation,ëŒ€í•œë¯¼êµ­,https://kr.indeed.com/rc/clk?jk=23dba89edb8a10d9&fccid=e90e80bc9ed9a53f&vjs=3
-[ì¸í…”ë¦¬ì „ìŠ¤ë©ìŠ¤] UX Researcher / UXë¶„ì„ê°€ (ê²½í—˜ ì „ëµ ê¸°íš)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,Nexon,ê²½ê¸°ë„ ì„±ë‚¨,https://kr.indeed.com/rc/clk?jk=99335196bbc73520&fccid=aba87288e4cc3687&vjs=3
-[TmaxGroup/OS] OS ì—°êµ¬ì›ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í‹°ë§¥ìŠ¤ì†Œí”„íŠ¸,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=dae7e47c7da3ecc7&fccid=445576e2a7ced0d6&vjs=3
-AI ëª¨ë¹Œë¦¬í‹° ì„œë¹„ìŠ¤ì˜ ë¯¸ë˜ í•¨ê»˜ ì—´ì–´ê°ˆ ìš°ìˆ˜í•œ ì¸ì¬ ì°¾ìŠµë‹ˆë‹¤.ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë¼ì˜¨ë¡œë“œ,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=5133adebeb209d23&fccid=3f9a516642f6114a&vjs=3
-English Data Linguist for AI Startupì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,MIND AI INC,ì„œìš¸ ì¤‘êµ¬,https://kr.indeed.com/company/JNP-LAB/jobs/English-Data-Linguist-Ai-Startup-6838a87dfaacc92f?fccid=5cde252d550394d2&vjs=3
-Machine Learning Researcher (Computer Vision)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,BOEING,ì„œìš¸,https://kr.indeed.com/rc/clk?jk=5086b5e5634ebf05&fccid=edae4285faf6c2f0&vjs=3
-í´ë¼ìš°ë“œ ê¸°ìˆ ì§€ì› ì—”ï¿½ï¿½ï¿½ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,NHN Enterprise,ì„±ë‚¨ íŒêµì—­,https://kr.indeed.com/rc/clk?jk=df0bb90702bee2ac&fccid=a72ebaf825acf7af&vjs=3
-[í•œêµ­ë¬´ì—­ì •ë³´í†µì‹ ] ì‹ ì…ì§ì›(ì‚¬ì—…/ICT)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­ë¬´ì—­ì •ë³´í†µì‹ ,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=a30722efde28a292&fccid=cdea56c0104d3485&vjs=3
-[ì‹ ì…/ê²½ë ¥] ì¸í”„ë¼ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,êµ¬ë¦„,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=c016fc497739f7cc&fccid=93116efd0859e0ce&vjs=3
-ì–¸ì–´ì´í•´(NLU) ê¸°ìˆ  ì „ë¬¸ê°€ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—ìŠ¤ì¼€ì´í…”ë ˆì½¤,ì„œìš¸ ì¢…ë¡œêµ¬,https://kr.indeed.com/rc/clk?jk=4418703a69ee8e61&fccid=ce2f0f28b40a5be8&vjs=3
-êµí†µëŒ€ AIêµìœ¡ ê³ ê¸‰ê³¼ì •(ì´ë¡ &ì‹¤ì „í”„ë¡œì íŠ¸) êµìœ¡ìƒì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í•œêµ­êµí†µëŒ€í•™êµ,ì¶©ì²­ë¶ë„ ì¶©ì£¼,https://kr.indeed.com/rc/clk?jk=8cbfc3592ee95cf7&fccid=c311bda031f08d3d&vjs=3
-[í¬í‹°íˆ¬ë§ˆë£¨] ì¸ê³µì§€ëŠ¥(AI) ì±—ë´‡ì‚¬ì—…ë¶€ ì „ ì§êµ°ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í¬í‹°íˆ¬ë§ˆë£¨,ì„œìš¸ ì„œì´ˆêµ¬,https://kr.indeed.com/rc/clk?jk=a92b737cbbdf425f&fccid=b6cebf2e7d619f07&vjs=3
-[ê¸€ë¡œë²Œë””ì§€í„¸ë§ˆì¼€íŒ…] Python Backend Engineer ì •ê·œì§ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì½˜ì„¼íŠ¸ë¦­ìŠ¤ì„œë¹„ìŠ¤ì½”ë¦¬ì•„,ì„œìš¸ ìš©ì‚°êµ¬,https://kr.indeed.com/rc/clk?jk=67def202b8c35365&fccid=7789b87d5d996c4a&vjs=3
-ë”¥ì—‘ìŠ¤ NPU SDK (DXNN) ê°œë°œ ì—”ì§€ë‹ˆì–´ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ë”¥ì—‘ìŠ¤,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=8e91aa6c93de1790&fccid=e34932b8232a173b&vjs=3
-[2022 í•˜ë°˜ê¸° 2ì°¨] ì‹ ì… ê³µê°œ SW ì»¨ì„¤í„´íŠ¸ ( ê¸°ê°„ ì—°ì¥)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,íŒŒìˆ˜,ì„œìš¸ ë§ˆí¬êµ¬,https://kr.indeed.com/rc/clk?jk=8daa9b8b8d9539b7&fccid=6de9ce9e1182943d&vjs=3
-[ë„¤ì´ë²„ê³„ì—´ì‚¬][NIT Service] ë„¤ì´ë²„ íŒŒì´ë‚¸ì…œ í”Œë«í¼ ìš´ì˜ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—”ì•„ì´í‹°ì„œë¹„ìŠ¤,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=f77f9abb42c655b7&fccid=d389f1042b660837&vjs=3
-ê¸ˆìœµ AI ì—°êµ¬ ê°œë°œì ëª¨ì§‘ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—”ì”¨ì†Œí”„íŠ¸,ì„±ë‚¨ íŒêµì—­,https://kr.indeed.com/rc/clk?jk=ab1b9cb1b15802b2&fccid=a1e4e21b1f33cf40&vjs=3
-Customer Engineer  Data Analytics  Google Cloudì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,Google,ì„œìš¸,https://kr.indeed.com/rc/clk?jk=4800ed0bd1febca9&fccid=a5b4499d9e91a5c6&vjs=3
-SCMí˜ì‹  ì‹ ì…/ê²½ë ¥ ì‚¬ì› ê³µê°œì±„ìš©ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ìœ í•œí‚´ë²Œë¦¬,ì„œìš¸ ì‹ ì²œë™,https://kr.indeed.com/rc/clk?jk=c759fe51adbc3ea1&fccid=b946e043e6327409&vjs=3
-[2022ì‹ ì…ê³µì±„] AI R&D - Language AIì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,ì—”ì”¨ì†Œí”„íŠ¸,ì„±ë‚¨ íŒêµì—­,https://kr.indeed.com/rc/clk?jk=e07526c75a65756d&fccid=a1e4e21b1f33cf40&vjs=3
-ì›¹ê°œë°œì(jsp python ê°œë°œê°€ëŠ¥ì).ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í´ë¦½ë°ì´í„°,ì „ë¼ë‚¨ë„ ë‚˜ì£¼,https://kr.indeed.com/rc/clk?jk=57b40176362d119d&fccid=dd616958bd9ddc12&vjs=3
-ë¡œë´‡ ì‘ìš© SW ê°œë°œì (ì œì–´ì‹œìŠ¤í…œê°œë°œíŒ€)ì˜ ì „ì²´ ì„¸ë¶€ ì •ë³´,í´ë¡œë´‡,ì„±ë‚¨ ë¶„ë‹¹êµ¬,https://kr.indeed.com/rc/clk?jk=c511ed24e70b0457&fccid=bacbf86a93a05796&vjs=3
+¶óÀÎÇÁ·»Áî 2022³â °¢ ºÎ¹® ¼ö½ÃÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶óÀÎÇÁ·»Áî,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=1015284880e2ff62&fccid=b6f22bcb6078a2c4&vjs=3
+AI ¿µ»óÃ³¸® ¾Ë°í¸®Áò °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=d2b4fb4e11a672d9&fccid=ce2f0f28b40a5be8&vjs=3
+[Data] ºĞ¼® µ¥ÀÌÅÍ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=ebf3b3cab8333419&fccid=aea6a13a3459fdb2&vjs=3
+[Data] µ¥ÀÌÅÍ ¿£Áö´Ï¾î (ÇÃ·§Æû)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=b3e849c22a37e611&fccid=aea6a13a3459fdb2&vjs=3
+ETF¿î¿ëÆÀ (½ÅÀÔ»ç¿ø-´ë¸®±Ş)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ÅÇÑÀÚ»ê¿î¿ë,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=0a7d793321e65446&fccid=d93d518e8dbb7037&vjs=3
+Computer Vision EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=218abedd7afd1346&fccid=ce2f0f28b40a5be8&vjs=3
+ÇÑ±¹ÇÊ¸³¸ğ¸®½º 2022³â »ó¹İ±â ¼ö½ÃÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹ÇÊ¸³¸ğ¸®½º¢ß,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=44e9ac7f0f94e784&fccid=fb7e65f74b012d18&vjs=3
+[Data] µ¥ÀÌÅÍ¿ş¾îÇÏ¿ì½º ¿î¿µ ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=c689e743fca21b2f&fccid=aea6a13a3459fdb2&vjs=3
+[½Å¿ë¸®½ºÅ©¸ğµ¨¸µ] °³ÀÎ/°³ÀÎ»ç¾÷ÀÚ ½Å¿ëÆò°¡¸ğÇü °³¹ß ¹× ¿î¿µ ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=b7128e1a15428f4b&fccid=aea6a13a3459fdb2&vjs=3
+[Cloud] Kubernetes EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=6c54a16e72301957&fccid=aea6a13a3459fdb2&vjs=3
+[Cloud] Å¬¶ó¿ìµå ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=a6c35b29cdaef9f5&fccid=aea6a13a3459fdb2&vjs=3
+[11¹ø°¡] Å¬¶ó¿ìµå ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ÊÀÏ¹ø°¡,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=c097b17dad2fbf93&fccid=54911ff2dce6c429&vjs=3
+[¹«·á±³À°/¿¬°è] Å¬¶ó¿ìµå ±â¹İ ½º¸¶Æ®À¶ÇÕº¸¾È °úÁ¤ SK½¯´õ½º ·çÅ°Áî 10±âÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌ½¯´õ½º,¼­¿ï,https://kr.indeed.com/rc/clk?jk=e48494b430c1d8b3&fccid=eb364ecce5dfad88&vjs=3
+[Á¤±ÔÁ÷] 2022³â ¼ÒÇÁÆ®¿ş¾î ¿¬±¸°³¹ß ½ÅÀÔ/°æ·Â »ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ºÄ«ÀÌ½Ã½º,¿ï»ê ºÏ±¸,https://kr.indeed.com/rc/clk?jk=9f50e72b1130520d&fccid=c182093a93404981&vjs=3
+Àü³² ICTÀÌ³ëº£ÀÌ¼Ç½ºÄù¾î ÀÎ°øÁö´É ±³À°»ı (7±â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Á¤º¸±â¼ú¼­ºñ½º»ê¾÷ÇùÈ¸,¼­¿ï,https://kr.indeed.com/rc/clk?jk=89babd6062cd969e&fccid=21e7cb4036a655e0&vjs=3
+[Å¬¶ó¿ìµå½Ã½ºÅÛ¿£Áö´Ï¾î¸µ] ½Ã½ºÅÛ ¿£Áö´Ï¾î ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À¿£ÅÍÇÁ¶óÀÌÁî,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=64cf858fd8d27c42&fccid=e19aa33fc391b310&vjs=3
+[FrontEnd] À¥¼­ºñ½º ÇÁ·ĞÆ®¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=48641f82ffd3fd2c&fccid=aea6a13a3459fdb2&vjs=3
+[µ¥ÀÌÅÍ/¸¶ÄÉÆÃ/IT°³¹ß] ÀÏ¹İÁ÷(°æ·Â) »ó½ÃÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Æò°¡µ¥ÀÌÅÍ,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=15c7509b65eaa6e6&fccid=7936dc2e7d11e91f&vjs=3
+ÆÄÀÌ½ã ¹é¿£µå °³¹ßÀÚ (Python Backend Engineer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÈŞ·¹ÀÌÆ÷ÁöÆ¼ºê,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=730d15c6dd640481&fccid=9f7671105b7ffbe3&vjs=3
+Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=ca7437c7ff4d619b&fccid=e8cc3946292de49a&vjs=3
+[SRE] ¿ÀÇÂ¼Ò½º ¼­ºñ½º ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=61421993b3329d45&fccid=aea6a13a3459fdb2&vjs=3
+AI ¿µ»óÃ³¸® Serving ½Ã½ºÅÛ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=11deb018d1164440&fccid=ce2f0f28b40a5be8&vjs=3
+¼Ö·ç¼Ç ±â¹İ ÇÁ·Î±×·¡¸Ó(java  c#  python)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼Öºê¸®µåÇÃ·¯½º,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=25dfbc8203b21947&fccid=5d8bbb5b9944cc27&vjs=3
+NAVER  LINE ¼­ºñ½º ÇÃ·§Æû ¿î¿µÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾ÆÀÌÆ¼¼­ºñ½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=ce842726ea136440&fccid=d389f1042b660837&vjs=3
+[½ÅÀÔ] À§´ëÇÑ Rookies 5±â (Python/Backend Developer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=215ee623b7478042&fccid=e8cc3946292de49a&vjs=3
+¾÷°è ÃÖ°í ´ë¿ì·Î ÆÄÀÌ½ã(Python) °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Äõµå¸¶ÀÌ³Ê,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=42a26d7138ea5864&fccid=4689e54333c19a95&vjs=3
+[R&D] µö·¯´× ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=abf7474c591f3f7f&fccid=aea6a13a3459fdb2&vjs=3
+Backend Developer (Python/Senior/6³âÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=fc654a7e06cbf028&fccid=e8cc3946292de49a&vjs=3
+Àü¹®¿¬±¸¿ä¿ø (º´¿ªÆ¯·Ê) ¼ö½Ã (AI / HW ºĞ¾ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=78e99625e5de3c95&fccid=e34932b8232a173b&vjs=3
+2022³â ICTÀÌ³ëº£ÀÌ¼Ç½ºÄù¾î»ç¾÷ ÀÎ°øÁö´É Áö½Ä°ú ±âÃÊ °úÁ¤ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Àç´Ü¹ıÀÎ ÇÑ±¹¿¡ÀÌ¾ÆÀÌºí·ÏÃ¼ÀÎÀ¶ÇÕ¿ø,°æ»ó³²µµ,https://kr.indeed.com/rc/clk?jk=45041ab8e1a55368&fccid=f05769bef089cf29&vjs=3
+GIS Engineer Offshore (KR) RWE Renewables KoreaÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,RWE Renewables Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2742a2a8f661467c&fccid=169d4d0de76b0575&vjs=3
+(ÁÖ)³×¿ÀÀ§µå³İ º´¿ªÆ¯·Ê(º¸Ãæ¿ª) ¼ÒÇÁÆ®¿ş¾î °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³×¿ÀÀ§µå³İ,¼º³² ¼öÁ¤±¸,https://kr.indeed.com/rc/clk?jk=5e52b53f6be0ac62&fccid=1e52e50673979f4e&vjs=3
+°ÔÀÓ µ¥ÀÌÅÍ ¼­ºñ½º/ÇÃ·§Æû °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHN,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=028f37ec9f6509a9&fccid=a72ebaf825acf7af&vjs=3
+[11¹ø°¡] ¸®Å×ÀÏ 11¹ø°¡ »óÇ° Selection AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ÊÀÏ¹ø°¡,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=415de8ea86f88c36&fccid=54911ff2dce6c429&vjs=3
+HPC Engineer (Team Lead)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Altair Engineering,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=afd18c1d3e06b7d6&fccid=3453268f43beb582&vjs=3
+Software Developer for MBUX Navigation Online ServicesÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Mercedes-Benz Korea Limited,¼­¿ï,https://kr.indeed.com/rc/clk?jk=703729b8f457fc42&fccid=b25343f021fb51d7&vjs=3
+°³¹ßÀÚ(PHP/Python/My SQL µî)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆêÀÌÁö,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=e2a0a47c157e5c65&fccid=156bb0350f6796cc&vjs=3
+Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=f542fd8d59d1ee01&fccid=e8cc3946292de49a&vjs=3
+Vision AI Àü¹®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=0ae330e9e800f9a6&fccid=ce2f0f28b40a5be8&vjs=3
+ÀÀ¿ë¼ÒÇÁÆ®¿ş¾î[ÀÎ°øÁö´É(AI)  Python µî] ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Äí³ë¼ÒÇÁÆ®,¼­¿ï ¼ººÏ±¸,https://kr.indeed.com/rc/clk?jk=2bc8b58abe63d404&fccid=f2fc7b11fc1dd68f&vjs=3
+ÀÚÀ² ÁÖÇà  ·Îº¿ SW °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡¹Ù,¼º³² ¼öÁ¤±¸,https://kr.indeed.com/rc/clk?jk=e30fe92d72ceb17c&fccid=5cc87f5890bd7170&vjs=3
+[±×·Î½º¸¶ÄÉÆÃ] ±×·Î½º¸¶ÄÉÆÃ ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=da34d167eab33f11&fccid=aea6a13a3459fdb2&vjs=3
+[ÇÑ±¹Àü±â¾ÈÀü°ø»ç] 2022³â ÇÏ¹İ±â °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Àü±â¾ÈÀü°ø»ç,Àü¶óºÏµµ ¿ÏÁÖ,https://kr.indeed.com/rc/clk?jk=1e81440aa0ed276a&fccid=ba35eb7d48548b2d&vjs=3
+Python ±â¹İ ºòµ¥ÀÌÅÍ Ã³¸® °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µå¸²¾î½ºÄÄÆÛ´Ï,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=d364360d1e0368e3&fccid=d5dc18a57ad82f07&vjs=3
+ÀÎ°øÁö´É(µö·¯´×) ·Îº¿ ÀÚµ¿È­ ¼ÒÇÁÆ®¿ş¾î °³¹ßÀÚ(Python¿ì´ë)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÁÖ½ÄÈ¸»ç ÅäÆ® °ü½É±â¾÷,¼­¿ï ¼º¼öµ¿1°¡,https://kr.indeed.com/rc/clk?jk=058e9510f9548e49&fccid=bc605d141ca9f67d&vjs=3
+[NAVER Cloud] ½Ã½ºÅÛ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³×ÀÌ¹öÅ¬¶ó¿ìµå,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=75dc525f15f4c03a&fccid=54815931228b42c0&vjs=3
+Machine Learning Researcher (Computer Vision)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,BOEING,¼­¿ï,https://kr.indeed.com/rc/clk?jk=5086b5e5634ebf05&fccid=edae4285faf6c2f0&vjs=3
+[¿Ü±¹°è ½ºÅ¸Æ®¾÷ ¹Ì¼Ò] Business Analyst Intern (Á¤±ÔÁ÷ ÀüÈ¯Çü)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¯ÇÑÈ¸»ç ¹Ì¼Ò,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4c25d6649f8434a8&fccid=02936474a8d39137&vjs=3
+[TmaxGroup/OS] OS ¿¬±¸¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ¼¸Æ½º¼ÒÇÁÆ®,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=dae7e47c7da3ecc7&fccid=445576e2a7ced0d6&vjs=3
+Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GE Healthcare,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=13b675c6f73ff110&fccid=65b5f2aba4dbd31f&vjs=3
+¾ğ¾îÀÌÇØ(NLU) ±â¼ú Àü¹®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=4418703a69ee8e61&fccid=ce2f0f28b40a5be8&vjs=3
+Å¬¶ó¿ìµå ±â¼úÁö¿ø ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHN Enterprise,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=df0bb90702bee2ac&fccid=a72ebaf825acf7af&vjs=3
+UX ResearcherÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=23dba89edb8a10d9&fccid=e90e80bc9ed9a53f&vjs=3
+AI ¸ğºô¸®Æ¼ ¼­ºñ½ºÀÇ ¹Ì·¡ ÇÔ²² ¿­¾î°¥ ¿ì¼öÇÑ ÀÎÀç Ã£½À´Ï´Ù.ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶ó¿Â·Îµå,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=5133adebeb209d23&fccid=3f9a516642f6114a&vjs=3
+ÀÚ»ê¿î¿ëÆÀ Àü·«/¸®½ºÅ©ÆÀ ÄöÆ®(°Ü¿ï¹æÇĞ ÀÎÅÏ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶ÀÌÆÛ½ºÆ®¿¡¼ÂÀÚ»ê¿î¿ë,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=872035f47cfd4850&fccid=e26f0428e52f0752&vjs=3
+[Data] ¹é¿£µå ¼ÒÇÁÆ®¿ş¾î ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=5ba1b26ae11c7184&fccid=aea6a13a3459fdb2&vjs=3
+[2022 ÇÏ¹İ±â 2Â÷] ½ÅÀÔ °ø°³ SW ÄÁ¼³ÅÏÆ® ( ±â°£ ¿¬Àå)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄ¼ö,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=8daa9b8b8d9539b7&fccid=6de9ce9e1182943d&vjs=3
+[±Û·Î¹úµğÁöÅĞ¸¶ÄÉÆÃ] Python Backend Engineer Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÜ¼¾Æ®¸¯½º¼­ºñ½ºÄÚ¸®¾Æ,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=67def202b8c35365&fccid=7789b87d5d996c4a&vjs=3
+[ÇÑ±¹¹«¿ªÁ¤º¸Åë½Å] ½ÅÀÔÁ÷¿ø(»ç¾÷/ICT)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹¹«¿ªÁ¤º¸Åë½Å,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=a30722efde28a292&fccid=cdea56c0104d3485&vjs=3
+[TmaxGroup/AI] NLP/À½¼º AI¸ğµ¨ ¿¬±¸¿ø(*Àü¹®¿¬±¸¿ä¿ø º´¿ªÆ¯·ÊÆ÷ÇÔ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ¼¸Æ½º¼ÒÇÁÆ®,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=31cc544a6b2c7219&fccid=445576e2a7ced0d6&vjs=3
+[Æ÷Æ¼Åõ¸¶·ç] ÀÎ°øÁö´É(AI) Ãªº¿»ç¾÷ºÎ Àü Á÷±ºÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ÷Æ¼Åõ¸¶·ç,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=a92b737cbbdf425f&fccid=b6cebf2e7d619f07&vjs=3
+À¥°³¹ßÀÚ(jsp python °³¹ß°¡´ÉÀÚ).ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å¬¸³µ¥ÀÌÅÍ,Àü¶ó³²µµ ³ªÁÖ,https://kr.indeed.com/rc/clk?jk=57b40176362d119d&fccid=dd616958bd9ddc12&vjs=3
+2022³â »ó¹İ±â ÁÖ½ÄÈ¸»ç ½î¸¶ Àü °³¹ß Á÷±º (¹é¿£µå  ÇÁ·ĞÆ®¿£µå ¿Ü ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½î¸¶,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=13ef6f86810c0843&fccid=a3463f311ce6421e&vjs=3
+Customer Engineer  Data Analytics  Google CloudÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4800ed0bd1febca9&fccid=a5b4499d9e91a5c6&vjs=3
+English Data Linguist for AI StartupÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,MIND AI INC,¼­¿ï Áß±¸,https://kr.indeed.com/company/JNP-LAB/jobs/English-Data-Linguist-Ai-Startup-6838a87dfaacc92f?fccid=5cde252d550394d2&vjs=3
+Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿©±â¾î¶§ÄÄÆÛ´Ï,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b6c931991ba43c18&fccid=f37025d91bdbf80c&vjs=3
+SCMÇõ½Å ½ÅÀÔ/°æ·Â »ç¿ø °ø°³Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¯ÇÑÅ´¹ú¸®,¼­¿ï ½ÅÃµµ¿,https://kr.indeed.com/rc/clk?jk=c759fe51adbc3ea1&fccid=b946e043e6327409&vjs=3
+¿¬±¸¼Ò R&D ÀÎÇÁ¶ó ¿î¿µÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾È·¦,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=5fe21ceab5a3ce0b&fccid=0b88b2af6686dd2b&vjs=3
+Å¬¶ó¿ìµå ¿î¿µ ºÎ¹® °æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ë¿ÀÅä¿¡¹ö,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b323ce030e5411cf&fccid=d5a22a3e93377742&vjs=3
+[µ¿±¹½Ã½ºÅÛÁî] ¼Ö·ç¼Ç °³¹ßÀÚ (°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¿±¹½Ã½ºÅÛÁî,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=7e3d16bca6b8cc4a&fccid=e7dfb0571348fb75&vjs=3
+Search Data Platform Engineer ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿ÀÆäÀÌ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=4024219bbfb23e5e&fccid=c3aa6121be03065c&vjs=3
+µö¿¢½º NPU SDK (DXNN) °³¹ß ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=8e91aa6c93de1790&fccid=e34932b8232a173b&vjs=3
+[NICEÆäÀÌ¸ÕÃ÷] 22³â ½ÅÀÔ/°æ·Â »ó½ÃÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³ªÀÌ½ºÆäÀÌ¸ÕÃ÷,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=a07969e108fd0445&fccid=6df96dee14918ee8&vjs=3
+[ÀÎÅÚ¸®Àü½º·¦½º] UX Researcher / UXºĞ¼®°¡ (°æÇè Àü·« ±âÈ¹)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Nexon,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=99335196bbc73520&fccid=aba87288e4cc3687&vjs=3
+Å¬¶ó¿ìµå ÇÃ·§Æû ¿î¿µ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHN Enterprise,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=40e20a58af1e44ee&fccid=a72ebaf825acf7af&vjs=3
+±İÀ¶ AI ¿¬±¸ °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=ab1b9cb1b15802b2&fccid=a1e4e21b1f33cf40&vjs=3
+[2022½ÅÀÔ°øÃ¤] AI R&D - Language AIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=e07526c75a65756d&fccid=a1e4e21b1f33cf40&vjs=3
+[½ÅÀÔ/°æ·Â] ÀÎÇÁ¶ó ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸¸§,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=c016fc497739f7cc&fccid=93116efd0859e0ce&vjs=3
+JAVA  Python  R  C  C++ ¿Ü ½ÅÀÔ/°æ·Â °³¹ßÀÚ Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÌÁö¼­Æ¼,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=1534f657f0bb8377&fccid=cee7c8dc36140efd&vjs=3
+Customer Engineer  Gaming  Google CloudÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,¼­¿ï,https://kr.indeed.com/rc/clk?jk=bd007e22541bf6fb&fccid=a5b4499d9e91a5c6&vjs=3
+[³×ÀÌ¹ö°è¿­»ç][NIT Service] ³×ÀÌ¹ö ÆÄÀÌ³½¼È ÇÃ·§Æû ¿î¿µÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾ÆÀÌÆ¼¼­ºñ½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=f77f9abb42c655b7&fccid=d389f1042b660837&vjs=3
+·ÎÄ¿½º TD / pipeLine TDÆÀ ¾È³»ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·ÎÄ¿½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=2320ad829034dfc1&fccid=d75ece8e918377c4&vjs=3
+[°æ·Â] ÄÄÇ»ÅÍºñÀü µö·¯´×/AI R&D ¿£Áö´Ï¾î (¼®»çÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸¸§,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=fd266b99ab9cb196&fccid=93116efd0859e0ce&vjs=3
+AI/ºòµ¥ÀÌÅÍ µ¥ÀÌÅÍºĞ¼®(¼® ¹Ú»ç) (¾çÀç¿ª)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½Ã´Ï¾î¾ØÆÄÆ®³ÊÁî,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=a2c96d1b99630c56&fccid=59060ddcdf96b101&vjs=3
+[¼±Çà±â¼ú¿ø] Quantum Information - ¾çÀÚ ¾Ë°í¸®Áò[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=95bead20034b3ade&fccid=980d6ecc399a3373&vjs=3
+±³Åë´ë AI±³À° °í±Ş°úÁ¤(ÀÌ·Ğ&½ÇÀüÇÁ·ÎÁ§Æ®) ±³À°»ıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹±³Åë´ëÇĞ±³,ÃæÃ»ºÏµµ ÃæÁÖ,https://kr.indeed.com/rc/clk?jk=8cbfc3592ee95cf7&fccid=c311bda031f08d3d&vjs=3
+·Îº¿ ÀÀ¿ë SW °³¹ßÀÚ (·Îº¿ÀÀ¿ë°³¹ßÆÀ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å¬·Îº¿,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=35dd5756954743a0&fccid=bacbf86a93a05796&vjs=3
+°³¹ßÀÚ ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌÅõ½Ã½ºÅÛÁî,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=ec87475baedbb7b7&fccid=c6a7ea6cccd398b3&vjs=3
+[2022½ÅÀÔ°øÃ¤] AI R&D - Applied AI ResearchÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=7c4853e464b971a3&fccid=a1e4e21b1f33cf40&vjs=3
+[±Û·Î¹úAI]ÀÎ°øÁö´É(AI) EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÄÚ¸®¾Æ ÇÁ·ÎÆä¼Å³Î,¼­¿ï,https://kr.indeed.com/rc/clk?jk=a54daac26d2a702c&fccid=842365965c1f45a0&vjs=3
+Python°³¹ßÀÚ (¿¬±¸ »ó¿ëÈ­)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´º·ÎÇÍ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=8085becba7435787&fccid=23cbc8f59060f439&vjs=3
+¹Ì·¡ ÀÎÀç DB[½ÅÀÔ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=48887cfdd68e6335&fccid=980d6ecc399a3373&vjs=3
+Node.js  Python±â¹İ »ç³» ½Ã½ºÅÛ ÇÁ·Î±×·¥ °³¹ßÀÚ °æ·Â 2³â ÀÌ»óÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ®·»µåÇåÅÍ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=5aa466f05684c38a&fccid=98111c750b99afdc&vjs=3
+ITÄÁ¼³ÅÏÆ®(ISP/BPR) ¹× ºòµ¥ÀÌÅÍ/AIºĞ¼® ÄÁ¼³ÅÏÆ® (½ÅÀÔ/°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¥ÀÌÅÍÆ®¸®,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=aeea4b6626d3ca66&fccid=d65fb665767a3899&vjs=3
+·Îº¿ ÀÀ¿ë SW °³¹ßÀÚ (Á¦¾î½Ã½ºÅÛ°³¹ßÆÀ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å¬·Îº¿,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=c511ed24e70b0457&fccid=bacbf86a93a05796&vjs=3
+Search DeveloperÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=678408614d1d8b9a&fccid=e8cc3946292de49a&vjs=3
+[Àü¾×±¹ºñÁö¿ø/Ãë¾÷¿¬°è] ÀÚ¹ÙÇÁ·¹ÀÓ¿öÅ© °³¹ßÀÚ ¾ç¼º°úÁ¤ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹»ê¾÷±â¼úÇùÈ¸,¼­¿ï,https://kr.indeed.com/rc/clk?jk=c1907a973b205292&fccid=5a55c77140927a52&vjs=3
+¶ó¿ÂÇÇÇÃ(ÁÖ) ¹é¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶ó¿ÂÇÇÇÃ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=df7d0f98d849d03f&fccid=d2705fe6ff17ca10&vjs=3
+ÃßÃµ ½Ã½ºÅÛ ¿¬±¸/°³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=be6c1f03fa566f8e&fccid=32b9af632cf3b9f9&vjs=3
+Data Engineer ¹× ºĞ¼®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑµ¶¾àÇ°,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=cb7818ab123a8137&fccid=54ca6f8359d6e548&vjs=3
+ÆÄÀÌ½ã °³¹ßÀÚ ÃÊÁß±Ş ÀÌ»óÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¥ÀÌÅÍ¾Ø¼Ö·ç¼Ç,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=d158e683dc0b7500&fccid=02f32b94107c54e3&vjs=3
+[ÀÎÅÚ¸®Àü½º·¦½º] UX Researcher/UX ºĞ¼®°¡ (°ÔÀÓ °æÇè ºĞ¼®)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Nexon,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=e8fce3735d546f38&fccid=aba87288e4cc3687&vjs=3
+Game AI Engineer ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=992f6084674b4b9e&fccid=a1e4e21b1f33cf40&vjs=3
+2022 Ä«Ä«¿À Ã¤¿ë¿¬°èÇü °Ü¿ï Tech ÀÎÅÏ½Ê - ±¤°íÃßÃµÆÀ Machine LearningÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=3b888e0c261ca5ad&fccid=32b9af632cf3b9f9&vjs=3
+±â¼úÀ¯´Ö ÇÁ·Î±×·¡¹Ö ÀüºÎ¹®(Åø/¿£Áø/·»´õ¸µ/¼­¹ö/Å¬¶óÀÌ¾ğÆ®)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£ÇÈ¼¿,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=fabee4aa43f76cab&fccid=aa65678902dad7f6&vjs=3
+³×ÀÌ¹ö ÆÄÀÌ³½¼È ÇÃ·§Æû ¿î¿µÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NIT Service,¼º³² ¼­Çöµ¿,https://kr.indeed.com/rc/clk?jk=807cfa585cf72eec&fccid=f85375bceacb7147&vjs=3
+¾ÖÇÃ¸®ÄÉÀÌ¼Ç °³¹ßÀÚ&ÄÁ¼³ÅÏÆ® Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µğÁöÆ÷¸Ó½Î½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=f8bfec7bfbdffd0a&fccid=20b90fd47dc8bed1&vjs=3
+º¸¾È °Ë¼ö/ºĞ¼® ´ã´çÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³İ¸¶ºí,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=7202a4c549df9ccf&fccid=e696d83fde5c0f20&vjs=3
+¶ó¿ÂÇÇÇÃ(ÁÖ) AI ºñÀü µö·¯´× °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶ó¿ÂÇÇÇÃ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=84a7b552171edde4&fccid=d2705fe6ff17ca10&vjs=3
+Machine Learning Engineer Intern - KoreaÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,MOLOCO,¼­¿ï,https://kr.indeed.com/rc/clk?jk=69d3cc2cca262747&fccid=27317bcae2b26fe5&vjs=3
+[KR] Solutions Engineer  TikTok AdsÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ½Åå,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=4a404f72f03a4534&fccid=2a373460c7131d87&vjs=3
+[2022 Àü¹®¿¬±¸¿ä¿ø] AI R&D ? Applied AIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=c84864913fef0259&fccid=a1e4e21b1f33cf40&vjs=3
+AI/ºí·ÏÃ¼ÀÎ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ÃÅ¥¾î¸µÅ©,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=defa6d34b48da188&fccid=898f0e9d97b2bff6&vjs=3
+[2022 Àü¹®¿¬±¸¿ä¿ø] AI R&D - Language AIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=192c20f6f0f64ab3&fccid=a1e4e21b1f33cf40&vjs=3
+Explainable AI ¿¬±¸ °³¹ß ½ÅÀÔ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CJ¿Ã¸®ºê³×Æ®¿÷½º,¼º³² ¼­Çöµ¿,https://kr.indeed.com/rc/clk?jk=f94102acc758f433&fccid=f9d7b79c30512a85&vjs=3
+ÇÑ±¹Çàµ¿°úÇĞ¿¬±¸¼Ò °¢ ºÎ¹® ¼ö½ÃÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Çàµ¿°úÇĞ¿¬±¸¼Ò,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=287a2f9783758916&fccid=bfea989faf5bd4e4&vjs=3
+Systems Engineer - Korea (1 year Contract)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Fortinet,¼­¿ï,https://kr.indeed.com/rc/clk?jk=fe328d4d65e78fd6&fccid=28d99c55a9ebe7b6&vjs=3
+Developer / Designer recruitÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶ÀÌ¹ÂÁ÷Å×ÀÌ½ºÆ®,¼­¿ï ³íÇöµ¿,https://kr.indeed.com/rc/clk?jk=55a19c92c845685e&fccid=74d05cee5b52f133&vjs=3
+[2022½ÅÀÔ°øÃ¤] Programming - °ÔÀÓ °³¹ß(½Å±Ô IP)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=b5b3eee3a02896e7&fccid=a1e4e21b1f33cf40&vjs=3
+Quantitative Research InternÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,WorldQuant,¼­¿ï,https://kr.indeed.com/rc/clk?jk=679e7e7466c71a3e&fccid=08487f979320ebae&vjs=3
+DNN ¸ğµ¨ °³¹ß ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=303d8c644a5f2e0f&fccid=e34932b8232a173b&vjs=3
+Backend °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºä³ëÄÚ¸®¾Æ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=ca5d6b492c194378&fccid=282d63dcd74d554d&vjs=3
+Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Boston Consulting Group,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ccd4f5407a32ba6a&fccid=b95f9eb47968fa13&vjs=3
+[½ÅÀÔ È¯¿µ] °°ÀÌ ¹è¿ö³ª°¥ °³¹ßÀÚºĞÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µğ¿¥½Ã½ºÅÛ,¼º³² Áß¿ø±¸,https://kr.indeed.com/rc/clk?jk=4810222a6a2dd8cd&fccid=00c0703f222e3419&vjs=3
+[Àü¾× ±¹ºñÁö¿ø] Á÷¹«Ã¼Çè ±³À° ºòµ¥ÀÌÅÍ  ÀÎ°øÁö´ÉÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Áß¾ÓÁ¤º¸Ã³¸®ÇĞ¿ø,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=07f25f87760763cd&fccid=2f25bb139639ef63&vjs=3
+ÀÇ·á ÀÎ°øÁö´É ½Ã½ºÅÛ ¼ÒÇÁÆ®¿ş¾î °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸ŞµğÄ®ÆÄÅ©,°æ±âµµ,https://kr.indeed.com/rc/clk?jk=e7850bb8f1292d20&fccid=36ce32f47ae2a6f5&vjs=3
+[Àü»ç¸®½ºÅ©°ü¸®] ALM ¸®½ºÅ© °ü¸®¾÷¹« ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=ee165f54b4e4588a&fccid=aea6a13a3459fdb2&vjs=3
+2022³â »ó¹İ±â ¹é¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹İ´Ş¼ÒÇÁÆ®,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=1601f1bfe3302af5&fccid=f35f7fc5e918087a&vjs=3
+[Security] º¸¾È µ¥ÀÌÅÍ ºĞ¼®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=1a8a08df4cb528b5&fccid=aea6a13a3459fdb2&vjs=3
+Á¦¾î ¿£Áö´Ï¾î ½ÅÀÔ (Àü¹®¿¬±¸¿ä¿ø)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÁÆ®·Ñ¿÷½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=52d2738148117f1f&fccid=b9a4c1a753f43642&vjs=3
+[Àü¹®¿¬±¸¿ä¿ø] ÀÇ·á¿µ»ó ¸®¼­Ä¡ ¿£Áö´Ï¾î Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸ŞµğÇÈ¼¿,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=3544467a7b64376f&fccid=aba88c202493b8a5&vjs=3
+ÆÑÅä¸® ÀÌ³ëº£ÀÌ¼Ç[°æ·Â]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=0c95aa0f196e41f3&fccid=980d6ecc399a3373&vjs=3
+(ÁÖ)¾Ø¾¾¾Ø ADAS SW Platform ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾Ø¾¾¾Ø,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=46f7b40c416a209f&fccid=e0ebb3045283ebe8&vjs=3
+Technical Solutions Engineer  Wear OSÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸±ÛÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=9e20530da3946f7b&fccid=28712efe9a7c8d8a&vjs=3
+¿µ»óÃ³¸®  ÄÄÇ»ÅÍ ºñÀü Àü¹®°¡ (½ÅÀÔ/°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡¹Ù,¼º³² ¼öÁ¤±¸,https://kr.indeed.com/rc/clk?jk=2642a83874ea6bab&fccid=5cc87f5890bd7170&vjs=3
+AI ºĞ¾ß °æ·ÂÁ÷ Ãß°¡ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SK¿¡ÄÚÇÃ·£Æ®,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=a97c64d23628727b&fccid=f54fcd41cb25beae&vjs=3
+[KR] Solutions Engineer  TikTok AdsÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,TikTok,¼­¿ï,https://kr.indeed.com/rc/clk?jk=e859aef236922ced&fccid=caed318a9335aac0&vjs=3
+NAVER  LINE ¼­ºñ½º ÇÃ·§Æû ¿î¿µÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NIT Service,¼º³² ¼­Çöµ¿,https://kr.indeed.com/rc/clk?jk=43ec164e5e5935af&fccid=f85375bceacb7147&vjs=3
+Technical Support EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,MiR,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=8102b1b6fe8f9a44&fccid=fc5c650704eef98c&vjs=3
+Python ºĞ¼® ÀÎ¿ø Á¤±ÔÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,(ÁÖ)½º¸¶Æ®¸ğºô·¯Æ¼ °ü½É±â¾÷,¼­¿ï ÈÖ°æµ¿,https://kr.indeed.com/rc/clk?jk=5e761f105a377ae8&fccid=307824036b9dcb17&vjs=3
+NLP Research ºĞ¾ß ¼ö½Ã ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=00436aad4754be0b&fccid=a1e4e21b1f33cf40&vjs=3
+ÀÀ¿ëÇÁ·Î±×·¥°³¹ß ÀÎ°øÁö´É(AI) ¸Ó½Å·¯´× Python TensorFlowÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,(ÁÖ)¿¡ÀÌ¾ÆÀÌ½Ã½ºÅÛÁî °ü½É±â¾÷,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=eb926fc0cbbd16d1&fccid=d00257bfae22eecd&vjs=3
+[¼±Çà±â¼ú¿ø] Virtual°ËÁõ _ °ËÁõ/ÇØ¼®[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=0d571c647c477c68&fccid=980d6ecc399a3373&vjs=3
+Ultrasound EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens Healthineers,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=ced4f8d3f5940f05&fccid=c5679bf29a1db253&vjs=3
+Backend °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÄ«µå Ä³ÇÇÅ»,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=8cfd75acb1c8da0b&fccid=fcc6d6b229369ff5&vjs=3
+BRAIN ResearcherÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,WorldQuant,¼­¿ï,https://kr.indeed.com/rc/clk?jk=50e7a621a3a990d2&fccid=08487f979320ebae&vjs=3
+À§½ÃÄÏ°ú ÇÔ²²ÇÒ ¼­¹ö°³¹ßÀÚ´ÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§½ÃÄÏ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=a3a65a4d59061430&fccid=533c91503ff32d48&vjs=3
+[·Î¹Î] ¹é¿£µå(Back-end) °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·Î¹Î,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=0c562829bc5f8209&fccid=0d0806ee63249f1f&vjs=3
+[IT] Data Scientist - ÀÚ¿¬¾îÃ³¸®[¸Å´ÏÀú]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=cf99a4662ad1c936&fccid=980d6ecc399a3373&vjs=3
+[Çö´ë¹«º¤½º] °æ·Â»ç¿ø »ó½ÃÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ë¹«º¤½º,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=835324335bc1c7da&fccid=2e754711a96724c8&vjs=3
+'22³â 4ºĞ±â ÇÑÈ­¿¡¾î·Î½ºÆäÀÌ½º ÆÇ±³ R&D ¼¾ÅÍ ÇÁ·ÎÁ§Æ®°è¾àÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­±×·ì,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4710a856ba3b5e05&fccid=bd0dc1817223394f&vjs=3
+[DKI] AI¿¬±¸¼Ò °³¹ßÀÚ/PMÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µğÄÉÀÌ¾ÆÀÌÅ×Å©³î·ÎÁö,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=2133fae2a86fe2e9&fccid=2dc526f720c4dffd&vjs=3
+¿µ»óÀÎ½Ä ¼­ºñ½º ¹× Serving °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=52f97405f10d41fa&fccid=ce2f0f28b40a5be8&vjs=3
+NPU ·±Å¸ÀÓ SW ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=35c2ac41489508c1&fccid=e34932b8232a173b&vjs=3
+Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Applied Intuition,¼­¿ï,https://kr.indeed.com/rc/clk?jk=df1bc71eb3ec0f30&fccid=00f9ae225292fb3a&vjs=3
+[À§¸ŞÇÁ¼­ºñ½º] ´ë¿ë·®Ã³¸® ¼­ºñ½º ¹é¿£µå°³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=ff2f329209fe2caa&fccid=2f8799a5ef214646&vjs=3
+À¥(¾Û) °³¹ß ¼­ºñ½º Á¦°ø °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÏ»ïÇì¸£Ã÷,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=a285b86e36953b15&fccid=dad70c78284428f0&vjs=3
+[ICT] Infra Engineering[¸Å´ÏÀú  Ã¥ÀÓ¸Å´ÏÀú]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=59eb821f231620cb&fccid=980d6ecc399a3373&vjs=3
+AI ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,MIND AI,¼­¿ï Áß±¸,https://kr.indeed.com/company/JNP-LAB/jobs/Ai-Scientist-20439d88953076f5?fccid=5cde252d550394d2&vjs=3
+[¼±Çà±â¼ú¿ø] Machine Learning[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=40e310eda5a03200&fccid=980d6ecc399a3373&vjs=3
+·ÎÄ¿½º ¾Ö´Ï¸ŞÀÌ¼Ç»ç¾÷º»ºÎ ¸®±ë ´ã´çÀÚ ¾È³»ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·ÎÄ¿½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=5fe5dc32a425fbe7&fccid=d75ece8e918377c4&vjs=3
+2022 Ä«Ä«¿À Ã¤¿ë¿¬°èÇü °Ü¿ï Tech ÀÎÅÏ½Ê - Database Platform EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=d64822637bfb6cf5&fccid=32b9af632cf3b9f9&vjs=3
+2022 Ä«Ä«¿À Ã¤¿ë¿¬°èÇü °Ü¿ï Tech ÀÎÅÏ½Ê - ÀÀ¿ëºĞ¼®ÆÀ Statistics/AnalyticsÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=b21677866ed4ef74&fccid=32b9af632cf3b9f9&vjs=3
+[Æ÷Æ¼Åõ¸¶·ç] ÀÎ°øÁö´É(AI) °³¹ßÀÚ Àü ºÎ¹®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ÷Æ¼Åõ¸¶·ç,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=22ffe020e40de675&fccid=b6cebf2e7d619f07&vjs=3
+Junior Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Logistics Management Institute,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ffcab40699b79c6b&fccid=12626f295bf6a003&vjs=3
+Infra Engineering[Ã¥ÀÓ¸Å´ÏÀú(G4)]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼­¿ï ¾çÀç¿ª,https://kr.indeed.com/rc/clk?jk=4fbc9e8cee784eb8&fccid=980d6ecc399a3373&vjs=3
+Python °³¹ß °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼Ö·ç°ÔÀÌÆ®,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=48f440f309cb72c1&fccid=7d110b0004a792cd&vjs=3
+Python ¼­¹ö ¾îÇÃ¸®ÄÉÀÌ¼Ç °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ÙÀÎÅ×Å©,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=8a7c4886df34e482&fccid=aef44811e748bebe&vjs=3
+Cloud Consultant  Application ModernizationÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸±ÛÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=cc35e5caf3a7fb3a&fccid=28712efe9a7c8d8a&vjs=3
+´Ù³¯ÇÉÅ×Å© °³¹ßº»ºÎ DB°³¹ß °æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ù³¯ÇÉÅ×Å©,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=1680547f95c462f7&fccid=64bdcac9fa6d6c0e&vjs=3
+À¥°³¹ßÀÚ ¹é¿£µå&¼­¹ö°³¹ß(HTML¡¤DHTML¡¤mHTML  JAVA ¿Ü) ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºí·Ï½ºÄù¾î¼­¿ï,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=1eeb4f006adf13ba&fccid=72348558bd9456ba&vjs=3
+Technical Art °æ·Â TA ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=f47fc5b04e8b2045&fccid=a1e4e21b1f33cf40&vjs=3
+±â¼ú ÀÎÅÏ ÀÎ°øÁö´É ÀÀ¿ë ¿¬±¸/°³¹ß ÀÎÅÏÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½á·Î¸¶ÀÎµå·Îº¸Æ½½º,¼­¿ï °ü¾Ç±¸,https://kr.indeed.com/rc/clk?jk=71c47ac87bb4087e&fccid=230e414668234579&vjs=3
+[SWÀ¶ÇÕ] ¾Ë°í¸®Áò(Á¦¾î)[½ÅÀÔ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=4f91e2efb8c6b3b5&fccid=980d6ecc399a3373&vjs=3
+Data Engineering[Ã¥ÀÓ¸Å´ÏÀú(G3)]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼­¿ï ¾çÀç¿ª,https://kr.indeed.com/rc/clk?jk=2227849edfa12196&fccid=980d6ecc399a3373&vjs=3
+Ä«Ä«¿À µ¥ÀÌÅÍÀÇ °¡Ä¡¸¦ ¹ß±¼ÇÒ µ¥ÀÌÅÍ ºĞ¼®°¡ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=2b2dcd3ffe3d53df&fccid=32b9af632cf3b9f9&vjs=3
+[2022½ÅÀÔ°øÃ¤] Programming - °ÔÀÓ ¿£Áø °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=c242e1abf1e4fa6c&fccid=a1e4e21b1f33cf40&vjs=3
+[µ¥ºê½Ã½ºÅÍÁî] DevOps Engineer (½ÅÀÔ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¥ºê½Ã½ºÅÍÁî,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3058f7280a2e6644&fccid=58a9a803698a0afd&vjs=3
+22³â ÇÏ¹İ±â º¸¾È±â¼ú¿¬±¸¼Ò °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌ½¯´õ½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=6f99b08c9bf92712&fccid=eb364ecce5dfad88&vjs=3
+Perception- Deep Learning / Image ProcessingÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌ½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=d168e30c61ada075&fccid=7c9b5852f21bdea3&vjs=3
+Business Intelligence EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=66d5443bacc04874&fccid=e8cc3946292de49a&vjs=3
+8ÆÛ¼¾Æ® °³¹ßÀÚ (½ÅÀÔ/°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,8ÆÛ¼¾Æ®,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=8af26b37623864c4&fccid=ac216a9ae7b75c06&vjs=3
+µğÁöÅĞ ¹Ìµğ¾î ¸Å´ÏÀú(ÆÛÆ÷¸Õ½º&ºê·£µù) ½ÅÀÔ/°æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½º½º½º½º,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=4d6fa0f1b9726d7c&fccid=350448f49645d244&vjs=3
+FullStack °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºä³ëÄÚ¸®¾Æ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=bf4e97a4073416ee&fccid=282d63dcd74d554d&vjs=3
+[BSS] MMORPG Å¬¶óÀÌ¾ğÆ® ÇÁ·Î±×·¡¸Ó ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=46313342e160b011&fccid=a1e4e21b1f33cf40&vjs=3
+[¸®¾óÅ¬·¡½º]½Ã´Ï¾î ¹é¿£µå °³¹ßÀÚ (Senior Backend Developer  Python)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä÷½¼,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=183fe360c2d6a47d&fccid=868600ac897032bf&vjs=3
+¾Ç¼ºÄÚµå ¹× ¿£µåÆ÷ÀÎÆ® º¸¾È ¿£Áö´Ï¾î ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=0e26e1dda4b9970b&fccid=32b9af632cf3b9f9&vjs=3
+[KSTEC] µğÁöÅĞ ¾÷¹« ÀÚµ¿È­ °³¹ßÀÚ(RPA µî) ½ÅÀÔ/°æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Áö½Ä½Ã½ºÅÛ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=41a0cd152ea26095&fccid=3061a9a0f5168def&vjs=3
+[11¹ø°¡] ±¤°í ÃßÃµ ½Ã½ºÅÛ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ÊÀÏ¹ø°¡,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=101a52710aafc927&fccid=54911ff2dce6c429&vjs=3
+Å¬¶ó¿ìµå ±â¼úÁö¿ø ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¿¡ÀÌÄ¡¿£¿£ÅÍÇÁ¶óÀÌÁî,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=328e753efc1e1d4c&fccid=c6959d0e760ece96&vjs=3
+SW °³¹ß ºÎ¹® °æ·Â»ç¿ø (10¿ù)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌÆ¼µğ¿¡½º,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=02819165c88faa24&fccid=601de6e8c2eec868&vjs=3
+Search Developer (TL/10³âÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=5e3760660f4c5035&fccid=e8cc3946292de49a&vjs=3
+AI°³¹ß ¹× °íµµÈ­  ¿¬±¸ ¾÷¹«ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÃ·ç¾ğÆ®,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=c1d56b0d49e1958c&fccid=8fd103d8370e171f&vjs=3
+Machine Learning R&D ¿¬±¸¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«ÀÌ¾î,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=19da3484bd7a72f1&fccid=908ef26c4dd7595f&vjs=3
+[2022½ÅÀÔ°øÃ¤] AI R&D - AI EngineeringÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=cbb3ccfa20a6703a&fccid=a1e4e21b1f33cf40&vjs=3
+À©µµ¿ì°³¹ß °æ·ÂÁ÷(3³âÀÌ»ó) / ÀÇ·áÀÎ°øÁö´É ¼Ö·ç¼Ç¾÷Ã¼ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¯¾î»çÀÌµå,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=a986ab036f196669&fccid=7fbfdab84162f4af&vjs=3
+MES Software Engineer ½ÅÀÔ/°æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾îÇÃ¶óÀÌµå ¸ÓÆ¼¸®¾óÁî ÄÚ¸®¾Æ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=7e1d0115d74f85a0&fccid=5ac8c65e1fc289af&vjs=3
+[µ¥ºê½Ã½ºÅÍÁî] Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¥ºê½Ã½ºÅÍÁî,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=6b53335986238646&fccid=58a9a803698a0afd&vjs=3
+Software Engineer (DBA)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,EA KOREA,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=2c5f79bcf22e79d6&fccid=9b176bc5215cc8f6&vjs=3
+ÇöÁöÈ­ ¿£Áö´Ï¾î ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=b9beb2104b9e0731&fccid=a1e4e21b1f33cf40&vjs=3
+[Ä«Ä«¿À ÄÜÅÙÃ÷] µ¥ÀÌÅÍ ¿£Áö´Ï¾î ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=1174b224bed61f3d&fccid=32b9af632cf3b9f9&vjs=3
+°³¹ßÀÚ - Python ÇÁ·Î±×·¡¹Ö°ú Java  C ¼Ò½ºÄÚµå ºĞ¼®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ÙÀÎÅ×Å©,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=4cc15c26097421c5&fccid=aef44811e748bebe&vjs=3
+[´Ü±â°è¾àÁ÷][Language AI] °Å´ë ¾ğ¾î¸ğµ¨ ÇĞ½ÀÀ» À§ÇÑ µ¥ÀÌÅÍ ±¸Ãà ¹× ÀüÃ³¸® ´ã´çÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=ec86b1736e83e478&fccid=a1e4e21b1f33cf40&vjs=3
+[Engineering Div.] Sr. Data Analyst (4³â ~ 7³â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=220759722d181d81&fccid=0aeb279b74dee723&vjs=3
+½º¸¶Æ®ÆÑÅä¸®/MES/ÀÎÇÁ¶ó[°æ·Â]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3b1fd1e7d2a42224&fccid=980d6ecc399a3373&vjs=3
+AI ¸ğµ¨ °³¹ß °æ·Â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SK¹ÙÀÌ¿ÀÆÊ,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=6b6f63de9b079ee4&fccid=feb6e8c1daac772d&vjs=3
+C# S/W °³¹ßÀÚ or Python ÀÀ¿ë S/W °³¹ß(»ç¿øÁÖÀÓ´ë¸®°úÀåÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Á¦½º¿£Áö´Ï¾î¸µ,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=37df5ae012725ae2&fccid=0f2f8141103a3f4e&vjs=3
+Solutions Architect  Data and AIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Databricks,¼­¿ï,https://kr.indeed.com/rc/clk?jk=22bbd15ea55c88c1&fccid=3d0f7ba22a49432f&vjs=3
+Autonomous Driving System EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌ½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b9f269075525de9b&fccid=7c9b5852f21bdea3&vjs=3
+[±Û·Î¹úµğÁöÅĞ¸¶ÄÉÆÃ] µğÁöÅĞ µ¥ÀÌÅÍ ºĞ¼® ¹× ¿î¿µ ´ã´çÀÚ Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÜ¼¾Æ®¸¯½º¼­ºñ½ºÄÚ¸®¾Æ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=6bf4082df7c99159&fccid=7789b87d5d996c4a&vjs=3
+[Secruity] ½Ã½ºÅÛº¸¾È ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=0de67906e6c96bd7&fccid=aea6a13a3459fdb2&vjs=3
+[Engineering Div.] Data Analyst (4³â ~ 10³â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=b8e6bbe84e0e1a87&fccid=0aeb279b74dee723&vjs=3
+Wi-Fi ¼ÒÇÁÆ®¿ş¾î ¿£Áö´Ï¾î (½ÅÀÔ/°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÇÇ´Ï¾ğÄÚ¸®¾Æ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=acf2807bdb4705cb&fccid=50debe8434cd12fc&vjs=3
+Analytics Domain LeadÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=5cb21403038b00fa&fccid=e8cc3946292de49a&vjs=3
+¸®¼­Ä¡(»çÈ¸Á¶»ç/¸¶ÄÉÆÃ/½ÃÀåÁ¶»ç) ¿¬±¸¿ø ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸®¼­Ä¡¾ØÀ¯,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=de6547a5f2894d76&fccid=7c977224f6d09f7d&vjs=3
+Data Product DeveloperÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=337214591a7c58a9&fccid=e8cc3946292de49a&vjs=3
+IT ÀÎÇÁ¶ó ¿î¿µ µµ±¸ °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHN Cloud,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=ba6a0ebb6ad9cd18&fccid=a72ebaf825acf7af&vjs=3
+[ICT] Data Engineering[¸Å´ÏÀú  Ã¥ÀÓ¸Å´ÏÀú]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=a7697f2f7d1c0c39&fccid=980d6ecc399a3373&vjs=3
+Operations ManagerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Uber,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f915c9a9f8f8a554&fccid=f766f8bfbc3effb7&vjs=3
+Associate Software Engineer  gReach Program for Veterans (º¸ÈÆ...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2d887b3032ebc835&fccid=a5b4499d9e91a5c6&vjs=3
+ºòµ¥ÀÌÅÍºĞ¼® ¼ö½Ã Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,HKÀÌ³ë¿£,¼­¿ï À»Áö·Î2°¡,https://kr.indeed.com/rc/clk?jk=cd919aed133f6b4d&fccid=b61ea2c7f6644f51&vjs=3
+µ¥ÀÌÅÍ ¼­ºñ½º/ÇÃ·§Æû °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHN,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=031eec3794f09645&fccid=a72ebaf825acf7af&vjs=3
+[Applied AI] ÀÀ¿ë AI ±â¼ú ¿¬±¸ ¹× °³¹ß ¼ö½Ã ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=8c8c0f5f2512e9a7&fccid=a1e4e21b1f33cf40&vjs=3
+ÇÃ·§ÆûÇõ½Åº»ºÎ ºòµ¥ÀÌÅÍ¼¾ÅÍ °æ·ÂÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHÅõÀÚÁõ±Ç,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=679ce4beac84389a&fccid=b449d5d42bf7e581&vjs=3
+Lighthouse ÀÎÅÏ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ïÁ¤ KPMG,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=577dd792f6217346&fccid=7651bf7c7525e8f6&vjs=3
+Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens Healthineers,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=c1f74e14a80e013a&fccid=c5679bf29a1db253&vjs=3
+NHN¾ÆÄ«µ¥¹Ì JAVA ¹é¿£µå °³¹ß°úÁ¤ ±³À°»ı 2±âÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¿¡ÀÌÄ¡¿£¾ÆÄ«µ¥¹Ì,°æ»ó³²µµ ±èÇØ,https://kr.indeed.com/rc/clk?jk=23a3c49b0b0f3341&fccid=88ef88be38ee3263&vjs=3
+Data Architect ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=507f3d4157cc97bb&fccid=32b9af632cf3b9f9&vjs=3
+GIS Analyst South KoreaÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Lightsource BP,´ëÇÑ¹Î±¹,https://kr.indeed.com/company/Lightsource-BP/jobs/GIS-Analyst-South-Korea-fbc48a4d15b2ad89?fccid=952fc0f310b49a49&vjs=3
+µ¥ÀÌÅÍºĞ¼®Àü¹®°¡/ µ¥ÀÌÅÍºĞ¼® ÇÁ·Î±×·¡¸Ó /SAS  SPASS  R   Python °¡´ÉÀÚ ¿ì´ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,PandasM&CÆÇ´Ù½º°æ¿µ,°æ»ó³²µµ ÁøÁÖ,https://kr.indeed.com/rc/clk?jk=4fc561499a664bf3&fccid=965f60b5554197d6&vjs=3
+»ı¸íÁ¤º¸ÇĞ ºÎ¹® ¹Ú»çÁ¹ ¼±ÀÓ¿¬±¸¿ø Á¤±ÔÁ÷ Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«ÀÌÆÊ,¼­¿ï ¼­´ë¹®±¸,https://kr.indeed.com/rc/clk?jk=3cd339cf8959f44d&fccid=9778b7ea9c8b85ae&vjs=3
+Associate Consultant InternÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Mastercard,¼­¿ï,https://kr.indeed.com/rc/clk?jk=acf53a07a0c4d06f&fccid=10b5c722d846df43&vjs=3
+Àü¾× ±¹ºñÁö¿ø ITÃë¾÷¿¬°è ±³À° JAVAÀ¥&¾Û  ºòµ¥ÀÌÅÍ  ÀÎ°øÁö´ÉÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Áß¾ÓÁ¤º¸Ã³¸®ÇĞ¿ø,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=e18e709e63c081ed&fccid=2f25bb139639ef63&vjs=3
+AI/Data ¿£Áö´Ï¾î °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­±×·ì,¼­¿ï,https://kr.indeed.com/rc/clk?jk=8a7409bc868fd80e&fccid=bd0dc1817223394f&vjs=3
+ÇÏ¹İ±â ½ÅÀÔ(Ã¤¿ë ¿¬°èÇü ÀÎÅÏ) ¼ö½ÃÃ¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,È¨¾Ø¼îÇÎ,¼­¿ï ¸¶°îµ¿,https://kr.indeed.com/rc/clk?jk=79fb95da6dff4025&fccid=ecf302baa35f2e54&vjs=3
+ÀÇ·á Vision ¾Ë°í¸®Áò/SW °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°í¿µÅ×Å©³î·¯Áö,¿ëÀÎ ¼öÁö±¸,https://kr.indeed.com/rc/clk?jk=b3ef11e6a0710d5b&fccid=a13dce9f83ee80a9&vjs=3
+Super Talent ÀüÈ¯Çü ÀÎÅÏ½Ê(°Ë»ö¸ğµ¨¸µ) ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,11¹ø°¡,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=c48c31c656eff83b&fccid=aba8aade58c00c02&vjs=3
+ÀÏ¹İÁ÷ °æ·ÂÁ÷¿ø ¸ğÁı[Á¤º¸º¸¾È Àü¹®°¡]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ½ºÄŞ,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=97aa1e0f915cddbf&fccid=16b4c0cc1c3845a7&vjs=3
+ºÎ¹®º° Á÷¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°æº¹´ëÇĞ±³,°æ±âµµ Æ÷Ãµ,https://kr.indeed.com/rc/clk?jk=7d02cc2c10a4ef52&fccid=36475830c3fcd0b5&vjs=3
+¸ğ¹ÙÀÏ ¿î¿µ¼­ºñ½º ºôµå/¹èÆ÷/Å×½ºÆ® ÀÚµ¿È­ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºê·Ñºê,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=8d8becaac19b958f&fccid=afec38da7bea35e0&vjs=3
+[(ÁÖ)¿¡¾îÅ°] ±â¼ú¿¬±¸¼Ò °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡¾îÅ°,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=8024c2cc7b3250f9&fccid=8d56e97f49f77789&vjs=3
+SW°³¹ßÀÚ ½ÅÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÁÆ®·Ñ¿÷½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=ebbb216954057257&fccid=b9a4c1a753f43642&vjs=3
+[Å©·¹µ÷Å¬·£] ´ëÃâ ºñÁî´Ï½º ¾î½Ã½ºÅÏÆ® ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿ÀÆäÀÌ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=20046c062a5c2a28&fccid=c3aa6121be03065c&vjs=3
+Cloud Application Engineer °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CJ¿Ã¸®ºê³×Æ®¿÷½º,¼º³² ¼­Çöµ¿,https://kr.indeed.com/rc/clk?jk=cf3b87754bf8c22f&fccid=f9d7b79c30512a85&vjs=3
+PostgreSQL Engineer ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=928d88715d8ce53a&fccid=32b9af632cf3b9f9&vjs=3
+½ÅÀÔ ¹× °æ·ÂÁ÷¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹ÀÚ»êÆò°¡,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=bc43a36fef870b9a&fccid=413114278f3d6174&vjs=3
+¾Ë°í¸®Áò/ÄÚµùÅ×½ºÆ® Á¦ÀÛÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¤¸®½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=86968a8020d2a412&fccid=b00d4b329a5fe2ac&vjs=3
+¼¿ÇÁ ÀÎÅ×¸®¾î À§ÇÑ AI ÇÃ·§Æû ¼­ºñ½º °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼­¸£,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=0a57a69a13126ff5&fccid=07eadb4558c294cb&vjs=3
+·ÎÄ¿½º VFX»ç¾÷º»ºÎ CFXÆÀ ¾È³»ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·ÎÄ¿½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=0638dec71906b103&fccid=d75ece8e918377c4&vjs=3
+¿¤¸®½º½ºÄğ Æ©ÅÍÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¤¸®½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=7ad39a59d50465bf&fccid=b00d4b329a5fe2ac&vjs=3
+[¼±Çà±â¼ú¿ø] °­È­ÇĞ½À Á¦¾î ±â¼ú[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=73f8c196ea9841a9&fccid=980d6ecc399a3373&vjs=3
+µ¥ÀÌÅÍÇÃ·§Æû/±âÁØÁ¤º¸[°æ·Â]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b9b9f10660d8f9a9&fccid=980d6ecc399a3373&vjs=3
+±İÀ¶°øÇĞ¿¬±¸¼Ò ½ÅÀÔ/°æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÃ¤±ÇÆò°¡,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=eaf27d0f05e18378&fccid=c54b7952dd9d6d70&vjs=3
+¸¶ÄÏÆ÷ÀÎÆ® °³¹ß ¹× ¿î¿µ °æ·ÂÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌÁöÁ¦·ÎÀÎ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=5806a2f6868b06a7&fccid=bfdba13fe070a19e&vjs=3
+[Áö½Ä½Ã½ºÅÛ(ÁÖ)] 3°³Á÷±ºÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼­¿ïÁö¹æÁß¼Òº¥Ã³±â¾÷Ã»,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=7208f728ae2cca25&fccid=5f7f32a0048072ce&vjs=3
+[Áö½Ä½Ã½ºÅÛ(ÁÖ)] 3°³Á÷±ºÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼­¿ïÁö¹æÁß¼Òº¥Ã³±â¾÷Ã»,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=7208f728ae2cca25&fccid=5f7f32a0048072ce&vjs=3
+[Ä«Ä«¿ÀÄ¿¸Ó½º] ±â¼úÁ÷±ºÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿ÀÄ¿¸Ó½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=2b9e604e63e7e46d&fccid=b1f5de6cae96f6c2&vjs=3
+[Data AnalyticsÆÀ] DAºĞ¼®ÄÁ¼³ÆÃ Á÷¹«ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·Ôµ¥Á¤º¸Åë½Å,¼­¿ï,https://kr.indeed.com/rc/clk?jk=02b304efa2942c61&fccid=ae6a0ecfe23adfb7&vjs=3
+[°æ·Â] µ¥ÀÌÅÍºĞ¼®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌ¾ÆÀÌ½ºÆä¶ó,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=3179951f34c8ecd5&fccid=98206cd7040cde76&vjs=3
+[PPM¼Ö·ç¼Ç Å¬·Î¹ÙÀÎ] ¿¬±¸¼Ò IT Å×Å© Á÷±º ¼±Çà¿¬±¸ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇìºìÆ®¸®,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=ea23fdac1fec9112&fccid=81880cb2b512246a&vjs=3
+½Ã½ºÅÛ°³¹ß½Ç (front-end  back-end  ÀÎ°øÁö´É°³¹ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÆ÷º¸½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=e0aade664e2448a0&fccid=26efa0b77e7105f9&vjs=3
+[µ¥ÀÌÅÍ »çÀÌ¾ğÆ¼½ºÆ®] Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³ëº§¸®½ºÄÚ¸®¾Æ,°æ»óºÏµµ ¿µÁÖ,https://kr.indeed.com/rc/clk?jk=21a7f6fbbff6c51a&fccid=a7b9d00c1d276a7d&vjs=3
+¹é¿£µå °³¹ßÀÚ [°æ·Â]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÃ·£ÀÕÇï½ºÄÉ¾î,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=9f394b5524026b45&fccid=4652773221da7b04&vjs=3
+Product Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=46234e646d2ee58d&fccid=e8cc3946292de49a&vjs=3
+[±İÀ¶º»ºÎ] µ¥ÀÌÅÍ ¿£Áö´Ï¾î (Data Engineer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±×¸°·¦½º,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=cdbba9bf9cff17e4&fccid=feeacbc1377594e2&vjs=3
+[ÅëÇÕ¿¹¾à¼Ö·ç¼Ç»ç¾÷ºÎ¹®] À¥ ¼­ºñ½º/¿î¿µ ÁÖ´Ï¾î °³¹ßÀÚ. °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌÄ¡Åõ¿ÀÈ£½ºÇÇÅ»¸®Æ¼,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=77bd7c75f9015ecf&fccid=0936a491269185eb&vjs=3
+±â¼úÁö¿ø ÀÎÅÏ&Á¤±ÔÁ÷ »ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸ğº¥½Ã½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=a630758aac9ad083&fccid=e73e872a0c2bf87f&vjs=3
+[´©¸®¾î½Ã½ºÅÛ] ±İÀ¶ SI/SM Á¤±ÔÁ÷ °³¹ßÀÚ (Java  Python)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´©¸®¾î½Ã½ºÅÛ,°æ±âµµ ÇÏ³²,https://kr.indeed.com/rc/clk?jk=8e01d12718384a31&fccid=4d0f28f116dd441c&vjs=3
+FY2022 »ó¹İ±â °æ·Â»ç¿ø Ã¤¿ë[µğÁöÅĞ¸¶ÄÉÆÃ µ¥ÀÌÅÍ ºĞ¼®]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±³º¸»ı¸í,¼­¿ï Á¾·Îµ¿,https://kr.indeed.com/rc/clk?jk=80d8a864964ae1fb&fccid=011dfac46361e4c7&vjs=3
+µ¥ÀÌÅÍ ±â¹İ ÀÇ»ç°áÁ¤ Áö¿ø ¼­ºñ½º °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=147950fbb2b36ce3&fccid=32b9af632cf3b9f9&vjs=3
+[¿Ü±¹°è»óÀå»ç]µ¥ÀÌÅÍºĞ¼®°¡(Data Analyst)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÄÚ¸®¾Æ ÇÁ·ÎÆä¼Å³Î,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=7ad982fec3792221&fccid=842365965c1f45a0&vjs=3
+Technical ConsultantÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Veeva Systems,°æ±âµµ,https://kr.indeed.com/rc/clk?jk=d1dd8d47fe59b61c&fccid=353eb997fc901045&vjs=3
+(ÁÖ)½ÃÅ¥¾ÆÀÌ °æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ÃÅ¥¾ÆÀÌ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=45ec22bbdc0c4dff&fccid=336fe9f915ae533b&vjs=3
+¹é¿£µå °³¹ßÀÚ  ¸ğ¹ÙÀÏ¾Û °³¹ßÀÚ  ºí·ÏÃ¼ÀÎ °³¹ßÀÚ °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ÍÀÌÁîÅØ,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=54761d6b1b4fd029&fccid=8b01882cef0e8002&vjs=3
+Ä«Ä«¿À ÀüÃ¼ÀÇ °èÁ¤ ÇÃ·§ÆûÀ» ¸¸µé ¼­¹ö°³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=1399ee2f387a27dd&fccid=32b9af632cf3b9f9&vjs=3
+¼ÒÇÁÆ®¿ş¾î ¿£Áö´Ï¾î (±â¼úÆÀ) ½ÅÀÔ/°æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿Ã·¦ÄÄÆÛ´Ï,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=27d5ecb4b0395016&fccid=f050745e57974faa&vjs=3
+¹é¿£µå °³¹ßÀÚ (Back-end Developer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºê·£µğ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=5b338b58f4990890&fccid=2993437959ad6c7a&vjs=3
+AWS Å¬¶ó¿ìµå¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½º¸¶Æ®µğ¾Æ±×³ë½Ã½º,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=ccd1d43784d307da&fccid=f4795b9234b4c245&vjs=3
+[µ¥ÀÌÅÍ ÇÁ·Î´öÆ®] ½ÇÇè(A/B Test) ºĞ¼®°¡ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=cdfd2d3169fac6f0&fccid=32b9af632cf3b9f9&vjs=3
+(°æ·Â) µ¥ÀÌÅÍº£ÀÌ½º °³¹ß ¹× ¾îÇÃ¸®ÄÉÀÌ¼Ç À¯Áö°ü¸® ¹× °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µğ¿¥½Ã½ºÅÛ,¼º³² Áß¿ø±¸,https://kr.indeed.com/rc/clk?jk=97c6871c68a45616&fccid=00c0703f222e3419&vjs=3
+Machine Learning EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bayview Technologies Inc.,¼­¿ï,https://kr.indeed.com/company/Bayview-Technologies-Inc./jobs/Machine-Learning-Engineer-d817970725257c48?fccid=aec836a8d6f84175&vjs=3
+[Á¤±ÔÁ÷] ÀÎ°øÁö´É ¸ğµ¨ °³¹ß - °æ·Â ¹«°üÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼¿¹Ù½º¿¡ÀÌ¾ÆÀÌ,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=bd39ce943858020a&fccid=66294770938de4a8&vjs=3
+[Ä¿¸Ó½ºCIC] µ¥ÀÌÅÍ ºĞ¼® ¿£Áö´Ï¾î ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=7cf54cae7c39d652&fccid=32b9af632cf3b9f9&vjs=3
+'22³â ÇÏ¹İ±â Çö´ë±Û·Î¹ú¼­ºñ½º °æ·Â»ç¿ø »ó½ÃÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ë±Û·Î¹ú¼­ºñ½º,ºÎ»ê,https://kr.indeed.com/rc/clk?jk=9d17892661b6b45b&fccid=2218809aa2d071ff&vjs=3
+MySQL Engineer ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=7cddf04e9d799f13&fccid=32b9af632cf3b9f9&vjs=3
+Technician3  EngineeringÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Western Digital,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b9ca85ef1235d2ca&fccid=b11a318411580b5b&vjs=3
+DB Engineer ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=9d2eee513761aded&fccid=32b9af632cf3b9f9&vjs=3
+À¥°³¹ß  ¹é¿£µå ¿Ü °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌÆ¼¿£Á¦ÀÌ,¿ï»ê ³²±¸,https://kr.indeed.com/rc/clk?jk=7dbaa95d22eacd29&fccid=e2652b7e13d4cb4d&vjs=3
+[ÀÜµğ¼ÒÇÁÆ®] °ÔÀÓ ±âÈ¹ ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÜµğ¼ÒÇÁÆ®,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=ae0404f85ccc2ddb&fccid=370651ffb8b8be7b&vjs=3
+[»÷µğ½ºÅ©ÄÚ¸®¾Æ] °¢ ºÎ¹® Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»÷µğ½ºÅ© ÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=5bacd99ebfa7493f&fccid=76178a1636f79646&vjs=3
+[ÀÎÀçÇ®] ¾ÆÆ¼½ºÆ® ARTÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Electronic Arts,¼­¿ï,https://kr.indeed.com/rc/clk?jk=aac8e9355cb855ac&fccid=617d7f961cfcf54a&vjs=3
+Data Scientist (KOREA)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,No deviation Pte Ltd,ÃæÃ»ºÏµµ Ã»ÁÖ,https://kr.indeed.com/rc/clk?jk=ea23e376c32ece8b&fccid=1685f7430879dfc6&vjs=3
+´Ù³¯ÇÉÅ×Å© °³¹ßº»ºÎ Web°³¹ß °æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ù³¯ÇÉÅ×Å©,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=18eb787e6c29d360&fccid=64bdcac9fa6d6c0e&vjs=3
+Business Intelligence Manager (9 Months Contract)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LEGO,¼­¿ï,https://kr.indeed.com/rc/clk?jk=04e97ec1161daaf7&fccid=7ffb2f076144ee5d&vjs=3
+¶óÁö ½ºÄÉÀÏ ¾ğ¾î ¸ğµ¨ ¹× ´ëÈ­ ½Ã½ºÅÛ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=d13760f4d13f379b&fccid=ce2f0f28b40a5be8&vjs=3
+[³ó½ÉENG] ½ÅÀÔ/°æ·Â»ç¿ø Á¤±âÃ¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³ó½É±×·ì,¼­¿ï ½Å´ë¹æµ¿,https://kr.indeed.com/rc/clk?jk=1d0e51e2e431995b&fccid=cffda28c19f00d2c&vjs=3
+Ä«Ä«¿À Àü»çQA ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=9d0aa83c1e8f086e&fccid=32b9af632cf3b9f9&vjs=3
+Application Engineer IIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ansys,¼­¿ï,https://kr.indeed.com/rc/clk?jk=e20ff7bd1c6ff6dd&fccid=95f8f553c04ed01c&vjs=3
+¸ğ¹ÙÀÏ °³¹ßÀÚ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,YTN,¼­¿ï »ó¾Ïµ¿,https://kr.indeed.com/rc/clk?jk=f3ff5ca7221c259b&fccid=7bdcc5f7f551a351&vjs=3
+MLOps ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µô¸®¼Å½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b464b7896f72e44f&fccid=a1fabc09b765fc47&vjs=3
+Backend Developer (Python/Junior/2-5³â ÀÌÇÏ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=e342dd1c869e7a92&fccid=e8cc3946292de49a&vjs=3
+½Ã½ºÅÛº¸¾È ´ã´çÀÚ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌ¹ğÅ©ÀºÇà,¼­¿ï ÁßÇĞµ¿,https://kr.indeed.com/rc/clk?jk=e85487d0d81b009b&fccid=5c3222a7b96c49cc&vjs=3
+ºòµ¥ÀÌÅÍ¿¬±¸¼Ò µ¥ÀÌÅÍ ±¸Ãà ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºÎµ¿»êÀÏÀÏ»ç,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=530962ce9b53d8e4&fccid=6aefef11451c23ac&vjs=3
+½ÅÀÔ/°æ·Â °³¹ßÀÚ (ÇÁ·ĞÆ®¿£µå 2¸í  ¹é¿£µå 2¸í  ÆÛºí¸®¼Å 2¸í)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌµğº§,°æ±âµµ ÇÏ³²,https://kr.indeed.com/rc/clk?jk=c7c7fad88cc53436&fccid=4561e46cc3f91920&vjs=3
+µ¥ÀÌÅÍÃ³¸® ÇÃ·§Æû °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHN DATA,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=e764b919165b8d3e&fccid=a72ebaf825acf7af&vjs=3
+[Beluga] À½¼º (TTS/STT) µö·¯´× ¿£Áö´Ï¾î (2³â ÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=722e3346d949f80e&fccid=0aeb279b74dee723&vjs=3
+À¥°³¹ß  JAVA ¿Ü ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷  º´¿ªÆ¯·ÊÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½º¸¶Æ®µğ¾Æ±×³ë½Ã½º,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=5dbc158234b3a5c0&fccid=f4795b9234b4c245&vjs=3
+ÄÄÆÄÀÏ·¯ ¿£Áö´Ï¾î(µö¿¢½º)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=1b43aff116704c72&fccid=e34932b8232a173b&vjs=3
+[Å¬¶ó¿ìµåÇÃ·§Æû½Ç] DB EngineeringÆÀ DBAÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=a21275c8ea90b7f6&fccid=73fe623ec23ed0a5&vjs=3
+Àü»ç Çù¾÷ ÇÃ·§Æû(Jira  Confluence  Slack) ¿î¿µ ´ã´çÀÚ ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿ÀÆäÀÌ,¼º³² ¹éÇöµ¿,https://kr.indeed.com/rc/clk?jk=05a2b906f5c7b51e&fccid=c3aa6121be03065c&vjs=3
+[ÀÚÀ²ÁÖÇà±â¾÷] Application ¹é¾Øµå °³¹ß(»ç¿ø-´ë¸®±Ş)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºñ¿¡ÀÌºíÄÁ¼³ÆÃ±×·ì,¼º³² ¼öÁ¤±¸,https://kr.indeed.com/rc/clk?jk=a019574260bb227b&fccid=a0cfd8e178006c0c&vjs=3
+°¢ ºÎ¹®º°ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÀÚ»êÆò°¡,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=c02cf45cfbd00591&fccid=90d5e85f0669b30a&vjs=3
+DBA (DataBase Administrator)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºê·£µğ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=00c9c82fbf98473d&fccid=2993437959ad6c7a&vjs=3
+API ¹é¿£µå ¼­¹ö °³¹ßÀÚ (NestJS  AWS  Elasticsearch)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÃ·¹¾î·¦½º,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=8009270c30f63ac8&fccid=1baf72cedaa85897&vjs=3
+[³ó½É¿£Áö´Ï¾î¸µ] ½ÅÀÔ/°æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³ó½É±×·ì,¼­¿ï ½Å´ë¹æµ¿,https://kr.indeed.com/rc/clk?jk=49bf39465b2b9e06&fccid=cffda28c19f00d2c&vjs=3
+[Business Insights] Business Data Analyst (5³â ÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=d5024403dcaec4e3&fccid=0aeb279b74dee723&vjs=3
+°³¹ß½Ç °æ·Â»ç¿ø Ã¤¿ë[UX Researcher]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ï¼ºSDS,¼­¿ï ½ÅÃµµ¿,https://kr.indeed.com/rc/clk?jk=a2eeadc24915cdce&fccid=49e36e794a2c2347&vjs=3
+[(ÁÖ) ¼î¿¥] °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼î¿¥,ÀÎÃµ ¿¬¼ö±¸,https://kr.indeed.com/rc/clk?jk=dfd03cba68208933&fccid=8b1060456d9ea653&vjs=3
+[Á¤º¸º¸¾ÈÀ¯´Ö] º¸¾ÈÁø´ÜÆÀ º¸¾È Ãë¾àÁ¡ Áø´Ü ¸Å´ÏÀúÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b6448882ed33381f&fccid=73fe623ec23ed0a5&vjs=3
+±â¾÷ºÎ¼³¿¬±¸¼Ò AI °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å«»ç¶÷Ä¿³ØÆ®,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=9b16c10dc05f0a87&fccid=016e03cc57d1dc25&vjs=3
+ÇÏ¹İ±â °æ·ÂÁ÷ Ã¤¿ë[CAT]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ¸®¾È¸®Àçº¸Çè,¼­¿ï ¼ö¼Ûµ¿,https://kr.indeed.com/rc/clk?jk=387f236ffa872fe8&fccid=d918e3fe15322cdd&vjs=3
+Autonomous Driving Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌ½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=1614a5518635b819&fccid=7c9b5852f21bdea3&vjs=3
+À¥°³¹ß  ¹é¿£µå ¿Ü ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚÀÎÃª,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=e3f3b7e2103d9bc7&fccid=e60f835b4d91f8e6&vjs=3
+[HS±Û·Î¹ú] HW/SW ºĞ¾ß Á÷¹« ±³À° Àü¹®°­»çÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌÄ¡¿¡½º±Û·Î¹ú,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=248cf275216c8436&fccid=3924596677ac8bac&vjs=3
+µö·¯´×  ÀÎ°øÁö´É(AI) ¿Ü ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ÷ÀÎµå,°æ»óºÏµµ ±¸¹Ì,https://kr.indeed.com/rc/clk?jk=70a46428f3c9a12a&fccid=8c06ac232e35577e&vjs=3
+Data Platform Software Engineer (Senior*Junior)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¥ºê½Ã½ºÅÍÁî,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=d832eb50f24e4587&fccid=58a9a803698a0afd&vjs=3
+[¿Ü±¹°è ½ºÅ¸Æ®¾÷ ¹Ì¼Ò] Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¯ÇÑÈ¸»ç ¹Ì¼Ò,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ec5c7ccd76639120&fccid=02936474a8d39137&vjs=3
+MES Software Engineer ½ÅÀÔ/°æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Applied Materials,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=acd10eef4b5ed288&fccid=6c6f37e2a6cb4c55&vjs=3
+Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄ¿îÆ®,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=fb7870741aad1bdd&fccid=df5e7ec512668ebf&vjs=3
+·ÎÄ¿½º R&DÆÀ TD ¾È³»ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·ÎÄ¿½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=2a5d5e4b7d475c0a&fccid=d75ece8e918377c4&vjs=3
+[PPM¼Ö·ç¼Ç Å¬·Î¹ÙÀÎ] ¿¬±¸¼Ò IT Å×Å© Á÷±º ¿î¿µ°ü¸® °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇìºìÆ®¸®,´ë±¸ ¼ö¼º±¸,https://kr.indeed.com/rc/clk?jk=6916bd41820052e9&fccid=81880cb2b512246a&vjs=3
+ÀÌ°øÁö´É(AI) / µö·¯´× / Computer Vision °æ·ÂÀÚ Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´õºí¹ÌÄÚ¸®¾Æ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=bc5131eb1f2981cb&fccid=26c93c9997a81b6a&vjs=3
+¼­¹ö °³¹ßÀÚ Python(Django) Developer (½Ã´Ï¾î)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÅ×³ª½º·¦,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=1c5fe06de945ff13&fccid=f7418ec5d47158aa&vjs=3
+µ¥ÀÌÅÍ Àü¹®°¡(¸ğµ¨·¯/ºĞ¼®°¡/¿£Áö´Ï¾î) ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=ac9068957c550cb3&fccid=32b9af632cf3b9f9&vjs=3
+°æ¿µÁö¿ø½ÇÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,(ÁÖ)ÄÉÀÌÇÃ·¯½º,¼­¿ï,https://kr.indeed.com/rc/clk?cmp=%E3%88%9C%EC%BC%80%EC%9D%B4%ED%94%8C%EB%9F%AC%EC%8A%A4&ti=%EA%B2%BD%EC%98%81%EC%A7%80%EC%9B%90%EC%8B%A4&jk=d3711d3c1c11e700&fccid=74dee7761d421fb1&vjs=3
+[½ÅÀÔ/°æ·Â] ÇÉÅ×Å© À¥ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿şÀÎÅ×Å©³î·ÎÁö,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=d0235fa60e7aba40&fccid=47ae4f0a6f4dcd25&vjs=3
+µ¥ÀÌÅÍ »çÀÌ¾ğÆ¼½ºÆ®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Èú¸µÆäÀÌÆÛ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=09a5a7a68bb827c9&fccid=674cf8ae9dea63c2&vjs=3
+·ÎÄ¿½º VFX»ç¾÷º»ºÎ RiggingÆÀ ¾È³»ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·ÎÄ¿½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=794a0c2f034fb602&fccid=d75ece8e918377c4&vjs=3
+µ¥ÀÌÅÍÇ¥ÁØÇ°ÁúºÎ¹® °æ·ÂÁ÷ (Á¤±ÔÁ÷)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Á¤º¸±â¼ú´Ü,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=78b97e23de61aff9&fccid=99925e8e7b9604cc&vjs=3
+¸ğ¹ÙÀÏ °ÔÀÓ µ¥ÀÌÅÍ ºĞ¼® ¹× ÁöÇ¥ °³¹ß ÀÎ¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=04545336bebc57a5&fccid=a1e4e21b1f33cf40&vjs=3
+(ÁÖ)´©¸®±â¼ú ½ÅÀÔ ¹× °æ·Â ÇÁ·Î±×·¡¸Ó (C++  Python)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´©¸®±â¼ú,´ë±¸ ¼ö¼º±¸,https://kr.indeed.com/rc/clk?jk=9fb1bf156c419110&fccid=6bb693f7d22f2adc&vjs=3
+ÄÚ¾Æ¾ÆÀÌÆ¼ IT°³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ¾Æ¾ÆÀÌÆ¼,Ã»ÁÖ Ã»¿ø±¸,https://kr.indeed.com/rc/clk?jk=630737bd1b6c1531&fccid=1b2103e0def7e8e2&vjs=3
+Redis Database EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=215cb5ee34b85c0b&fccid=e90e80bc9ed9a53f&vjs=3
+»ó¹İ±â °æ·Â °ø°³Ã¤¿ë[¿¬±¸°³¹ß]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,HDC·¦½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=ab8194cf082ca054&fccid=8b1cddcf4b153570&vjs=3
+ºĞ¼®¸ğµ¨ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KBµ¥ÀÌÅ¸½Ã½ºÅÛ,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=587652244a69c3d1&fccid=fe227fbd2afb9580&vjs=3
+ÀÎ°øÁö´É/ºí·ÏÃ¼ÀÎ ±³À°°úÁ¤ (2022 °æ³² ICTÀÌ³ëº£ÀÌ¼Ç)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Àç´Ü¹ıÀÎ ÇÑ±¹¿¡ÀÌ¾ÆÀÌºí·ÏÃ¼ÀÎÀ¶ÇÕ¿ø,°æ»ó³²µµ,https://kr.indeed.com/rc/clk?jk=03d1a750c49e7930&fccid=f05769bef089cf29&vjs=3
+[TmaxGroup/Tibero] DBMS Á¦Ç° QAÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ¼¸Æ½º¼ÒÇÁÆ®,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=824d7d9b39776e09&fccid=445576e2a7ced0d6&vjs=3
+[¼±Çà±â¼ú¿ø] ÅëÇÕÁ¦¾î_ÀÓº£µğµå ¼ÒÇÁÆ®¿ş¾î °³¹ß[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=209fc5062f1ca5e2&fccid=980d6ecc399a3373&vjs=3
+2022 GEDP (Global Engineering Development Program)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GE Appliances,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=707ea4e741502247&fccid=6a7f2fa034a3fd36&vjs=3
+[¼±Çà±â¼ú¿ø] Virtual °ËÁõ_HILS ºĞ¾ß[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=ed3c88778977c020&fccid=980d6ecc399a3373&vjs=3
+22³â AI Æ¯È­ ¸ÂÃãÇü ±³À°°úÁ¤ ±³À°»ıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎ°øÁö´É»ê¾÷À¶ÇÕ»ç¾÷´Ü,±¤ÁÖ±¤¿ª½Ã,https://kr.indeed.com/rc/clk?jk=5850cd84f2de9711&fccid=82d89a408e9c3565&vjs=3
+Python ProgrammerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Mofac,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=df21e3bb5d773616&fccid=6cddb172d498d15c&vjs=3
+Data Engineer ¹× ºĞ¼®°¡ (°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑµ¶¾àÇ°,¼­¿ï,https://kr.indeed.com/rc/clk?jk=eb7a4da293c1a1ba&fccid=54ca6f8359d6e548&vjs=3
+Search/Recommendation ML Model EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=8ead3baa5247c756&fccid=e8cc3946292de49a&vjs=3
+[F&B Solution R&D½Ç] EngineeringÆÀ µµµµÆ÷ÀÎÆ® python ¹é¿£µåÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3167db4580fa8777&fccid=73fe623ec23ed0a5&vjs=3
+Deep Learning Researcher (Intern)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Qcom,¼­¿ï,https://kr.indeed.com/rc/clk?jk=8f6818e0976033eb&fccid=d40ebe11fc879426&vjs=3
+[Mobile Analytics] Data Analyst (4³â ÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=67c7fcf9853ddbf7&fccid=0aeb279b74dee723&vjs=3
+ºòµ¥ÀÌÅÍ ¼Ö·ç¼Ç µ¥ÀÌÅÍ ¿£Áö´Ï¾î / °³¹ß ÀÎÀçÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¥ÀÌÅÍ¸Ş½¬,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=42547d9e222a2205&fccid=021a0c01892b065f&vjs=3
+R&D °³¹ß ½ÅÀÔ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¬ÇÕÀÎÆ÷¸Æ½º,¼­¿ï ¼ö¼Ûµ¿,https://kr.indeed.com/rc/clk?jk=90fbc1c2488bed24&fccid=c0cba40e6676323a&vjs=3
+[¾ÆÀÌºêÄÚµù ¸ñµ¿ÇĞ¿ø] ÄÄÇ»ÅÍ ÄÚµù °­»çÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼­¿ïÁö¹æÁß¼Òº¥Ã³±â¾÷Ã»,¼­¿ï ¾çÃµ±¸,https://kr.indeed.com/rc/clk?jk=26d7d6bba1f01462&fccid=5f7f32a0048072ce&vjs=3
+[¾ÆÀÌºêÄÚµù ¸ñµ¿ÇĞ¿ø] ÄÄÇ»ÅÍ ÄÚµù °­»çÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼­¿ïÁö¹æÁß¼Òº¥Ã³±â¾÷Ã»,¼­¿ï ¾çÃµ±¸,https://kr.indeed.com/rc/clk?jk=26d7d6bba1f01462&fccid=5f7f32a0048072ce&vjs=3
+[½ÅÀÔ]¹é¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¤¸®½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=2c1c5c23007f921a&fccid=b00d4b329a5fe2ac&vjs=3
+¹é¿£µå ÇÃ·§Æû °³¹ß À¯Áöº¸¼öÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÇÁ¸®Ä«TV,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=962a7484bf6a2466&fccid=bc48816053af06b3&vjs=3
+[±¤°í ÃßÃµ] µ¥ÀÌÅÍ »çÀÌ¾ğ½º  ¸Ó½Å·¯´× Àü¹®°¡ ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=62207843f8aee746&fccid=32b9af632cf3b9f9&vjs=3
+ºòµ¥ÀÌÅÍ ¸®´õ Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,hTLM HR,¾È¾ç µ¿¾È±¸,https://kr.indeed.com/rc/clk?jk=f5db967bfdd0390f&fccid=500eaf9389fd6cac&vjs=3
+Ultrasound Engineer(Junior)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens Healthineers,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=16701c883728db62&fccid=c5679bf29a1db253&vjs=3
+Software Engineer (New Grad)  R&DÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CLO Virtual Fashion,¼­¿ï,https://kr.indeed.com/rc/clk?jk=da939db2e1f4a1d8&fccid=dca5e8b8952213a9&vjs=3
+[¼±Çà±â¼ú¿ø] Backend °³¹ß[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=5c01bddf54db1e09&fccid=980d6ecc399a3373&vjs=3
+[3³â ÀÌ»ó] Analytics/Data AngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌµğÄÉÀÌ½ºÄù¾îµå,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=27efbf31dc7befc6&fccid=27d5ff5361e13c7a&vjs=3
+[¼­ºñ½º °ü¸®/¿î¿µ] Database Engineer ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=4061fcd031e1aeb4&fccid=a1e4e21b1f33cf40&vjs=3
+ÀÎ°øÁö´É ¼Ö·ç¼Ç (AI Solution) °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«ÀÌ¾î,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=891485cc2a8e6779&fccid=908ef26c4dd7595f&vjs=3
+Web Front-end °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ±×³İ³ªÀÎ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=6141229c69b83068&fccid=015d2bad6d9df969&vjs=3
+[À§¸ŞÇÁ¼­ºñ½º] ºòµ¥ÀÌÅÍ ÇÃ·§Æû Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=d2d53451211df080&fccid=2f8799a5ef214646&vjs=3
+¿Ü±¹°è ±Û·Î¹ú - ¹°·ù ÄÁ¼³ÆÃ Àü¹®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·¹ÆÛÃ½¾ØÄ¿¸®¾î,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=af44b5adefdd16f3&fccid=e597d45e0720074f&vjs=3
+WEB°³¹ß °æ·ÂÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎ¹Ùµğ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=576b5b1472746a9f&fccid=50e99bac237e8299&vjs=3
+Áö½Ä ´ëÈ­ ¼­ºñ½º ¼­¹ö °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=00a069c0553c82eb&fccid=ce2f0f28b40a5be8&vjs=3
+A.I.°³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄÀÌÇÁÆ®¸®½º¸¶Æ®ÆÊ,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=229eb9cfd32480ed&fccid=91264d1b241643c2&vjs=3
+[NAVER Z] µ¥ÀÌÅÍ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³×ÀÌ¹öÁ¦Æ®,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=7890d29d0879c06d&fccid=bc34e4450e078d19&vjs=3
+µö·¯´× ÅëÇÑ ÀÎ°øÁö´É ¼Ö·ç¼Ç °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¤¼¼ºì½ÃÅ¥¸®Æ¼,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=554e814302b8a380&fccid=72880ee98034ba13&vjs=3
+¸®Å×ÀÏ¿µ¾÷ÆÀÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å°¿ò¿¹½ºÀúÃàÀºÇà,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=8b89b0c903e7be72&fccid=a46b3857b7ff85d6&vjs=3
+[¹İµµÃ¼IP °³¹ß»ç] RTL Design/Verification EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä¨½º¾Ø¹Ìµğ¾î,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=c4b426a220eb70d6&fccid=e3185d2aec5db0df&vjs=3
+[ÀÀ¿ëºĞ¼®ÆÀ] »ç¿ëÀÚ ÇÁ·ÎÆÄÀÏ ¿¬±¸ ¹× °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=503269b3ed64cb1f&fccid=32b9af632cf3b9f9&vjs=3
+[´ëÇüÁõ±Ç»ç] ÇÃ·§Æû/Back-end ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÄÚ¸®¾Æ ÇÁ·ÎÆä¼Å³Î,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b8128d1235788533&fccid=842365965c1f45a0&vjs=3
+[(ÁÖ)TINCO]À¥/¾Û(¹é¿£µå/ÇÁ·ĞÆ®¿£µå/¸ğ¹ÙÀÏIOS) °³¹ßÀÚ ¹× ÆÛºí¸®¼Å Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÃÄÚ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=51e6cefab3e7ca68&fccid=3f0c80e97118526a&vjs=3
+[Server] DX/EX ÇÃ·§Æû ¼Ö·ç¼Ç/½Ã½ºÅÛ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Ä«Ä«¿ÀÀºÇà,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=d24104a0d5dcd188&fccid=aea6a13a3459fdb2&vjs=3
+[°æ·Â] AI ¹é¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»õ·Ğ¼Ö·ç¼Ç,°æ±âµµ ÀÇ¿Õ,https://kr.indeed.com/rc/clk?jk=ecdf740e03cf49dc&fccid=76633e95a4dfd3e1&vjs=3
+SW°³¹ßÀÚ °æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÁÆ®·Ñ¿÷½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=9932fb3dab741dcd&fccid=b9a4c1a753f43642&vjs=3
+Àü¹®¿¬±¸¿ä¿ø (º´¿ªÆ¯·Ê) ¼ö½Ã (AI / SW ºĞ¾ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=d83fc0dd2641f483&fccid=e34932b8232a173b&vjs=3
+Windows/Linux ±â¹İÀÇ ÀÀ¿ë ÇÁ·Î±×·¥ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿Ã¿¡ÀÌ¾ÆÀÌ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=00ed5d804bfb4be0&fccid=8c82964cc64f223f&vjs=3
+Application Engineer Consultant - OPCÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens Ltd. Seoul,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=0a27d4c2b0f36fa0&fccid=ea6bb53f0b18b8f2&vjs=3
+Áö½Ä ÄÜÅÙÃ÷ Àü¹® ±â¾÷ (¸ÅÃâ 120¾ï) CTO °³¹ß ÃÑ°ıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÆÄÆ®³Ê½º,¼­¿ï,https://kr.indeed.com/rc/clk?jk=c6ea0a1876e80452&fccid=e65c7a7fd4f89d1c&vjs=3
+µ¥ÀÌÅÍ »çÀÌ¾ğÆ¼½ºÆ® Ã¼ÇèÇü ÀÎÅÏ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÃ¸®,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=86b985d3ff75f9a2&fccid=84f556ede0522ba3&vjs=3
+[À§¸ŞÇÁ¿À] ¹é¿£µå°³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=43f8edb38c7888c7&fccid=2f8799a5ef214646&vjs=3
+[·Ôµ¥Á¤º¸Åë½Å] Ä¥¼ºISÆÀ Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·Ôµ¥Á¤º¸Åë½Å,¼­¿ï,https://kr.indeed.com/rc/clk?jk=0891af675c134739&fccid=ae6a0ecfe23adfb7&vjs=3
+[Engineering Div.] Security CERT Engineer (8³â ÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=00bf18b6073ea6fc&fccid=0aeb279b74dee723&vjs=3
+ÄÄÇ»ÅÍºñÀü °³¹ßÀÚ °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶óÀÌÆ®ºñÀü,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=588d65ef49406862&fccid=e391d8e930358bac&vjs=3
+´ë¿ë·® ºĞ»ê ½ºÅä¸®Áö °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=ffc95eb386fd0b88&fccid=32b9af632cf3b9f9&vjs=3
+ÇÏ¹İ±â ½ÅÀÔ/°æ·Â Ã¤¿ë[°³ÀÎ½Å¿ëÆò°¡ ºĞ¼® ÄÁ¼³ÆÃ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NICEÆò°¡Á¤º¸,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=8386c6176b6257ac&fccid=6ebd786c94dcbb73&vjs=3
+LINE Wallet & Fintech - ML/Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=9afed99204907bdf&fccid=e90e80bc9ed9a53f&vjs=3
+[Ä«Ä«¿À Å¬¶ó¿ìµå] DBaaS(DataBase As A Service) °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=7dc2c63c9eca609a&fccid=32b9af632cf3b9f9&vjs=3
+´Ù³¯ÇÉÅ×Å© °³¹ßº»ºÎ DevOps °æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ù³¯ÇÉÅ×Å©,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=5e33c1227236aa74&fccid=64bdcac9fa6d6c0e&vjs=3
+±â¼ú ¹®¼­ ÀÛ¼º Àü¹®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=44f52ea73a6d25da&fccid=e34932b8232a173b&vjs=3
+Server Engineer [°øÅë±â¼úºÎ¹®]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿©±â¾î¶§ÄÄÆÛ´Ï,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=4d0c646c9827bff1&fccid=f37025d91bdbf80c&vjs=3
+[¸¶ºí·¯½º] ¹é¿£µå °³¹ßÀÚ ÁÖ´Ï¾î/½Ã´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶ºí·¯½º,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=0dad27533fee10c3&fccid=471224a0399e2888&vjs=3
+[¼±Çà±â¼ú¿ø] AI ¸ğµ¨ µ¥ÀÌÅÍ ÃÖÀûÈ­ ±â¼ú[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=88f6c889d813f95e&fccid=980d6ecc399a3373&vjs=3
+[¹İµµÃ¼IP °³¹ß»ç] SW Test EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä¨½º¾Ø¹Ìµğ¾î,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3939199743d8b33d&fccid=e3185d2aec5db0df&vjs=3
+[ÁÖ]¿¡½ººñÁ¤º¸±â¼ú]¿¬±¸¼Ò °³¹ß ½ÅÀÔ»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ººñÁ¤º¸±â¼ú,°æ±âµµ ÀÇ¿Õ,https://kr.indeed.com/rc/clk?jk=17e20dc8fd24a38a&fccid=9e82b07e298da561&vjs=3
+Mobility Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ¼¸Ê¸ğºô¸®Æ¼,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=e46ded96442ef682&fccid=8304e37f079fa8d6&vjs=3
+¼ÒÇÁÆ®¿ş¾î ¿£Áö´Ï¾î / C C# Python °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÌÅõºñºñ,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=8fc9c687b54cc53c&fccid=de7849b03f99c3b1&vjs=3
+(3200¸¸ÀÌ»ó/ºĞ´ç)¸¸µµ¿¬±¸¼Ò ¼ÒÇÁÆ®¿ş¾î °³¹ß/°ËÁõ ¿¬±¸º¸Á¶ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÈŞ¸Õ¾Ø,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=84610059d3552ef1&fccid=9e33daf2a0f7b19b&vjs=3
+[ÁÖ4.5ÀÏ] JAVA ¹é¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎ¶óÀÌÇÃ,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=cde0d8631fbe4562&fccid=25a5f8f961de7852&vjs=3
+[2022½ÅÀÔ°øÃ¤] Programming - ¼­ºñ½º ÇÃ·§Æû °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=a3fd0e49db6ef43c&fccid=a1e4e21b1f33cf40&vjs=3
+[UMM] AI Music Generator Platform Backend DeveloperÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Krust Universe,¼­¿ï,https://kr.indeed.com/rc/clk?jk=87d09bda7b863fe5&fccid=dd616958bd9ddc12&vjs=3
+[µ¥ÀÌÅÍ ÇÁ·Î´öÆ®] µ¥ÀÌÅÍ ¿£Áö´Ï¾î ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=f94fd2fd0e93cb5c&fccid=32b9af632cf3b9f9&vjs=3
+SW°³¹ß Àü¹®¿¬±¸¿ä¿ø ÆíÀÔ(º´¿ªÆ¯·Ê)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶óÀÌÆ®ºñÀü,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=3c059b366664bb1c&fccid=e391d8e930358bac&vjs=3
+AI ¼­ºñ½º °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=41e926f74d33778c&fccid=a1e4e21b1f33cf40&vjs=3
+[½ºÅ¸·¦½º] À¥°³¹ß(JAVA) °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ºÅ¸·¦½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=05dd2e410f0cc3bf&fccid=b373898724fe92a4&vjs=3
+System SW ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=fc037709d0770796&fccid=e34932b8232a173b&vjs=3
+µ¥ÀÌÅÍ »çÀÌ¾ğÆ¼½ºÆ® (Data Scientist)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ğÅ©»ø·¯µå,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=106c277ac98eff6e&fccid=35209469e1b8c72c&vjs=3
+ºñÀüÀÎ½Ä  ¸Ó½Å·¯´× ¿Ü ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌ¾ÆÀÌµö,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=1a3b7b7fc807a02e&fccid=f43560b49963c6bb&vjs=3
+[Data AnalyticsÆÀ] ½Ã°¢È­ µ¥ÀÌÅÍ ¿£Áö´Ï¾î °æ·ÂÃ¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­±×·ì,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f1128b3376da056e&fccid=bd0dc1817223394f&vjs=3
+GUI ½Ã½ºÅÛ °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,BM PHR,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=681608bebd3b74e8&fccid=7cb2a3e8ca0d944f&vjs=3
+ÆÄ»ıÆò°¡»ç¾÷º»ºÎ ½ÅÀÔ ¹× °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å°½ºÀÚ»êÆò°¡,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=cc2eb0cf3c6fd598&fccid=50e8aec529f867e7&vjs=3
+ÀÌ¿£À¯ÁÖ½ÄÈ¸»ç ¼ÒÇÁÆ®¿ş¾î °³¹ßÀÚ ½ÅÀÔ ÀÎÀçÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÌ¿£À¯,´ëÀü À¯¼º±¸,https://kr.indeed.com/rc/clk?jk=233479b09dce30b2&fccid=e0790b8e4df14792&vjs=3
+Sr. Database EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=d8f775853bf487d9&fccid=56e12959d04ef145&vjs=3
+FY2022 »ó¹İ±â °æ·Â»ç¿ø Ã¤¿ë[ÇÃ·§Æû Data Scientist]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±³º¸»ı¸í,¼­¿ï Á¾·Îµ¿,https://kr.indeed.com/rc/clk?jk=40f9a1d2c81f00a2&fccid=011dfac46361e4c7&vjs=3
+Software Engineer  People with Disabilities (Àå¾ÖÀÎ Ã¤¿ë)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ac64fda2e281b835&fccid=a5b4499d9e91a5c6&vjs=3
+Global Commerce Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=1c2ad86ab0eb784a&fccid=e90e80bc9ed9a53f&vjs=3
+[·Îµåºä] ¼­¹ö °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=2aaeb4d280aad351&fccid=32b9af632cf3b9f9&vjs=3
+[½º¸¶Æ®³ó¾÷°³¹ß½Ç] µ¥ÀÌÅÍ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±×¸°·¦½º,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=e0f03b41723228fc&fccid=feeacbc1377594e2&vjs=3
+[¼±Çà±â¼ú¿ø] AI ¸ğµ¨ °æ·®È­ ±â¼ú °³¹ß[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=e54a2df63a096b76&fccid=980d6ecc399a3373&vjs=3
+8ÆÛ¼¾Æ® °æ·Â °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,8ÆÛ¼¾Æ®,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=464ef95516a5fa5c&fccid=ac216a9ae7b75c06&vjs=3
+¸¶ÄÉÆÃº»ºÎ ½ÅÀÔ/°æ·Â »ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¿¾Æ¿ÀÃ÷Ä«,¼­¿ï µ¿´ë¹®±¸,https://kr.indeed.com/rc/clk?jk=7cb816bcfc144f5e&fccid=790eead88debeb91&vjs=3
+(ÁÖ)¿¡ÀÌÄ¡ºñÅ×Å©³î·¯Áö R&DÆÀ ÆÀÀå/ÆÀ¿ø±Ş (µö·¯´×)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌÄ¡ºñÅ×Å©³î·¯Áö,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=8049a45ec66a7f67&fccid=aa53d791722fce49&vjs=3
+QC °æ·ÂÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Äõµå¸¶ÀÌ³Ê,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=88429466d91f4b1a&fccid=4689e54333c19a95&vjs=3
+°¡»óÀÚ»ê Æ®·¹ÀÌµù / ½Ã½ºÅÛ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºí·ÏÅõ¸®¾ó,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=c04680232735292a&fccid=a0245242cd542697&vjs=3
+Å¬¶ó¿ìµå¼­ºñ½º»ç¾÷ºÎ °æ·Â»ç¿ø Ã¤¿ë °ø°íÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ï¼ºSDS,¼­¿ï ½ÅÃµµ¿,https://kr.indeed.com/rc/clk?jk=bf241e63bbf55043&fccid=49e36e794a2c2347&vjs=3
+(ÁÖ)¿¡½ººñÁ¤º¸±â¼ú ¿¬±¸¼Ò°³¹ß ½ÅÀÔ (³×Æ®¿öÅ© Controller(SDN) °³¹ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ººñÁ¤º¸±â¼ú,°æ±âµµ ÀÇ¿Õ,https://kr.indeed.com/rc/clk?jk=d2c345eac24bc76c&fccid=9e82b07e298da561&vjs=3
+Áö´ÉÇü ¼±º°°üÁ¦ ½Ã½ºÅÛ Dev-Ops °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶Å©¾Ö´Ï,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=b662586152bc541f&fccid=9cf7a1c9f5f81fdb&vjs=3
+ÀÎÅÚAI ÀÎ°øÁö´É ½º¸¶Æ®Á¦Á¶ Àü¹®°¡ ¾ç¼º°úÁ¤ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°í´©¾ÆÀÌ ºÎ»êÁöÁ¡,ºÎ»ê,https://kr.indeed.com/rc/clk?jk=8d1a803e1d7f30d5&fccid=38d1d59d79094120&vjs=3
+¶óÀÎÆË2 ¼­¹ö °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NHN,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=d2c08e758ac9f3a3&fccid=a72ebaf825acf7af&vjs=3
+(ÁÖ)½ºÅ¸·¦½º WEB °³¹ßÀÚ Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ºÅ¸·¦½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=f13d5abca1e9acba&fccid=b373898724fe92a4&vjs=3
+AI Edge Device ÀÓº£µğµå SW °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µğÅØ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=c354016a4b230115&fccid=4a08359b4ce15823&vjs=3
+´ëÇĞ»ıÀÎÅÏ½Ê 2±â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LG¿¡³ÊÁö¼Ö·ç¼Ç,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=d1d26bc871719fe2&fccid=e3653632e61fd408&vjs=3
+WebRTC UC & Collaboration Frontend & Backend Developer ½ÅÀÔ/°æ·Â...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ericsson,¼­¿ï,https://kr.indeed.com/rc/clk?jk=c08cae7431100fc9&fccid=82656d64a9a3e6a7&vjs=3
+[AION2] Àü¹® ¸®±ë TA ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=e0adee49ee2d50bc&fccid=a1e4e21b1f33cf40&vjs=3
+¼ÒÇÁÆ®¿ş¾î °³¹ß °æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸ÅÅ©·Î¾×Æ®,¼º³² ¼öÁ¤±¸,https://kr.indeed.com/rc/clk?jk=f28f4b931feadb85&fccid=6b97aba1037c0b00&vjs=3
+ºòµ¥ÀÌÅÍ ¿£Áö´Ï¾î ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,hTLM HR,¾È¾ç µ¿¾È±¸,https://kr.indeed.com/rc/clk?jk=4ceafc901a095d43&fccid=500eaf9389fd6cac&vjs=3
+DevOps °³¹ßÀÚ(Back-End/Front-End) ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,º£½ºÇÉ±Û·Î¹ú,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=0b6796e73dabe962&fccid=d2a2cb2dc4e9a38f&vjs=3
+Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Applied Materials,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=4b1765c4f3ce8631&fccid=6c6f37e2a6cb4c55&vjs=3
+[KR] Ç°Áú°ËÁõ ¿£Áö´Ï¾î(QA Engineer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿Ã°Å³ªÀÌÁîÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=e563122d909b2b54&fccid=707decd4d5b2755e&vjs=3
+Security Engineer - À§Çù ºĞ¼®/´ëÀÀÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=f967b2c556ea1c32&fccid=73fe623ec23ed0a5&vjs=3
+ºòµ¥ÀÌÅÍ ÇÃ·§Æû °ü¸®µµ±¸(À¥) °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=16a644bd891015ff&fccid=a1e4e21b1f33cf40&vjs=3
+Data Platform LeadÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,AIA,¼­¿ï,https://kr.indeed.com/rc/clk?jk=51c4977e153db506&fccid=004041685e219574&vjs=3
+¹é¿£µå(AI ¼­ºñ½º ÇÃ·§Æû °³¹ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶ó¿ÂÇÇÇÃ,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=9c3e05d236a9cefd&fccid=d2705fe6ff17ca10&vjs=3
+[º¸¾È ÄÁ¼³ÆÃ] ¼öÁØ³ôÀº Ãë¾àÁ¡ Áø´Ü  ¸ğÀÇÇØÅ· ÄÁ¼³ÅÏÆ® ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷  º´Æ¯ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎ´õÆ÷·¹½ºÆ®,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=99d4c13cfc94b4ce&fccid=ce9fe2ef8b14b631&vjs=3
+µ¥ÀÌÅÍ ºĞ¼®°¡ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=12e08b1a3eec3d35&fccid=a1e4e21b1f33cf40&vjs=3
+¸Ó½ÅºñÀü ÀÀ¿ë ¼ÒÇÁÆ®¿ş¾î °³¹ß ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌºñ½º,ºÎ»ê ³²±¸,https://kr.indeed.com/rc/clk?jk=79968360763a8375&fccid=2ecd9c61c88e7fca&vjs=3
+[¼±Çà±â¼ú¿ø] ½Ã½ºÅÛ ¼º´É °èÃø Æò°¡ (½ÃÇè Àåºñ/½ÃÇèÂ÷ ¿î¿ë  Æò°¡)[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=3e1c55da5b99cafb&fccid=980d6ecc399a3373&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,111ÆÛ¼¾Æ®,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=df8defa2ff19f969&fccid=c6b3a83234665359&vjs=3
+[»ó½Ã] ÄÄÇ»ÅÍ ºñÀü ¹× µö·¯´× ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ï¾î½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=d31298f6c51e528e&fccid=f3d5eeb09e72b348&vjs=3
+ÀÌ¸ŞÀÏº¸¾È ¹× ¼­¹öº¸¾È ºĞ¾ß Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CJ¿Ã¸®ºê³×Æ®¿÷½º,¼º³² ¼­Çöµ¿,https://kr.indeed.com/rc/clk?jk=034e3aaad1d69f28&fccid=f9d7b79c30512a85&vjs=3
+½ºÆÔ ¹× ¾îºäÂ¡ ºĞ¼®/´ëÀÀ(¼­¹ö°³¹ß  ¸Ó½Å·¯´×)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=8e8514f7d5b659f6&fccid=32b9af632cf3b9f9&vjs=3
+ML/DL Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÄ«µå Ä³ÇÇÅ»,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=8d82ffc3587320ea&fccid=fcc6d6b229369ff5&vjs=3
+(ÁÖ)¿¤¼Ö·ç R&Dº»ºÎ ASRÆÀ °³¹ßÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¢ß¿¤¼Ö·ç,¼­¿ï,https://kr.indeed.com/rc/clk?jk=6d0b76f65c7a3c32&fccid=35c61db9f1514baf&vjs=3
+[TEXTNET] AI µ¥ÀÌÅÍ ±â¹İ NLP ¸ğµ¨·¯ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ºÇÇ¸µÅ©,¼­¿ï,https://kr.indeed.com/rc/clk?jk=8c3fc178f0131938&fccid=0c6dc65eaa2bfc14&vjs=3
+º¸¾È°³¹ß(ÀÚµ¿È­) ´ã´çÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³İ¸¶ºí,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=d8ede1205c7d2ec8&fccid=e696d83fde5c0f20&vjs=3
+º¸¾È°üÁ¦(24x7)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾È·¦,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=4bfa0d521a6fc1f0&fccid=0b88b2af6686dd2b&vjs=3
+Sr. Application Engineer - OPCÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=945adbf470146737&fccid=ea6bb53f0b18b8f2&vjs=3
+Deep Learning Model Efficiency EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Qcom,¼­¿ï,https://kr.indeed.com/rc/clk?jk=35dc92eb19eb80cf&fccid=d40ebe11fc879426&vjs=3
+Video Design verification EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Qcom,¼­¿ï,https://kr.indeed.com/rc/clk?jk=6b027a9ad78aafb2&fccid=d40ebe11fc879426&vjs=3
+¼­¹ö°³¹ßÀÚ(º¤¾Øµå) Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ÀºñÀÌ·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=df228c302c3c8f9b&fccid=715de450eed29374&vjs=3
+³×Æ®¿öÅ© ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾È·¦,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=8e52bc587a4320c8&fccid=0b88b2af6686dd2b&vjs=3
+µ¥ÀÌÅÍºĞ¼® Àü¹®°¡ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,11¹ø°¡,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=e6f79134827d23a7&fccid=aba8aade58c00c02&vjs=3
+[2022 Àü¹®¿¬±¸¿ä¿ø] AI R&D - Speech AIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=ffed458dd6df1a30&fccid=a1e4e21b1f33cf40&vjs=3
+[½Å¿ë¸®½ºÅ©¸ğµ¨¸µ Intern] °³ÀÎ ½Å¿ëÆò°¡¸ğÇü °³¹ß ¹× ¿î¿µÁ÷(Ã¤¿ë ¿¬°èÇü)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À¹ğÅ©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=45ef50c3481fd92f&fccid=a8ac43179956a6aa&vjs=3
+ASAP] Python °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=89171318e2b6b4d4&fccid=d29ddc820620b02e&vjs=3
+[Blade&Soul] Å¬¶óÀÌ¾ğÆ® ÇÁ·Î±×·¡¸Ó ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=b44b478eba2ab305&fccid=a1e4e21b1f33cf40&vjs=3
+Business AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ö½Ã½º¿Ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=84096ddc9660115c&fccid=d168e251dccbad8d&vjs=3
+Software Engineer - Python and K8sÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Canonical - Jobs,¼­¿ï,https://kr.indeed.com/rc/clk?jk=9e154b5b00d09b31&fccid=3911cf63fc0692f4&vjs=3
+Web °³¹ß(ÀÌÄ¿¸Ó½º ÆÄÆ®)_PHP/CodeIgniter/JavascriptÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹öµåºä,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=3292e81e43884c67&fccid=ab4d16fa7d63885d&vjs=3
+[Engineering Div.] Sr. Publishing DevOps - Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=f9d0b2da215fcb4a&fccid=0aeb279b74dee723&vjs=3
+Search/Recommendation ML Model Engineer (TL/10³âÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=9317e5d638257d90&fccid=e8cc3946292de49a&vjs=3
+[¸ŞµğÇÈ¼¿] µö·¯´× & SW °³¹ß ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸ŞµğÇÈ¼¿,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=5b0e88a7d6d4afce&fccid=aba88c202493b8a5&vjs=3
+PM(¼­ºñ½º/°³¹ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÄ«µå Ä³ÇÇÅ»,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=bfdab41ec9b9469f&fccid=fcc6d6b229369ff5&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌµğÄÉÀÌ½ºÄù¾îµå,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=8c8c96a3ffac77f8&fccid=27d5ff5361e13c7a&vjs=3
+DBA ´ã´ç ÆÀÀå±ŞÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇØÄ¿½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3b5d7b1c1b55fcbd&fccid=9fcc8dc27a170fd3&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÈ¨¼îÇÎ,¼­¿ï ÃµÈ£µ¿,https://kr.indeed.com/rc/clk?jk=f2785cab15ce02da&fccid=78d223ca61856464&vjs=3
+[Engineering Div.] Application Security Engineer (3³â ~ 10³â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=662ff7122feaa0c1&fccid=0aeb279b74dee723&vjs=3
+Data Scientist ½ÅÀÔ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÃ¸®,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=b96f47b94d8b88a4&fccid=84f556ede0522ba3&vjs=3
+[Ä«Ä«¿À¸ŞÀÌÄ¿½º] ÆÛÆ÷¸Õ½º ¸¶ÄÉÅÍ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿ÀÄ¿¸Ó½º,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=58ffe9950f464f19&fccid=b1f5de6cae96f6c2&vjs=3
+Analytical ConsultantÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SAS,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f366c875fd9bdbc2&fccid=7ec3b9927e0bc215&vjs=3
+µö·¯´× ¾Ë°í¸®Áò ¹× ÀÀ¿ë EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=35f0a25dee5f3312&fccid=e34932b8232a173b&vjs=3
+[ÀÌÁ¨¾ÆÄ«µ¥¹Ì °­³²] ÀÚ¹Ù(JAVA)À¥°³¹ß °­»ç/ ºòµ¥ÀÌÅÍ °úÁ¤ °­»ç/ R±â¹İ ºòµ¥ÀÌÅÍ ºĞ¼®&½Ã°¢È­ °­»çÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÌÁ¨¾ÆÄ«µ¥¹Ì,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=95e252817131d58b&fccid=f0e3ec0fd39c0819&vjs=3
+[ÀÜµğ¼ÒÇÁÆ®] °³¹ßÅø ÇÁ·Î±×·¡¸Ó ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÜµğ¼ÒÇÁÆ®,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=36371d8269d02021&fccid=370651ffb8b8be7b&vjs=3
+[ICT] Big Data / AI Platform Engineering[Ã¥ÀÓ¸Å´ÏÀú]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=bdb16e72079b6a0f&fccid=980d6ecc399a3373&vjs=3
+[SW BootCamp]Àü¹®¿¬±¸¿ø Ã¤¿ë°ø°íÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°æ±â´ëÇĞ±³,°æ±âµµ ¼ö¿ø,https://kr.indeed.com/rc/clk?jk=2d2df201f313ad6e&fccid=4fcc3f932a4c7ea9&vjs=3
+¼ºÀåÇÏ´Â ÇÉÅ×Å© ½ºÅ¸Æ®¾÷ BackEnd Developer °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿şÀÌºê¸´Áö,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=f8ee4cfdf4dd6934&fccid=dd616958bd9ddc12&vjs=3
+(ÁÖ)¾ÆÀÌ¿ÍÁî »ê¾÷±â´É¿ä¿ø(º¸Ãæ¿ª)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌ¿ÍÁî,´ëÀü À¯¼º±¸,https://kr.indeed.com/rc/clk?jk=c3772249509524c2&fccid=cf4abdb4fa3170ec&vjs=3
+ºñÁî´Ï½º ºĞ¼®°¡ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÃ¸®,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=a2fece22fd6c7326&fccid=84f556ede0522ba3&vjs=3
+DTÁ÷¹« °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·Ôµ¥Ä¥¼ºÀ½·á,¼­¿ï ½ÅÃµµ¿,https://kr.indeed.com/rc/clk?jk=16abbedc5ff452ae&fccid=4b24450e6aa2de5f&vjs=3
+React°³¹ß&Java/Python°³¹ß (Web Service °³¹ß / À¯Áöº¸¼ö)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=69a5321b09948ca6&fccid=d29ddc820620b02e&vjs=3
+[QA] Performance Test EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=332bd080aba817ba&fccid=e8cc3946292de49a&vjs=3
+Á¦¾îS/W Àü¹®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°í¿µÅ×Å©³î·¯Áö,¿ëÀÎ ¼öÁö±¸,https://kr.indeed.com/rc/clk?jk=e7e4ade263f4482c&fccid=a13dce9f83ee80a9&vjs=3
+±¹³» ¸®µù ºäÆ¼ ±â¾÷  µ¥ÀÌÅÍ »çÀÌ¾ğÆ¼½ºÆ®(Data Scientist) (°æ·Â 3³â ÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ¾îÆ÷ÀÎÆ®,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=e149be0da7986cfd&fccid=a71819ff34fb2d90&vjs=3
+Software Engineer  Android ConnectivityÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸±ÛÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=9accfb1a3c7aa288&fccid=28712efe9a7c8d8a&vjs=3
+[¹Ù¿À¹äÆÄÆ®³ÊÁî] ÀÎÇÁ¶ó º¸¾È °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹Ù¿À¹äÆÄÆ®³ÊÁî,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=0687711abc97de35&fccid=7841155ce7fa178a&vjs=3
+Customer Engineer  Data Analytics  Google CloudÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸±ÛÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=dec41bef8e72cb6c&fccid=28712efe9a7c8d8a&vjs=3
+À½¼ºÇÕ¼º º¸ÀÌ½º¸ğµ¨¸µ ¹× ½Ã½ºÅÛ °³¹ß Àü¹®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Á¾·Î±¸,https://kr.indeed.com/rc/clk?jk=840702ff085535d3&fccid=ce2f0f28b40a5be8&vjs=3
+¹é¿£µå  À¥°³¹ß °æ·Â Á¤±ÔÁ÷ - ½ºÅ¸Æ®¾÷/¿ö¶ó¹ë/¼öÆò¹®È­/¿¬ºÀÃÖ´ëÇùÀÇÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ¼¿¡½ºÄ¿¸®¾î,¾È¾ç µ¿¾È±¸,https://kr.indeed.com/rc/clk?jk=e03c3db92d5c1291&fccid=ac28a927b1e76676&vjs=3
+ºòµ¥ÀÌÅÍ ½Ã½ºÅÛ ´ã´çÀÚ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌ¹ğÅ©ÀºÇà,¼­¿ï ÁßÇĞµ¿,https://kr.indeed.com/rc/clk?jk=894d093b2c1aa53c&fccid=5c3222a7b96c49cc&vjs=3
+¼ÒÇÁÆ®¿ş¾î ¾ÖÇÃ¸®ÄÉÀÌ¼Ç ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Äí¶ó°í ¾Æ½Ã¾Æ,Ã¢¿ø ÀÇÃ¢±¸,https://kr.indeed.com/rc/clk?jk=4b865ca1860bab03&fccid=6675424576753626&vjs=3
+[SWÀ¶ÇÕ] ½Ã½ºÅÛ SW[½ÅÀÔ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,°æ±âµµ ¿ëÀÎ+1 Áö¿ª,https://kr.indeed.com/rc/clk?jk=339c8601831918e7&fccid=980d6ecc399a3373&vjs=3
+[¿¡ÀÌÄ¡¿¡½º±Û·Î¹ú] HW/SW ºĞ¾ß Á÷¹« ±³À° Àü¹®°­»çÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌÄ¡¿¡½º±Û·Î¹ú,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=529fb39bcf4d585c&fccid=3924596677ac8bac&vjs=3
+[¼º¼öµ¿] µ¥ÀÌÅÍ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½Ã´Ï¾î¾ØÆÄÆ®³ÊÁî,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=3b2c8071eee9ad76&fccid=59060ddcdf96b101&vjs=3
+[±Û·Î¹úAI]ÀÎ°øÁö´É(AI) ¿£Áö´Ï¾î ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÄÚ¸®¾Æ ÇÁ·ÎÆä¼Å³Î,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=6b598377fe0e0e89&fccid=842365965c1f45a0&vjs=3
+»ê¾÷¿ë ºñÀü Ã³¸® S/W °³¹ß  AI °¡¼Ó±â Ã³¸® S/W °³¹ß °æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿©ÀÇ½Ã½ºÅÛ,¼º³² Áß¿ø±¸,https://kr.indeed.com/rc/clk?jk=ed7f845dde911542&fccid=e26f613d014e5057&vjs=3
+ÇÁ·ĞÆ®¿£µå °³¹ßÀÚ  ¹é¿£µå °³¹ßÀÚ  PM °æ·Â (~22.06.17)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºµğ¿¡ÀÌ¿¡ÀÌ,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=5505541f4c619808&fccid=70843328026d7cd5&vjs=3
+PlanningÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌ½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=91af7a4567ee246a&fccid=7c9b5852f21bdea3&vjs=3
+[S/W]Â÷·®º¸¾È_Vehicle Cyber Security (½ÅÀÔ)[¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=e9dde247a0106af2&fccid=980d6ecc399a3373&vjs=3
+Market Research ´ã´çÀÚ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸ÅÀÏÀ¯¾÷,¼­¿ï ÁßÇĞµ¿,https://kr.indeed.com/rc/clk?jk=287f5f422c269849&fccid=a2c014ab9da5edfb&vjs=3
+½Ã½ºÅÛ¿£Áö´Ï¾î ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ [Àü¹®¿¬±¸¿ä¿ø Áö¿ø °¡´É]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·ç¹Ì¸£,¿ëÀÎ ¼öÁö±¸,https://kr.indeed.com/rc/clk?jk=8a0f5a8857c12e2e&fccid=6d6d49fea6335c41&vjs=3
+DW¿î¿µ ´ã´ç °æ·Â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SK¿¥¾Ø¼­ºñ½º,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=885559670da120a0&fccid=92d64ab197deb062&vjs=3
+[S/W] Â÷·®º¸¾È-Vehicle Cyber Security (°æ·Â)[¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=4cb089a8c56dab90&fccid=980d6ecc399a3373&vjs=3
+Student Training in Engineering Program (STEP) 2022  People...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=f8fe6fe8d5e8f401&fccid=a5b4499d9e91a5c6&vjs=3
+Student Training in Engineering Program (STEP) 2022  People...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=f8fe6fe8d5e8f401&fccid=a5b4499d9e91a5c6&vjs=3
+ÃßÃµ/ML SaaS ÇÃ·§Æû SW ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=eab9162310d691f8&fccid=32b9af632cf3b9f9&vjs=3
+[±â¼úº»ºÎ] PC ¸ğ¹ÙÀÏ ÇÃ·§Æû ½Ã½ºÅÛ ¿î¿µ ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Nexon,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=dd7f73d730455c96&fccid=aba87288e4cc3687&vjs=3
+[¼±Çà±â¼ú¿ø] Quantum Information[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=4ff25d50f3f66d7c&fccid=980d6ecc399a3373&vjs=3
+ºòµ¥ÀÌÅÍ ÇÃ·§Æû ¼­ºñ½º °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=f934b466ae0434a3&fccid=32b9af632cf3b9f9&vjs=3
+ÆÛºí¸®½Ì ÇÃ·§Æû Back-End °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=c313f54b8eacc59f&fccid=a1e4e21b1f33cf40&vjs=3
+[À§¸ŞÇÁ] º¸¾È°³¹ß ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=c958cac61618994e&fccid=2f8799a5ef214646&vjs=3
+SW °³¹ß Á÷±ºÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­±×·ì,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2b8a8bd9ed77ff09&fccid=bd0dc1817223394f&vjs=3
+Data Scientist Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­Å×Å©À©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=78d00614fe43330e&fccid=41ab825ad0dacc35&vjs=3
+[¼±Çà±â¼ú¿ø] Â÷·® ÃÑÇÕ»óÇ°¼º ¹× UX/UI Æò°¡ (°¨¼º/°èÃø)[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=b25ac5755f304c29&fccid=980d6ecc399a3373&vjs=3
+¹é¿£µå °³¹ßÀÚ (node.js)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,10ºĞÆ¯°ø´ë (ÇÃ¶óÀ×Ä¹),¼­¿ï,https://kr.indeed.com/company/10%EB%B6%84%ED%8A%B9%EA%B3%B5%EB%8C%80-(%ED%94%8C%EB%9D%BC%EC%9E%89%EC%BA%A3)/jobs/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-a6b3423eea05d9db?fccid=dbd0b3cd3af1d71d&vjs=3
+MongoDB Engineer ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=6ad55e06021ddccb&fccid=32b9af632cf3b9f9&vjs=3
+±¹³» ´ë±â¾÷ - AI ¹× µö·¯´× °ü·Ã °æ·ÂÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶óÇÇÇÃÄÚ¸®¾Æ¸®¹ÌÆ¼µå,¼­¿ï,https://kr.indeed.com/rc/clk?jk=3b7dbdf85a326a6d&fccid=28f5722fca6f5b12&vjs=3
+[SW°³¹ßÀÚ] ¾Ë°í¸®Áò(AI)  ¾Û °³¹ß[½ÅÀÔ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,°æ±âµµ ¿ëÀÎ,https://kr.indeed.com/rc/clk?jk=d7784c3f522750ff&fccid=980d6ecc399a3373&vjs=3
+±¤°íµ¥ÀÌÅÍÇÃ·§Æû °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=b3cbb14fc91991a4&fccid=32b9af632cf3b9f9&vjs=3
+µ¥ÀÌÅÍ ¾Ö³Î¸®½ºÆ® (Data Analyst)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ğÅ©»ø·¯µå,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=2216810fa5ed8f80&fccid=35209469e1b8c72c&vjs=3
+Ç×°ø¿£Áø ¿¬±¸°³¹ß °æ·ÂÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­¿¡¾î·Î½ºÆäÀÌ½º,Ã¢¿ø ¼ºÁÖµ¿,https://kr.indeed.com/rc/clk?jk=6d29755051fa5523&fccid=137c0e9ebc666fce&vjs=3
+ÃßÃµ Åë°èºĞ¼®/µ¥ÀÌÅÍ»çÀÌ¾ğÆ¼½ºÆ® ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=bfe0f5ac4f32ec89&fccid=32b9af632cf3b9f9&vjs=3
+[ICT] AI SW °³¹ß °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­½Ã½ºÅÛ,±¸¹Ì °ø´Üµ¿,https://kr.indeed.com/rc/clk?jk=2785e4db0ae6127e&fccid=46ba4635611e86ea&vjs=3
+¹é¿£µå °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶óÀÌÆ®ºñÀü,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=b55f400064a37286&fccid=e391d8e930358bac&vjs=3
+[¾ÆÅ°ÅØÃ³ÆÀ] AI¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾¾¿¡½º¸®,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=a6f81df478f46938&fccid=f1f32cf969091a05&vjs=3
+±â¼ú(½º¸¶Æ® °Ç¼³) °æ·Â»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½Å¼¼°è°Ç¼³,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=1f57e9a10ba4f7a8&fccid=58d1eeb0ad6b2700&vjs=3
+PHP/python À¥°³¹ß Á÷¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÖµåÆ¼ºêÀÌ³ëº£ÀÌ¼Ç,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=f207dc6aa1869510&fccid=fae8c5a93d83b755&vjs=3
+[CJ¿Ã¸®ºê³×Æ®¿÷½º]ÇÏ¹İ±â ½ÅÀÔ»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CJ±×·ì,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=7ff7fb5920ccc51e&fccid=618ff7fed7dd0cf5&vjs=3
+(ÁÖ)¾ÆÀÌ¿É½º ¼ÒÇÁÆ®¿ş¾î °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌ¿É½º,´ëÀü À¯¼º±¸,https://kr.indeed.com/rc/clk?jk=a07a555170185b5d&fccid=dbcbf1153e0db6f9&vjs=3
+½ÅÀÔ ¹× °æ·Â »ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ùºó¼ÒÇÁÆ®,Ã¢¿ø ÀÇÃ¢±¸,https://kr.indeed.com/rc/clk?jk=24d728e083b683b0&fccid=3b84f00d9022664d&vjs=3
+LINE Game Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=3f749b516300ba8c&fccid=e90e80bc9ed9a53f&vjs=3
+Data Scientist (3³âÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=38bf2e934504ba89&fccid=d29ddc820620b02e&vjs=3
+¹é¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Äõµå¸¶ÀÌ³Ê,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=57cc72da5b62ff09&fccid=4689e54333c19a95&vjs=3
+SW °³¹ß Á÷±º °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­Å×Å©À©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=c2c3f8fa12349b07&fccid=41ab825ad0dacc35&vjs=3
+[AIºĞ¾ß ÄÚ½º´Ú»óÀå»ç] ¹é¿£µå°³¹ß °æ·ÂÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼­Ä¡³İ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=857b29ec67115a4f&fccid=0b9adfc95bb2c392&vjs=3
+[½ÅÀÔ/°æ·Â] °Ë»ö¼­ºñ½º°³¹ß ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ù³ª¿Í,¼­¿ï ¾çÃµ±¸,https://kr.indeed.com/rc/clk?jk=dbf097335d890bd0&fccid=aff8f0cc5aa38973&vjs=3
+¾Èµå·ÎÀÌµå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶Å©¾Ö´Ï,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=24bbedffb12611aa&fccid=9cf7a1c9f5f81fdb&vjs=3
+Desktop Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=e19399a7d018febf&fccid=e90e80bc9ed9a53f&vjs=3
+Java/Python°³¹ß (Web Service / Back-End ¿£Áö´Ï¾î)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=bebc665380adb46d&fccid=d29ddc820620b02e&vjs=3
+¹é¿£µå  ÇÁ·ĞÆ®¿£µå ¿Ü °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÄÄ¿£ÇÃ·°½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=343493ee9165c81e&fccid=5c424affff8a3642&vjs=3
+Quantitative ResearcherÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,WorldQuant,¼­¿ï,https://kr.indeed.com/rc/clk?jk=1e4ca4e4ddf036ea&fccid=08487f979320ebae&vjs=3
+½º¸¶Æ®½ÃÆ¼ IoT ½Ã½ºÅÛ °³¹ß (ÀÓº£µğµå SW)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µå¸²¿¡ÀÌ½º,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=c569c9cf8bfdcd1f&fccid=8ff46f0f52527109&vjs=3
+Àü»êÀü¹®ÀÎ·Â(~7/24)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºêÀÌ¾ÆÀÌÇÇÀÚ»ê¿î¿ë,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=762f4670e39d3075&fccid=b56486e332998764&vjs=3
+[Business Assessment Office] IT Internal Auditor (3³â ÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¡ÇÁÅæ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=5f7620714c7d9c1a&fccid=0aeb279b74dee723&vjs=3
+[NAVER Cloud] MongoDB µ¥ÀÌÅÍº£ÀÌ½º ¿£Áö´Ï¾î (DBA)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³×ÀÌ¹öÅ¬¶ó¿ìµå,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=5d665de9cba5b0e3&fccid=54815931228b42c0&vjs=3
+Web / Spring Framework °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡¸¯½¼¿¤Áö,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=3c1c5dc51d08cf18&fccid=ac974143ce3d6850&vjs=3
+µ¥ÀÌÅÍ ºĞ¼® ¹× ÁöÇ¥ ¼³°èÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÇÁ¸®Ä«TV,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=e6505346ac1f2bee&fccid=bc48816053af06b3&vjs=3
+[OK ÀÎº£½ºÆ®¸ÕÆ®ÆÄÆ®³Ê½º] °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,OK±İÀ¶±×·ì,¼­¿ï ³²´ë¹®·Î4°¡,https://kr.indeed.com/rc/clk?jk=64c06f893d6af9ce&fccid=6954c3cdfd652a05&vjs=3
+[EYÄÁ¼³ÆÃ] ÄÁ¼³ÆÃº»ºÎ Data & AnalyticsÆÀ °æ·Â ÄÁ¼³ÅÏÆ® ¸ğÁı (Senior ~ Manager...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,EY,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=d6f52d1508c6333e&fccid=1544766d4c2915b0&vjs=3
+[À§¸ŞÇÁ¼­ºñ½º] NLP EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=79b1c4cd15a6e3b4&fccid=2f8799a5ef214646&vjs=3
+[·Ôµ¥Á¤º¸Åë½Å] Ä«µåISÆÀ ½Ã½ºÅÛ ¿£Áö´Ï¾î (ÀÎÇÁ¶ó±¸Ãà/¿î¿µ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·Ôµ¥Á¤º¸Åë½Å,¼­¿ï,https://kr.indeed.com/rc/clk?jk=666826b0c6041925&fccid=ae6a0ecfe23adfb7&vjs=3
+Business AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Èú¸µÆäÀÌÆÛ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=16aa88db91ae742f&fccid=674cf8ae9dea63c2&vjs=3
+[¼±Çà±â¼ú¿ø] ¿¬±¸°³¹ß±â¼úºĞ¼®_ÄÄÇ»ÅÍ »çÀÌ¾ğ½º[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=131747620a9430af&fccid=980d6ecc399a3373&vjs=3
+[°æ·°] AI °³¹ß °æ·ÂÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸®µå³Ñ¹ö,¼­¿ï °ü¾Ç±¸,https://kr.indeed.com/rc/clk?jk=880ba9f495dc747c&fccid=5f3b76d31f378273&vjs=3
+[·¥ÇÃÄÚµùÇĞ¿ø] ¿Â¿ÀÇÁ¶óÀÎ ÄÚµù °­»çÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ë·ù¿¡ÀÕ º¥Ã³½º,´ëÀü ¼­±¸,https://kr.indeed.com/rc/clk?jk=3415a2ec10f41d98&fccid=11d8b37b858f8313&vjs=3
+Áß¼Òº¥Ã³±â¾÷ ¿Â¶óÀÎ ¹Ú¶÷È¸ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹µµ·Î°ø»ç ½º¸¶Æ®µµ·Î¿¬±¸´Ü,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=c88df68a056e5255&fccid=03eef842ded89102&vjs=3
+[ICT] Front-end Engineer ? µ¥ÀÌÅÍ ¼­ºñ½º ÇÃ·§Æû[¸Å´ÏÀú]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=7b74036f7341181a&fccid=980d6ecc399a3373&vjs=3
+[DBÇÏÀÌÅØ] ÇÏ¹İ±â ½ÅÀÔ»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,DB±×·ì,¼­¿ï ´ëÄ¡µ¿,https://kr.indeed.com/rc/clk?jk=d43b3082d43850a0&fccid=58d90fb31d5feb8b&vjs=3
+±¹³» ¸®µù ºäÆ¼ ±â¾÷  AI °Ë»ö ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ¾îÆ÷ÀÎÆ®,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=45e913f80a5c7ee0&fccid=a71819ff34fb2d90&vjs=3
+¹é¿£µå °³¹ßÀÚ(ÀÎÅÏ½Ê)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾×½º,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=b7223c792bfcbcd4&fccid=5013eca338141e7d&vjs=3
+Algorithm - eBeam - Machine Learning & Image ProcessingÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KLA,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=fd583231a6098199&fccid=c8fc142c28286059&vjs=3
+[UI Framework] ½Å°³³ä Game UI¸¦ Ã¢Á¶ÇÒ graphics engine programmer ¸ğ...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=f2a2160df68fa5d9&fccid=a1e4e21b1f33cf40&vjs=3
+ÆÄÀÌºê½ºÆÌ ¹é¿£µå °³¹ßÀÚ(Python)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,FASTFIVE,¼­¿ï °­³²±¸,https://kr.indeed.com/company/FASTFIVE/jobs/%ED%8C%8C%EC%9D%B4%EB%B8%8C%EC%8A%A4%ED%8C%9F-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-a7de63fbef75c0d3?fccid=dd3abc2554a35d5c&vjs=3
+AI¿£Áö´Ï¾î(°­È­ÇĞ½À) ´ã´çÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³İ¸¶ºí,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=0e1d0774ca7f1a49&fccid=e696d83fde5c0f20&vjs=3
+È¯ÀÎÁ¦¾à(ÁÖ) »ó½Ã ÀÎÀçpool µî·ÏÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,È¯ÀÎÁ¦¾à,°æ±âµµ ¾È¼º,https://kr.indeed.com/rc/clk?jk=3d7d0b43149555b0&fccid=fb43834fbb50ff52&vjs=3
+Partner Technology Manager  YouTube Music (English  Korean)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,YouTube,¼­¿ï,https://kr.indeed.com/rc/clk?jk=482bda98a72783fc&fccid=a9021c35fcef6968&vjs=3
+Database EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,HERE Technologies,¼­¿ï,https://kr.indeed.com/rc/clk?jk=428087a4fe7e8411&fccid=1a8dd67b37dcdef8&vjs=3
+¿£¹Ìµğ¾îÇÃ·§Æû µ¥ÀÌÅÍº£ÀÌ½º °ü¸®ÀÚ (DBA) ÀÎÀç ¾È³»ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸®´õ½º¼ÒÇÁÆ®,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=d0ca27a97ddf91f9&fccid=899ef09e06ec4d9d&vjs=3
+[´ºÇÃ·§Æû±â¼ú] Å¬¶ó¿ìµå ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À¹ğÅ©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=44482fb1fea981d2&fccid=a8ac43179956a6aa&vjs=3
+Sensor Fusion EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Superb AI,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4ef5038b18071f9a&fccid=2ce7b49b3fdddbb1&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î ¹× »çÀÌ¾ğÆ¼½ºÆ®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=d8a8869ab092f731&fccid=32b9af632cf3b9f9&vjs=3
+¹é¿£µå °³¹ßÀÚ (°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·Î½º¾Ş±Û,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=af5683389907a8c9&fccid=80db28fd17ccf3a9&vjs=3
+Technical Architect[°æ·Â]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=c5bce63bd9ffe824&fccid=980d6ecc399a3373&vjs=3
+[´ë±â¾÷] µ¥ÀÌÅÍºĞ¼®°¡ °æ·Â (´ë¸®~°úÀå±Ş 2¸í)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌÄ¡¾Ë´ÏÁî,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b2eb1fe78ff9ee5f&fccid=b8c1027d6dda0525&vjs=3
+Django ±â¹İÀÇ Front end °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=d2edaaad45968156&fccid=d29ddc820620b02e&vjs=3
+[ÁÖ4.5ÀÏ] µö·¯´× ¿¬±¸ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎ¶óÀÌÇÃ,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=b7404340e4697466&fccid=25a5f8f961de7852&vjs=3
+Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Superb AI,¼­¿ï,https://kr.indeed.com/rc/clk?jk=c207c26e50cb0b7b&fccid=2ce7b49b3fdddbb1&vjs=3
+Senior Associate  Data ScienceÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bain & Company,¼­¿ï,https://kr.indeed.com/rc/clk?jk=41379cd49416c9ca&fccid=48270b2eee62c2c6&vjs=3
+ITº»ºÎ ½ÅÀÔ/°æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÃ¤±ÇÆò°¡,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=56ebd4ee4d26c877&fccid=c54b7952dd9d6d70&vjs=3
+Embedded Software Engineer - ConnectedÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GE Appliances,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=9193b9de45a0ac1c&fccid=6a7f2fa034a3fd36&vjs=3
+Å¬¶ó¿ìµå À¶ÇÕ SW±â¼ú ÀÎÀç¾ç¼º CAB TA 1±â ±³À°»ıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±¹Å¬¶ó¿ìµåÄÄÇ»ÆÃ¿¬±¸Á¶ÇÕ,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=da0492613b40c7b9&fccid=4f2c0d1374d91e13&vjs=3
+ÇÁ·ĞÆ®¿£µå  À¥°³¹ß ¿Ü ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆäÀÓÀ¯´Ï¹ö½º,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=413dacbda91de265&fccid=0e6d0a0db6482224&vjs=3
+(ESTsecurity) ¼­¹ö ¹é¿£µå °³¹ßÀÚ (°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÌ½ºÆ®½ÃÅ¥¸®Æ¼,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=4c04e2911ac51569&fccid=c1bd8195460bf155&vjs=3
+ÀÎÇÁ¶ó ±¸Ãà/¿î¿µ(Ä«µå) °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·Ôµ¥Á¤º¸Åë½Å,¼­¿ï °¡»êµ¿,https://kr.indeed.com/rc/clk?jk=e7cdbec773cb26d7&fccid=ae6a0ecfe23adfb7&vjs=3
+1-yr Internship: Sensor Lab EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Infineon Technologies,¼­¿ï,https://kr.indeed.com/rc/clk?jk=aeeccd4a7c31f94d&fccid=d29c5f56235af7ca&vjs=3
+ITº»ºÎ ½ÅÀÔ ¹× °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å°½ºÀÚ»êÆò°¡,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=48ea045d37f24637&fccid=50e8aec529f867e7&vjs=3
+¾ç»ê±â¼úÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°í¿µÅ×Å©³î·¯Áö,°æ±âµµ ±¤¸í,https://kr.indeed.com/rc/clk?jk=f9c1c8709b5f1786&fccid=a13dce9f83ee80a9&vjs=3
+Partner Technology Manager  YouTube Music (English  Korean)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸±ÛÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3efda042dce7df07&fccid=28712efe9a7c8d8a&vjs=3
+¹é¿£µå°³¹ßÀÚ  ¸ğ¹ÙÀÏ¾Û°³¹ß  ºí·ÏÃ¼ÀÎ °³¹ß ¿Ü °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ÍÀÌÁîÅØ,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=cb32779fd73ae72e&fccid=8b01882cef0e8002&vjs=3
+SW/HW °³¹ßÁ÷±º °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­Å×Å©À©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=67b480336d11cfbe&fccid=41ab825ad0dacc35&vjs=3
+[°æ·Â´ÜÀı ] AI ¸ğµ¨ °³¹ßÀÚ(3³âÂ÷  ±Ù¹«½Ã°£Á¶À²°¡´É)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å°¿ÂºñÆ®,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=72719f08427aad64&fccid=9a888c50ca3f400a&vjs=3
+Staff Machine Learning Engineer(GO)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=8d1b639e1ee4def3&fccid=56e12959d04ef145&vjs=3
+Applications Engineer  Sr IÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Synopsys,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=a14d03dcbbc56439&fccid=6ce9eba87609c3e9&vjs=3
+[±Û·Î¹úAI]ÀÎ°øÁö´É(AI) ¿£Áö´Ï¾îÆÀ ¸®´õÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÄÚ¸®¾Æ ÇÁ·ÎÆä¼Å³Î,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=2077cdfe5bc6523f&fccid=842365965c1f45a0&vjs=3
+º´·ÂÆ¯·Ê Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ¸Æ½º,¼º³² »ó´ë¿øµ¿,https://kr.indeed.com/rc/clk?jk=c1502be60667832f&fccid=02b16deb8e87473d&vjs=3
+'22³â ÇÑÈ­½Ã½ºÅÛ ¹æ»êºÎ¹® Ã¤¿ë ¼®/¹Ú»ç ½ÅÀÔ ¹× °æ·Â (HW ºĞ¾ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­±×·ì,¼­¿ï,https://kr.indeed.com/rc/clk?jk=50235bc505df94a5&fccid=bd0dc1817223394f&vjs=3
+Àü¹®¿¬±¸¿ä¿ø Ã¤¿ë ÀüÇüÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºä¿÷½º,¾È¾ç °ü¾çµ¿,https://kr.indeed.com/rc/clk?jk=f6d94d6f8464f2d9&fccid=0bd44dde5028ebef&vjs=3
+[KR] µ¥ºê¿É½º ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿Ã°Å³ªÀÌÁîÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=4afc567bbdf4b4cc&fccid=707decd4d5b2755e&vjs=3
+ÇÃ·§Æû °³¹ß / À¥ °³¹ßÀÚ (java  jsp) °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»÷Áî·¦,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=59b415e7ba64b704&fccid=0a61971e57ce835f&vjs=3
+VOD ¼ÒºñÆĞÅÏ ºĞ¼® ¹× ¼­ºñ½º°³¼±ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÇÁ¸®Ä«TV,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=58f72337482f1a33&fccid=bc48816053af06b3&vjs=3
+Java  Python ¿µ»óÅø °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌ¾ÆÀÌ¸ŞÀÌÄ¿,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=cae2de07045cfb2b&fccid=5347ade40d1c0654&vjs=3
+[Coupang] Staff  Data scientist (FTS)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=a2a775a9e48186f0&fccid=56e12959d04ef145&vjs=3
+À©µµ¿ì °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºä³ëÄÚ¸®¾Æ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=5d2be6ac90600043&fccid=282d63dcd74d554d&vjs=3
+Web / Spring Framework Developer (½ÅÀÔ/°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡¸¯½¼¿¤Áö,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=d1d20bf4d9310258&fccid=ac974143ce3d6850&vjs=3
+Customer Solutions EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸±ÛÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=a363dd9065239dc3&fccid=28712efe9a7c8d8a&vjs=3
+Senior Data/Digital AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,The Trade Desk,¼­¿ï,https://kr.indeed.com/company/The-Trade-Desk-Japan-K.K.-(Japan)/jobs/Senior-Data-Digital-Analyst-659e8fe1fe7f9089?fccid=73918ffb65693970&vjs=3
+DevOps ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£Ä«´åÄÄ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=6afb7ba30edced73&fccid=ddbe4fc9001c5622&vjs=3
+Digital Design EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,(ÁÖ)½Ç¸®ÄÜ¾ÆÃ÷,¼­¿ï,https://kr.indeed.com/company/(%EC%A3%BC)%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%95%84%EC%B8%A0/jobs/Digital-Design-Engineer-019a803c31b07724?fccid=47968be282e58be4&vjs=3
+ºòµ¥ÀÌÅÍ ½ÅÀÔ/°æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,JB,¾Æ»ê À½ºÀ¸é,https://kr.indeed.com/rc/clk?jk=f0332425c19637e5&fccid=b36d1595594b2ee1&vjs=3
+Software°³¹ßÀÚ ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸ŞµğÄÚ¾Æ,°æ±âµµ ÇÏ³²,https://kr.indeed.com/rc/clk?jk=ca8748df70f08f71&fccid=28f0d71537700c20&vjs=3
+ÃßÃµÇü °Ë»ö ¼­ºñ½º ÇÃ·§Æû °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=c34225b902378acb&fccid=32b9af632cf3b9f9&vjs=3
+[¿ÀÇÂ¸µÅ©/¿ÀÇÂÃ¤ÆÃ] ¼­¹ö °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=0781047e370997d9&fccid=32b9af632cf3b9f9&vjs=3
+»ı¼º¸ğµ¨ ¿¬±¸ ¹× Á¦Ç°°³¹ßÀÚ_Àü¹®¿¬±¸¿ä¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=0986e8b71c6fd4f6&fccid=d29ddc820620b02e&vjs=3
+[°æ±âÁö¿ª ¿ì¼öÁß¼Ò±â¾÷ ¿Â¶óÀÎ ¹Ú¶÷È¸]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³İ¹Í½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=9144817ca6d5abb5&fccid=5b90b8565ebcbbca&vjs=3
+±İÀ¶°øÇĞ¿¬±¸ ½ÅÀÔ/°æ·Â/º´¿ªÆ¯·Ê Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NICEÇÇ¾Ø¾ÆÀÌ,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=424c40da403d9398&fccid=ce08d4df7ebe6d5f&vjs=3
+Software Engineer  RoboticsÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bear Robotics,¼­¿ï,https://kr.indeed.com/rc/clk?jk=516a88c8754956fd&fccid=d7230dda285fd6ea&vjs=3
+Ä«µå ¾÷¹«ÀÚµ¿È­ °³¹ß ¹× ¿î¿µ °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ì¸®¿¡ÇÁ¾ÆÀÌ¿¡½º,¼­¿ï »ó¾Ïµ¿,https://kr.indeed.com/rc/clk?jk=9411f32a856fe635&fccid=55bdd8211be46c4f&vjs=3
+Customer Solutions Engineer  Global Client and Agency Soluti...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,¼­¿ï,https://kr.indeed.com/rc/clk?jk=fb8f5764cdbe3c39&fccid=a5b4499d9e91a5c6&vjs=3
+[ICT] Back-end Engineer - À¥ ¾îÇÃ¸®ÄÉÀÌ¼Ç[¸Å´ÏÀú  Ã¥ÀÓ¸Å´ÏÀú]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=936a4af6d09836b9&fccid=980d6ecc399a3373&vjs=3
+¹İµµÃ¼ ºĞ¾ßº° SoC ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,È¸»ç¸í,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=3342a2dfc6922e68&fccid=a6a2cb60b8f19368&vjs=3
+[¹Ìµğ¿ò] °³¹ßÆÀ ÇÁ·ĞÆ®¿£µå  ¹é¿£µå ÀÎÀçÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹Ìµğ¿ò,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=ace8ee4d7a6c3f75&fccid=f4cca47e65c23039&vjs=3
+AI Algorithm DeveloperÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆŞÇÍ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=88b7dece067cd1c6&fccid=7de729fac59952f3&vjs=3
+Sr Technical Support EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,HERE Technologies,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2f0821bdca3e8ede&fccid=1a8dd67b37dcdef8&vjs=3
+[Applied AI] µ¥ÀÌÅÍ ÆÄÀÌÇÁ¶óÀÎ °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=df28a274217caf37&fccid=a1e4e21b1f33cf40&vjs=3
+Cloud Consultant  Application Modernization  Google Cloud Pr...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,¼­¿ï,https://kr.indeed.com/rc/clk?jk=df16c563d795917f&fccid=a5b4499d9e91a5c6&vjs=3
+Software Tools Engineer (Back-end)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=ca1c6cd7a6824b60&fccid=e90e80bc9ed9a53f&vjs=3
+Technical Support Engineer - Korean Language ExpertÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Tenable  Inc,¼­¿ï,https://kr.indeed.com/rc/clk?jk=e40f91cb75bca2e3&fccid=274de80e5a5db985&vjs=3
+(ÁÖ)¾ÆÀÌ¿É½º ¸Ó½Å·¯´× ¿£Áö´Ï¾î ¿¬±¸¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌ¿É½º,´ëÀü À¯¼º±¸,https://kr.indeed.com/rc/clk?jk=3a9a516936e6ec9b&fccid=dbcbf1153e0db6f9&vjs=3
+C¡¤C++  JAVA ¿Ü ½ÅÀÔ/°æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½´¾î¼ÒÇÁÆ®Å×Å©,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=47f8620f492ecc84&fccid=e1a5234e5ccea778&vjs=3
+µ¥ÀÌÅÍ »çÀÌ¾ğÆ¼½ºÆ® (¾Ë°í¸®Áò ÀÀ¿ë.°³¹ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ËÆ¼¸ğºô¸®Æ¼,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=99f0d6e90b5c3e11&fccid=2ec20f496630322d&vjs=3
+[Å¥·Îµå] À¥°³¹ß °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å¥·Îµå,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=3a31994322ee100f&fccid=f93a0afaf3af669d&vjs=3
+LINE Wallet & Fintech - Business AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=30a3ad72aea5310b&fccid=e90e80bc9ed9a53f&vjs=3
+VIDEO ENGINEERÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ODK Media  Inc.,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f6d738766875bdb1&fccid=3b1901acc774c742&vjs=3
+Technical Trainer - Amazon Web ServicesÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ffb99f0dccb58518&fccid=fe2d21eef233e94a&vjs=3
+Algorithm Engineer (Senior)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´ëÇÑ»ó»ó,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=2fd8153d161db2f5&fccid=e8cc3946292de49a&vjs=3
+¹İµµÃ¼ IP SoC Verification EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,È¸»ç¸í,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=06fd3322fee19596&fccid=a6a2cb60b8f19368&vjs=3
+Machine Learning Engineer - KoreaÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,MOLOCO,¼­¿ï,https://kr.indeed.com/rc/clk?jk=99b17cdf7773a816&fccid=27317bcae2b26fe5&vjs=3
+¹é¿£µå ¿£Áö´Ï¾î (ÁÖ´Ï¾î)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌºí¸®ÄÚÆÛ·¹ÀÌ¼Ç,¼­¿ï,https://kr.indeed.com/rc/clk?jk=eacdb0a07c2c9e97&fccid=e98e3bb42308e608&vjs=3
+Ã¤±ÇÆò°¡»ç¾÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÃ¤±ÇÆò°¡,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=5273def527e265f6&fccid=c54b7952dd9d6d70&vjs=3
+R&D Software Engineer: Sensor FusionÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ThorDrive Inc,¼­¿ï,https://kr.indeed.com/rc/clk?jk=5a22ef996b67eac6&fccid=3e85ac49dfd6b2c5&vjs=3
+Business Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,AIA,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b8c69b58bc3fe70c&fccid=004041685e219574&vjs=3
+Spec  Software Quality EngrgÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,3D Systems,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=c1b4bcaba77f69ed&fccid=a169ca96640cc40c&vjs=3
+Senior Security Engineer - À§Çù ºĞ¼®/´ëÀÀÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=d6af29d26c9e1d96&fccid=73fe623ec23ed0a5&vjs=3
+Safety Platform Software Engineer?(m/f/d)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,TTTech Auto AG,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4160e58082f6e9e1&fccid=ae92dc7f6d02b373&vjs=3
+ÇÃ·§Æû ¹é¾Øµå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºñÁîºÎ½ºÅÍ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=e59c90307a4923d9&fccid=edf523143ceb94fc&vjs=3
+ÄÚµù °­»ç (ÃÊ Áß °íµîÇĞ»ı ´ë»ó) ¾¾Å¥ºêÄÚµù ³²¾çÁÖ º°³»¼¾ÅÍÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾¾Å¥ºêÄÚµù º°³»ÇĞ¿ø,°æ±âµµ ³²¾çÁÖ,https://kr.indeed.com/rc/clk?jk=38a475d210211404&fccid=2a5c5614bec53a12&vjs=3
+ÇÏ¹İ±â °æ·ÂÁ÷ Ã¤¿ë[U W]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ¸®¾È¸®Àçº¸Çè,¼­¿ï ¼ö¼Ûµ¿,https://kr.indeed.com/rc/clk?jk=63dc3cd0f2def9c0&fccid=d918e3fe15322cdd&vjs=3
+½Ã½ºÅÛ °³¹ß °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌÁöÁ¦·ÎÀÎ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=d17f1581fb55bee4&fccid=bfdba13fe070a19e&vjs=3
+Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Dupont,ÃæÃ»³²µµ Ãµ¾È,https://kr.indeed.com/rc/clk?jk=ccd195801ae326d8&fccid=76bce720eab9a7b0&vjs=3
+BIÆÀ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GC³ì½ÊÀÚÁö³ğ,¿ëÀÎ ±âÈï±¸,https://kr.indeed.com/rc/clk?jk=4721ceaf47437a8b&fccid=d841ec1b32c04ab7&vjs=3
+ÀÎ»çºĞ¾ß ½ÅÀÔ»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GSÄ®ÅØ½º,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=d39d5624bfcc6b01&fccid=f152288f3dcf6e51&vjs=3
+[Áß°ßÄÚ½º´Ú] ±â¼úÇõ½Å ÆÀÀå±ŞÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä¿¸®¾î¼­Æ÷Æ®,Ã»ÁÖ Ã»¿ø±¸,https://kr.indeed.com/rc/clk?jk=5105965f61960673&fccid=beb8f34e9d1bf8e8&vjs=3
+[¼±Çà±â¼ú¿ø] ½Ã½ºÅÛ ¼º´É °èÃø Æò°¡ (±â°è °èÃø/ºĞ¼®)[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=8250b41651d51ef2&fccid=980d6ecc399a3373&vjs=3
+Application developer - Back-end °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ±×³İ³ªÀÎ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=941fd0afb9dafc39&fccid=015d2bad6d9df969&vjs=3
+¼­ºñ½º ¿£Áö´Ï¾î(»ıÃ¼½ÅÈ£)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºä³ëÄÚ¸®¾Æ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=85f5da4e7755c1dc&fccid=282d63dcd74d554d&vjs=3
+¹Ìµé¿ş¾î WEB/WAS ¿î¿µ °æ·Â»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GS ITM,¼­¿ï Àçµ¿,https://kr.indeed.com/rc/clk?jk=ef675a5506696034&fccid=619a8f6fadae8531&vjs=3
+[SWÀ¶ÇÕ] ÀÓº£µğµå[½ÅÀÔ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,°æ±âµµ ¿ëÀÎ,https://kr.indeed.com/rc/clk?jk=80ce2c333ea8bab8&fccid=980d6ecc399a3373&vjs=3
+[½ÅÀÔ/°æ·Â] ÇÉÅ×Å© À¥ °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,(ÁÖ)¿şÀÎÅ×Å©³î·ÎÁö °ü½É±â¾÷,¼­¿ï ±¸·Îµ¿,https://kr.indeed.com/rc/clk?jk=64fa59d515557483&fccid=c7a9978df784043c&vjs=3
+±¤°íÇÃ·§Æû ¿£Áö´Ï¾î ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿ÀÆäÀÌ,¼º³² ¹éÇöµ¿,https://kr.indeed.com/rc/clk?jk=8c2da5be46f93fd8&fccid=c3aa6121be03065c&vjs=3
+ADAS/AD Application EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,AVL,¼­¿ï,https://kr.indeed.com/rc/clk?jk=fdb4ff35cdb98852&fccid=a8128b0f1af14ed3&vjs=3
+[³×ÀÌ¹ö°è¿­»ç][NIT Service] NAVER IDC ¼­¹ö ¿î¿µ/°ü¸®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾ÆÀÌÆ¼¼­ºñ½º,°­¿øµµ ÃáÃµ,https://kr.indeed.com/rc/clk?jk=4cde7e45a5d89b6a&fccid=d389f1042b660837&vjs=3
+IT µğÁöÅĞÇõ½Å½Ç Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¿È­±â¾÷,ÀÎÃµ °¡ÁÂµ¿,https://kr.indeed.com/rc/clk?jk=60e98c228e2e652b&fccid=79fb060a2e526227&vjs=3
+¹é¿£µå °³¹ß °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SK·»ÅÍÄ«,¼­¿ï °üÃ¶µ¿,https://kr.indeed.com/rc/clk?jk=8e81d7627420ed4a&fccid=35211f245e490aae&vjs=3
+R&D Engineer  Sr IIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Synopsys,°æ±âµµ ¿ëÀÎ,https://kr.indeed.com/rc/clk?jk=1fc6ef7c83efeca7&fccid=6ce9eba87609c3e9&vjs=3
+ºòµ¥ÀÌÅÍ ÇÃ·§Æû °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¢½¼Åõ,¼º³² ¼öÁ¤±¸,https://kr.indeed.com/rc/clk?jk=193deca3fc23cd4f&fccid=26fe831646f601e2&vjs=3
+Software Engineer (Application)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KLA,°æ±âµµ,https://kr.indeed.com/rc/clk?jk=c0924154f9e9bcbe&fccid=c8fc142c28286059&vjs=3
+Software Engineer  DevOpsÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bear Robotics,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2c0e860a072a5a54&fccid=d7230dda285fd6ea&vjs=3
+[Å×Å©·Î½º¿øÅÍ¿¡³ÊÁö] ¿¬±¸°³¹ß/È¯°æ °æ·Â»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å×Å©·Î½º,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=b5850989aa713bc2&fccid=29564924c504e9e9&vjs=3
+¸ñµ¿ ÄÄÇ»ÅÍ ÄÚµùÇĞ¿ø ±³À°°­»ç (Á¤±ÔÁ÷ ¹× °è¾àÁ÷  °æ·Â¹«°ü)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌºêÄÚµù¸ñµ¿ÇĞ¿ø,¼­¿ï ¾çÃµ±¸,https://kr.indeed.com/rc/clk?jk=7543944fc437926b&fccid=30f7201d74468079&vjs=3
+SW EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½º´©¾ÆÀÌ·¦,¼­¿ï °ü¾Ç±¸,https://kr.indeed.com/rc/clk?jk=846f02d8d27a5d36&fccid=e9e74483a2f00396&vjs=3
+DNN ¸ğµ¨ ÃÖÀûÈ­ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=c497ed5791d2f990&fccid=e34932b8232a173b&vjs=3
+À¥/¾Û °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½ÃÅ¥¾î¸µÅ©,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=fbe49d51a949fa02&fccid=898f0e9d97b2bff6&vjs=3
+¿¬±¸°³¹ßº»ºÎ Ã¤¿ë°ø°íÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄíÃ¾,¼­¿ï »ï¼ºµ¿,https://kr.indeed.com/rc/clk?jk=42781bed59a9be95&fccid=8b153a50240e88b7&vjs=3
+µ¥ÀÌÅÍ ºĞ¼®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄÀÌÇÁÆ®¸®½º¸¶Æ®ÆÊ,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=d49618d656468d9b&fccid=91264d1b241643c2&vjs=3
+°æ¿µÁö¿ø °æ·Â ÀüºÎ¹® ¼ö½ÃÃ¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,HKÀÌ³ë¿£,¼­¿ï À»Áö·Î2°¡,https://kr.indeed.com/rc/clk?jk=34d45b4756e097c1&fccid=b61ea2c7f6644f51&vjs=3
+°æ¿µÁö¿øºÎ¹® ½ÅÀÔ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÆ®·£½Ã½º,¼­»ê Áö°î¸é,https://kr.indeed.com/rc/clk?jk=12c7453e48a4e2b0&fccid=bf7723ce689f54bf&vjs=3
+ºòµ¥ÀÌÅÍ ¿£Áö´Ï¾î ºĞ¾ß ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,11¹ø°¡,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=e97f4353ccd138b9&fccid=aba8aade58c00c02&vjs=3
+[ÇÏ³ª±İÀ¶±×·ì] ºòµ¥ÀÌÅÍ ºĞ¼® ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÏ³ª±İÀ¶Æ¼¾ÆÀÌ,ÀÎÃµ Ã»¶óµ¿,https://kr.indeed.com/rc/clk?jk=e3e736b46dbb35cd&fccid=eb82f052aed06b37&vjs=3
+·»´õ¸µ ¿£Áø °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½º³ë¿ì,¼º³² ¹éÇöµ¿,https://kr.indeed.com/rc/clk?jk=8b5826f367d5c122&fccid=d6720c3277316d68&vjs=3
+ÇÏ¹İ±â Ã¤¿ëÀüÁ¦Çü ÀÎÅÏ»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,DBÇÏÀÌÅØ,ºÎÃµ µµ´çµ¿,https://kr.indeed.com/rc/clk?jk=b622d0cd5575b146&fccid=eea775a7968b4a3d&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î ½ÅÀÔ/°æ·Â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÅÙ¹ÙÀÌÅÙ,¼­¿ï ¿¬°Çµ¿,https://kr.indeed.com/rc/clk?jk=8fcc1a4bff91430c&fccid=06522dc41f0858e7&vjs=3
+SOC Engineer  StaffÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Synopsys,°æ±âµµ ¿ëÀÎ,https://kr.indeed.com/rc/clk?jk=6be1e22339546cc8&fccid=6ce9eba87609c3e9&vjs=3
+[±Û·Î¹úµğÁöÅĞ¸¶ÄÉÆÃ] MLOps Data Engineer Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÜ¼¾Æ®¸¯½º¼­ºñ½ºÄÚ¸®¾Æ,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=6ffefdd66c87b921&fccid=7789b87d5d996c4a&vjs=3
+Korean Speaking Mentors (Independent Contractor): AI Program...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Udacity,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f0d5f3fa633e9016&fccid=1503f9b2e8718009&vjs=3
+D-lab ÆÀ¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÌÁö½ºÀÚ»ê¿î¿ë,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=48c56fc0745c828e&fccid=fd4898f8ae34893e&vjs=3
+Solutions Engineer  StaffÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Synopsys,¼­¿ï,https://kr.indeed.com/rc/clk?jk=90e4b9b3cfc3c6b4&fccid=6ce9eba87609c3e9&vjs=3
+´ë¿ë·® µ¥ÀÌÅÍ ¿£Áö´Ï¾î¸µÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÇÁ¸®Ä«TV,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=73ae674224deb122&fccid=bc48816053af06b3&vjs=3
+FX artistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,The Mill,¼­¿ï,https://kr.indeed.com/rc/clk?jk=29664de6426a2f00&fccid=f3a39a118b119e14&vjs=3
+[ÆĞ½ºÆ®Ä·ÆÛ½º] ¸Ş°¡¹ÙÀÌÆ® ½ºÄğ : µ¥ÀÌÅÍ ºĞ¼®°¡ Ãë¾÷ ¿Ï¼ºÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼­¿ï¿©ÀÚ´ëÇĞ±³,¼­¿ï ³ë¿ø±¸,https://kr.indeed.com/rc/clk?jk=6e49437c8a692eef&fccid=840dc776358ce5ef&vjs=3
+[Vueron] µö·¯´× ¿£Áö´Ï¾î - ÀÚÀ²ÁÖÇà/¶óÀÌ´Ù Ã³¸®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºä·±Å×Å©³î·ÎÁö,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=b54a1caae4992ed9&fccid=98608656606c0861&vjs=3
+ÀÓ»ó½ÃÇè ¿¬±¸¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´º·ÎÇÍ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=de5e2b62877de80e&fccid=23cbc8f59060f439&vjs=3
+µ¥ºê¿É½º ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄ¿îÆ®,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=5d4dbbfa0643884f&fccid=df5e7ec512668ebf&vjs=3
+AI(ÀÎ°øÁö´É) °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÈŞ¸ÕµğÁöÅĞ,¼­¿ï,https://kr.indeed.com/rc/clk?jk=d498993697237b33&fccid=796208c8550d9592&vjs=3
+ML/AI Researcher_ Àü¹®¿¬±¸¿ä¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=73d062261130a78c&fccid=d29ddc820620b02e&vjs=3
+Linux/ÀÓº£µğµå ±â¹İ º¸¾È ¼Ö·ç¼Ç °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³ë¸£¸¶,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=cb3d3bf58ea0bf85&fccid=79e7a4b57889001b&vjs=3
+´ëÀü Áö¿ª±â¾÷-Ã»³â Èñ¸ÁÀÌ¾÷ ÅäÅ©ÄÜ¼­Æ® Âü¿©ÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´ëÀüÀÏÀÚ¸®°æÁ¦ÁøÈï¿ø,´ëÀü,https://kr.indeed.com/rc/clk?jk=215c4bbbc986affb&fccid=c4081a575b958f56&vjs=3
+ÀÚµ¿È­Àåºñ SW°³¹ß °æ·ÂÀÎÀç - ÀÚµ¿Â÷ºÎÇ° ¿ì·®´ë±â¾÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½º¿¡ÇÁÀÎÃÌ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3997db0cfc4cff03&fccid=629bf66c8ed71fe3&vjs=3
+Software Engineer  Linux SystemÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bear Robotics,¼­¿ï,https://kr.indeed.com/rc/clk?jk=eb582e514b8df70f&fccid=d7230dda285fd6ea&vjs=3
+Deep Learning Researcher (½ÅÀÔ/°æ·Â/Àü¹®¿¬±¸¿ä¿ø)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Cognex Corporation,¼­¿ï,https://kr.indeed.com/rc/clk?jk=6143a95778cb0259&fccid=10262ed586a63244&vjs=3
+'22³â ÇÑÈ­½Ã½ºÅÛ ¹æ»êºÎ¹® Ã¤¿ë ¼®/¹Ú»ç ½ÅÀÔ ¹× °æ·Â (SW ºĞ¾ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­±×·ì,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ff65b0301d703f24&fccid=bd0dc1817223394f&vjs=3
+[ICT] CV(Computer Vision) °³¹ß °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­½Ã½ºÅÛ,±¸¹Ì °ø´Üµ¿,https://kr.indeed.com/rc/clk?jk=d2337864f11c12e9&fccid=46ba4635611e86ea&vjs=3
+ÀÚ»ê¿î¿ëº»ºÎ °æ·ÂÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Èï±¹»ı¸íº¸Çè,¼­¿ï ½Å¹®·Î1°¡,https://kr.indeed.com/rc/clk?jk=e9fc739bde299987&fccid=91d9c052eb09567d&vjs=3
+µ¥ÀÌÅÍ ·Î±× °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÜÅÙÃ÷¿şÀÌºê,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=ae1500b229393971&fccid=5bc77c5b90715cab&vjs=3
+°³¹ß ½ÅÀÔ/°æ·ÂÁ÷ ¼ö½Ã Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±Û°úÄÄÇ»ÅÍ,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=80ef0d8eb59db4d5&fccid=3fcddebf1a696683&vjs=3
+Senior Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Boston Consulting Group,¼­¿ï,https://kr.indeed.com/rc/clk?jk=77dfad5a778a94c2&fccid=b95f9eb47968fa13&vjs=3
+ÇÃ·§Æû ÇÁ·ĞÆ®¾Øµå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºñÁîºÎ½ºÅÍ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=bac7e8a1acf19129&fccid=edf523143ceb94fc&vjs=3
+½º¸¶Æ®½Ê ÇÃ·§Æû ¼³°è  ¿î¿µ ¹× °³¹ß ÀÎ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ë±Û·Î¹ú¼­ºñ½º,ºÎ»ê ÇØ¿î´ë±¸,https://kr.indeed.com/rc/clk?jk=8cc4946762d88bb1&fccid=2218809aa2d071ff&vjs=3
+¹é¿£µå°³¹ßÀÚ  ¸ğ¹ÙÀÏ¾Û °³¹ßÀÚ  ºí·ÏÃ¼ÀÎ °³¹ßÀÚ ½ÅÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ÍÀÌÁîÅØ,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=52049395e06b34cb&fccid=8b01882cef0e8002&vjs=3
+°Ü·¹¸»Å«»çÀü Á÷¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°Ü·¹¸»Å«»çÀü³²ºÏ°øµ¿ÆíÂù»ç¾÷È¸,¼­¿ï °ø´öµ¿,https://kr.indeed.com/rc/clk?jk=2097237deadea27a&fccid=1146213e4bb2268a&vjs=3
+[ICT] AI SW °³¹ß °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­½Ã½ºÅÛ,±¸¹Ì °ø´Üµ¿,https://kr.indeed.com/rc/clk?jk=d337471c0922247d&fccid=46ba4635611e86ea&vjs=3
+[Á¦¾à] ½Å¾à ºĞÀÚ¼³°è ¿¬±¸(¼±ÀÓ/Ã¥ÀÓ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,BOB³×Æ®¿÷½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=14d5f070330861c8&fccid=6c389097acd73020&vjs=3
+Sr. Application Engineer - AMSÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=25d823b03a3113d5&fccid=ea6bb53f0b18b8f2&vjs=3
+Software Engineer (QA/Automation)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Clumio,¼­¿ï,https://kr.indeed.com/rc/clk?jk=a37da3f1853dd2db&fccid=77b23e45f8050961&vjs=3
+[´Ò½¼¹Ìµğ¾î] Data ºĞ¼® ¹× ÇÁ·Î±×·¥ °³¹ßÀÚ(ÄÄÇ»ÅÍ°ü·Ã Áö½Ä º¸À¯ÀÚ  ½ÅÀÔ ´ëÁ¹ °¡´É)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ò½¼¹Ìµğ¾îÄÚ¸®¾Æ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=e8a3a9b77a0a8a80&fccid=c77f6754a70f996a&vjs=3
+SW°³¹ß °ø°³¸ğÁı Ã¤¿ë°ø°íÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄíÃ¾,¼­¿ï »ï¼ºµ¿,https://kr.indeed.com/rc/clk?jk=7f7b5a0d3f499e53&fccid=8b153a50240e88b7&vjs=3
+Ãë¾àÁ¡Áø´Ü ¹× ¸ğÀÇÇØÅ· ¾÷¹« ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CJ¿Ã¸®ºê³×Æ®¿÷½º,¼º³² ¼­Çöµ¿,https://kr.indeed.com/rc/clk?jk=c4b2281678735eb8&fccid=f9d7b79c30512a85&vjs=3
+¸¶ÄÉÆÃ ÇÃ·§Æû µ¥ÀÌÅÍ ¿£Áö´Ï¾î¸µ ´ã´çÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³İ¸¶ºí,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=f5a8445589b3e827&fccid=e696d83fde5c0f20&vjs=3
+[±¹³» ÀúÃàÀºÇà] CSS °³¹ß ¿î¿µ(µ¥ÀÌÅÍ»çÀÌ¾ğ½º) °æ·Â °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Á¦ÀÌ¿£Ä¿¸®¾î,¼­¿ï,https://kr.indeed.com/rc/clk?jk=7f1adc3b2cf3cfbf&fccid=a3d3d50732b81afe&vjs=3
+Korean Speaking Mentors (Independent Contractor): Computer V...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Udacity,¼­¿ï,https://kr.indeed.com/rc/clk?jk=81f682adbc3d4e01&fccid=1503f9b2e8718009&vjs=3
+Analog Design EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Cirrus Logic,¼­¿ï,https://kr.indeed.com/rc/clk?jk=d193999bb6d038d4&fccid=9fa86166624bd016&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î (Data Engineer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ğÅ©»ø·¯µå,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=6455de4e5772f798&fccid=35209469e1b8c72c&vjs=3
+IDT»ç¾÷ºÎ¹® DevOps ¼Ö·ç¼Ç ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÃ·¡Æ¼¾î,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=e7d8b690e3eaa91d&fccid=44a1e9046435d04b&vjs=3
+CX Consulting Engineer (Technical Leader) (3 positions)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Cisco Systems,¼­¿ï,https://kr.indeed.com/rc/clk?jk=a77339af36d985aa&fccid=dfc44f3b8c44a6db&vjs=3
+°í°´/Â÷·® µ¥ÀÌÅÍ ¼­ºñ½º ±âÈ¹ (Data Service Planner)[Ã¥ÀÓ¸Å´ÏÀú(G3)]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼­¿ï ¾çÀç¿ª,https://kr.indeed.com/rc/clk?jk=7b7c561ef910c50a&fccid=980d6ecc399a3373&vjs=3
+Cloud ºÎ¹® °æ·Â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­Å×Å©À©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=521851a49ed46c0a&fccid=41ab825ad0dacc35&vjs=3
+Associate Solutions Architect Internship - Summer (Korea)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b466f4d49dec6de2&fccid=fe2d21eef233e94a&vjs=3
+ÇÏ¹İ±â Platform°³¹ß±×·ì °æ·ÂÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SK½¯´õ½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=26d40df1f6ac944c&fccid=da9ade8fadbe3493&vjs=3
+¿Ü±¹°è ±â¾÷ ½Ã´Ï¾î Network Engineer ±ä±ŞÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,È¸»ç¸í,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=57cc07d301ec349f&fccid=a6a2cb60b8f19368&vjs=3
+Learning Architect (for Data Engineering)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚµå½ºÅ×ÀÌÃ÷,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=0a70ae6d4cf81d4e&fccid=0c9d9f81c6424586&vjs=3
+µ¥ÀÌÅÍ »çÀÌ¾ğÆ¼½ºÆ® ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³İ¸¶ºí,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=0cefe46528489293&fccid=e696d83fde5c0f20&vjs=3
+Technical Support EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KLA,°æ±âµµ È­¼º,https://kr.indeed.com/rc/clk?jk=0875389fd6f28b05&fccid=c8fc142c28286059&vjs=3
+R&D Software Engineer: Object Trajectory PredictionÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ThorDrive Inc,¼­¿ï,https://kr.indeed.com/rc/clk?jk=611b489cfbbea373&fccid=3e85ac49dfd6b2c5&vjs=3
+ÆÛÁñµ¥ÀÌÅÍ ¿ª·®ÀÖ´Â µ¥ÀÌÅÍ ºĞ¼®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÁÖ½ÄÈ¸»çÆÛÁñµ¥ÀÌÅÍ,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=116009dbf59211ed&fccid=bbae7241cc714540&vjs=3
+DT¿î¿µÆÀ °æ·ÂÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SK½¯´õ½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=454ba2826b5954d4&fccid=da9ade8fadbe3493&vjs=3
+Sales EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Cloudera,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4ebbc4bfacd610a5&fccid=eb507df48b2f81c7&vjs=3
+[½ÅÀÔ ¹× °æ·Â] ¸Ó½ÅºñÀü MFC  WPF UI/GUI °³¹ß Á¤±ÔÁ÷ -±Ş¿©¿ì´ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¿ÀÏ±â¿¬,¾È¾ç µ¿¾È±¸,https://kr.indeed.com/rc/clk?jk=e7abb06d5a723ce9&fccid=e6ff2cc22e6a1d40&vjs=3
+Mobile Game Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=45a1b2b86aa7e8f1&fccid=e90e80bc9ed9a53f&vjs=3
+¸®½ºÅ©°ü¸®ÆÀ ½ÅÀÔ/°æ·ÂÁ÷¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¯¾ÈÅ¸Áõ±Ç,¼­¿ï À»Áö·Î2°¡,https://kr.indeed.com/rc/clk?jk=39df24bec144e783&fccid=0a082d0de3222cd9&vjs=3
+À¥½Ã½ºÅÛ ¹× ¼Ö·ç¼Ç ºĞ¾ß ÇÁ·Î±×·¡¸Ó ¹× À¥ÆÛºí¸®¼ÅÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§´õ½ºÀÌ½ÊÀÏ,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=8e60094702b4fe05&fccid=9e55ed7ba86ec5da&vjs=3
+DW Ops ¿£Áö´Ï¾î Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÃ¸®,¼­¿ï ¿ª»ïµ¿,https://kr.indeed.com/rc/clk?jk=b28c93b547ba3a26&fccid=84f556ede0522ba3&vjs=3
+¼³ºñ°³¹ß ¿¬±¸¼Ò °æ·Â»ç¿ø Ã¤¿ë °ø°íÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ï¼ºÀü±â,¼ö¿ø ÆÈ´Ş±¸,https://kr.indeed.com/rc/clk?jk=3025477f7ce07240&fccid=f33dc281a50ef033&vjs=3
+°³¹ßÀÚ °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,HDC·¦½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=55f85bed58958c10&fccid=8b1cddcf4b153570&vjs=3
+[ICT] ±³À°/Ã¤¿ë ÇÃ·§Æû °³¹ß/¿î¿µ(À¥°³¹ß) °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­½Ã½ºÅÛ,±¸¹Ì °ø´Üµ¿,https://kr.indeed.com/rc/clk?jk=f0949f21f93d7a93&fccid=46ba4635611e86ea&vjs=3
+[¼±Çà±â¼ú¿ø] Ç¥Á¤ÀÎ½Ä ±â¼ú °³¹ß[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=28ae23735cc73aca&fccid=980d6ecc399a3373&vjs=3
+¼ÒÇÁÆ®¿ş¾î °³¹ßÀÚ (½ÅÀÔ/°æ·Â Á¤±ÔÁ÷)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÏ´Ã¼ÒÇÁÆ®,´ëÀü À¯¼º±¸,https://kr.indeed.com/rc/clk?jk=ed8c727735f8d2e1&fccid=5701061220c3cc5b&vjs=3
+Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Toss,¼­¿ï,https://kr.indeed.com/rc/clk?jk=9cb8324539546a71&fccid=18c4935c8ec646d5&vjs=3
+Big Data EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÈŞ¸ÕµğÁöÅĞ,¼­¿ï,https://kr.indeed.com/rc/clk?jk=6863b8ecbee9cb28&fccid=796208c8550d9592&vjs=3
+AI Á¦Ç° Å×½ºÆ® ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=f80413073f9b3fd3&fccid=d29ddc820620b02e&vjs=3
+[À§¸ŞÇÁ¼­ºñ½º] ¼­ºñ½º Åë°è °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=4e3b4e13098d5aa1&fccid=2f8799a5ef214646&vjs=3
+µ¥ÀÌÅÍ¼¾ÅÍ ³×Æ®¿öÅ© ¿£Áö´Ï¾î ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=c8f6ca1e2398530d&fccid=32b9af632cf3b9f9&vjs=3
+[»ó½Ã] MLOps ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ï¾î½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=f2c10d8e57862c93&fccid=f3d5eeb09e72b348&vjs=3
+ÇØ¼®ºÎ¹® ½ÅÀÔ»ç¿ø Ãß°¡ °ø°³Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÚÆ®ÄÚÄÚ¸®¾Æ¿£Áö´Ï¾î¸µ..,¼­¿ï °¡»êµ¿,https://kr.indeed.com/rc/clk?jk=181991cb8750cd55&fccid=73b06edef3f03f8a&vjs=3
+[ÀÏ¹İÁ÷] DX_IT °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GS EPS,´çÁø ¼Û¾ÇÀ¾,https://kr.indeed.com/rc/clk?jk=b2e9e9e47e79cf25&fccid=ed7659df3000676f&vjs=3
+[Àü¹®¿¬±¸¿ä¿ø] AI Research EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Upstage,°æ±âµµ ¿ëÀÎ,https://kr.indeed.com/rc/clk?jk=da4dec4594f59668&fccid=d407e3ac97a68326&vjs=3
+±İÀ¶»ç ±×·ì¿ş¾î °³¹ß/¿î¿µ(java) °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­±×·ì,¼­¿ï,https://kr.indeed.com/rc/clk?jk=bf982136a3a4da01&fccid=bd0dc1817223394f&vjs=3
+[CJ ENM Ä¿¸Ó½ººÎ¹®] IT°³¹ß ¹× ¼­ºñ½º±âÈ¹ °æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CJ ENM,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=9cc5227f14fe2222&fccid=48447502f9ca459e&vjs=3
+Senior Deep Learning Software Engineer  Autonomous Vehicles...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NVIDIA,¼­¿ï,https://kr.indeed.com/rc/clk?jk=fbdf7deff741d918&fccid=c267f29f0f85e8b8&vjs=3
+¼­¹ö °³¹ßÀÚ Python(Django) Developer (ÁÖ´Ï¾î)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÅ×³ª½º·¦,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=9f73fda8b586cd15&fccid=f7418ec5d47158aa&vjs=3
+R&D Software Engineer: Computer VisionÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ThorDrive Inc,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ebf4d2dd7ef1a64c&fccid=3e85ac49dfd6b2c5&vjs=3
+Àü»êºÎ¹®(POS°³¹ßÆÀ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,iCOOP »ıÇù,±ºÆ÷ ´çµ¿,https://kr.indeed.com/rc/clk?jk=8e9c5f6989cb3c16&fccid=122f0f9d3163935e&vjs=3
+Sr. Solutions EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Databricks,¼­¿ï,https://kr.indeed.com/rc/clk?jk=930fa39d5a70674b&fccid=3d0f7ba22a49432f&vjs=3
+[À§¸ŞÇÁ¼­ºñ½º] ¼º´ÉÅ×½ºÆ® ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=9711f53a7b69dddb&fccid=2f8799a5ef214646&vjs=3
+LINE Ads - Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=c15736d93991894a&fccid=e90e80bc9ed9a53f&vjs=3
+ÇÁ·Î±×·¡¹Ö  ³×Æ®¿öÅ©/Á¤º¸º¸¾È  IoT/»ç¹°ÀÎÅÍ³İ Á÷¾÷ÈÆ·Ã±³»çÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°æºÏ»ê¾÷Á÷¾÷Àü¹®ÇĞ±³,´ë±¸ µ¿±¸,https://kr.indeed.com/rc/clk?jk=ad11977802e389f8&fccid=92a9077f5974d412&vjs=3
+DGIST 2019³â Á¦1Â÷ °è¾àÁ÷¿ø °ø°³Ã¤¿ë °ø°íÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´ë±¸°æºÏ°úÇĞ±â¼ú¿ø,´ë±¸ ÇöÇ³¸é,https://kr.indeed.com/rc/clk?jk=4cd34228af5013fd&fccid=a0e87e3780944019&vjs=3
+±İÀ¶°øÇĞ¿¬±¸¼Ò ½ÅÀÔ ¹× °æ·ÂÁ÷¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÃ¤±ÇÆò°¡,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=7735387bd2d97488&fccid=c54b7952dd9d6d70&vjs=3
+[SW°³¹ßÀÚ] ÀÓº£µğµå[½ÅÀÔ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,°æ±âµµ ¿ëÀÎ,https://kr.indeed.com/rc/clk?jk=d0701f7a659e923f&fccid=980d6ecc399a3373&vjs=3
+Alibaba Cloud Intelligence Technical Account Manager South K...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Alibaba,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b0edfe7a46561316&fccid=4e75c921d3645259&vjs=3
+À¥ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌ·º½º³İ,´ëÀü À¯¼º±¸,https://kr.indeed.com/rc/clk?jk=a5ceade5374af5f9&fccid=e3259b3573337ab7&vjs=3
+±İÀ¶ µ¥ÀÌÅÍ ºĞ¼® ¿£Áø  ·Îº¸¾îµå¹ÙÀÌÀú °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ººñ¾¾¿£,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=649ccf047c868778&fccid=7c743c071619900d&vjs=3
+ÆÄÀÌ½ãSW ±İÀ¶ºĞ¾ß Æ¯È­ Ãªº¿ °³¹ß ÇÔ²² ÇÒ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄ¿îÆ®,¼­¿ï ÃæÁ¤·Î¿ª,https://kr.indeed.com/rc/clk?jk=ffd9cedb23e97344&fccid=df5e7ec512668ebf&vjs=3
+[¿¢½ºÆÛ³İ] ºÎ¼³¿¬±¸¼Ò ¼Ö·ç¼Ç Áö¿ø °³¹ß ½ÅÀÔ/°æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¢½ºÆÛ³İ,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=bdec744b393e0a7a&fccid=21d32560f8b3d41c&vjs=3
+[À§¸ŞÇÁ¼­ºñ½º] DevOps EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=cf6be009a1a99438&fccid=2f8799a5ef214646&vjs=3
+Data Analyst (µ¥ÀÌÅÍºĞ¼®°¡)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=bee98c57448790a1&fccid=d29ddc820620b02e&vjs=3
+Manager  Data ScienceÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bain & Company,¼­¿ï,https://kr.indeed.com/rc/clk?jk=6783cb608ce01800&fccid=48270b2eee62c2c6&vjs=3
+Cloud Solution Architect (SA)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾È·¦,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=9347353ba845e622&fccid=0b88b2af6686dd2b&vjs=3
+°³¹ßÇ°Áúº¸ÁõÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°í¿µÅ×Å©³î·¯Áö,¼ö¿ø ¿µÅë±¸,https://kr.indeed.com/rc/clk?jk=28839d5aa7ccd18a&fccid=a13dce9f83ee80a9&vjs=3
+Senior Application Engineer - Deep Learning & AIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,MathWorks,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ef36fea61288f824&fccid=20ccf7980496f3a8&vjs=3
+À¥ Å©·Ñ·¯ Àü¹®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½ºÄÉÀÌÅÚ·¹ÄŞ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=d23c2208815f225c&fccid=ce2f0f28b40a5be8&vjs=3
+AUTOSAR ±â¹İ SW °³¹ß (½Å±Ô ÇÁ·ÎÁ§Æ® Âü¿©)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µå¸²¿¡ÀÌ½º,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=d1707fdefa71e66c&fccid=8ff46f0f52527109&vjs=3
+[SSG/Data] Data Science ¿¹Ãø¸ğµ¨°³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½º¿¡½ºÁö´åÄÄ,¼­¿ï È¸Çöµ¿,https://kr.indeed.com/rc/clk?jk=38971dcda1ca12b1&fccid=37667075f56251e4&vjs=3
+8¿ù °æ·Â Ã¤¿ë [AI/ºòµ¥ÀÌÅÍ ¼Ö·ç¼Ç °³¹ßÀÚ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾Æ½Ã¾Æ³ªIDT,¼­¿ï °øÆòµ¿,https://kr.indeed.com/rc/clk?jk=51ba4b73fb2d3eea&fccid=2fe14a68f5091e8d&vjs=3
+±İÀ¶ µ¥ÀÌÅÍ ºĞ¼® ¹× ¸ğµ¨ °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌÁöÁ¦·ÎÀÎ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=d4c94aa1d7e84908&fccid=bfdba13fe070a19e&vjs=3
+À¥ °³¹ßÀÚ °æ·Â Java/Php/Javascript/Python/Html/CSS µî ÇÁ·ÎÁ§Æ® °æ·ÂÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ÙÀÌ¿Àºê·¹ÀÎ,´ëÀü ¼­±¸,https://kr.indeed.com/rc/clk?jk=941687b6bbb14d81&fccid=a3e2170fc2a54ba6&vjs=3
+¸Ó½Å·¯´× ¿£Áö´Ï¾î (Machine Learning Engineer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ğÅ©»ø·¯µå,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=9c448c1ca53de6ad&fccid=35209469e1b8c72c&vjs=3
+½Ã´Ï¾î ¼­¹ö ¿£Áö´Ï¾î (Senior Server Engineer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹ğÅ©»ø·¯µå,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=5b684fb3de97f3d4&fccid=35209469e1b8c72c&vjs=3
+Core Engineer - ±ÇÇÑ °ü¸®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=a8adf815382c9db0&fccid=73fe623ec23ed0a5&vjs=3
+[EYÄÁ¼³ÆÃ] ±İÀ¶ÄÁ¼³ÆÃº»ºÎ ¸®½ºÅ©°ü¸® °æ·Â ÄÁ¼³ÅÏÆ® ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,EY,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=50824005a4db2fc1&fccid=1544766d4c2915b0&vjs=3
+AI Researcher  Data scientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,(ÁÖ)µ¨Å¸¿¢½º °ü½É±â¾÷,¼­¿ï ´Ùµ¿,https://kr.indeed.com/rc/clk?jk=cfe32cf1837c9155&fccid=3a22560566291d51&vjs=3
+ÇÏ¹İ±â °æ·Â»ç¿ø Ã¤¿ë[ÀÀ¿ë¼­ºñ½º S/W]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ë·Îº¸Æ½½º,´ë±¸ À¯°¡¸é,https://kr.indeed.com/rc/clk?jk=a76463b7c0b057a7&fccid=6b3c7bf4b7d7c619&vjs=3
+ºòµ¥ÀÌÅÍ¿¬±¸¼Ò °æ·Â Á÷¿ø ¸ğÁı(DBA  GISºĞ¼®  ºÎµ¿»êDB¿¬±¸)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºÎµ¿»ê114,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=d74f2a9064a25a6a&fccid=eaa41f3ce8a287cc&vjs=3
+[DB Inc.] ÇÏ¹İ±â ½ÅÀÔ»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,DB±×·ì,¼­¿ï ´ëÄ¡µ¿,https://kr.indeed.com/rc/clk?jk=0712342950bdefae&fccid=58d90fb31d5feb8b&vjs=3
+[ÇÏ³ª±İÀ¶±×·ì] µ¥ÀÌÅÍºĞ¼® ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÏ³ª±İÀ¶Æ¼¾ÆÀÌ,ÀÎÃµ Ã»¶óµ¿,https://kr.indeed.com/rc/clk?jk=67d8fe487c9744cb&fccid=eb82f052aed06b37&vjs=3
+Ãªº¿ ÇÃ·§Æû ¼­¹ö °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=3ee8298954260b67&fccid=32b9af632cf3b9f9&vjs=3
+½ÅÀÔ ¹× °æ·ÂÁ÷¿ø Ã¤¿ë[±İÀ¶ÄÁ¼³ÆÃº»ºÎ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÃ¤±ÇÆò°¡,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=6ec8d900a9ba226d&fccid=c54b7952dd9d6d70&vjs=3
+SI  SM  R&D °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ¾îµğ¾ÆÀÌÆ¼,¼­¿ï,https://kr.indeed.com/rc/clk?jk=30278b054662084d&fccid=a35a71417e4b6700&vjs=3
+2022 ÇÏ¹İ±â °¢ ºÎ¹®º° [¿µ¾÷/°³¹ß/ÀÓ»ó¿¬±¸]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌ¿À¹ÙÀÌ¿À,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=556da04f8dcaf22b&fccid=e8f717beb9964845&vjs=3
+[¿øÀÍ¾ÆÀÌÇÇ¿¡½º] »ó¹İ±â ´ëÁ¹ °øÃ¤ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿øÀÍ±×·ì,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=d823a23999148503&fccid=475f1c2a25325d47&vjs=3
+[ÁÖ½ÄÈ¸»ç ¾ÆÅ©¸±] °³¹ßÀÚ Á¤±ÔÁ÷ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÁÖ½ÄÈ¸»ç ¾ÆÅ©¸± °ü½É±â¾÷,¼­¿ï Ã»´ãµ¿,https://kr.indeed.com/rc/clk?jk=13db949120fc8e68&fccid=93a3a6683c900db5&vjs=3
+[µ¥ÀÏ¸®Æİµù] Back-end °³¹ßÀÚ (°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µ¥ÀÏ¸®Æİµù,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=384bf6c6257e1441&fccid=12a98939ce06e95c&vjs=3
+[DIÆÀ] Data Engineer (µ¥ÀÌÅÍ ÀÎÇÁ¶ó ¹× AI/ML ÀÎÇÁ¶ó °³¹ß)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=37a001d2a3887d22&fccid=73fe623ec23ed0a5&vjs=3
+[ÇØ¿ÜÃë¾÷] ¡¼µµÄì ¼ÒÀç¡½ °ÇÃà  ÀÎÅ×¸®¾î¿¡ Æ¯È­µÈ 3D CGÇÁ·Î´ö¼Ç ÇÁ·Î±×·¡¸ÓÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µğ¾Ø¿¡½ºÄÚ¸®¾Æ(ñ»),¼­¿ï ¼­±³µ¿,https://kr.indeed.com/rc/clk?jk=11053dfa1c18867d&fccid=952b3c089783f554&vjs=3
+Backend °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,°æ±âµµ ÇÏ³²,https://kr.indeed.com/rc/clk?jk=217bad19e2c13466&fccid=d29ddc820620b02e&vjs=3
+°í°´±âÈ¹ °æ·Â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½º¿¡½ºÁö´åÄÄ,¼­¿ï È¸Çöµ¿,https://kr.indeed.com/rc/clk?jk=58a835a5987073cf&fccid=37667075f56251e4&vjs=3
+Áö½Ä ÄÜÅÙÃ÷ Àü¹® ±â¾÷ (¸ÅÃâ 135¾ï) À¥°³¹ßÀÚ °æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎÆÄÆ®³Ê½º,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=a9883b70b4b0116c&fccid=e65c7a7fd4f89d1c&vjs=3
+Cloud Engineer  Infrastructure  Google Cloud ProfessionalÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±¸±ÛÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=f1f9eb0f588344fa&fccid=28712efe9a7c8d8a&vjs=3
+µ¥ÀÌÅÍºĞ¼®°¡ - Global Leading Consulting FirmÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½º¿¡ÇÁÀÎÃÌ,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4be60834d012153b&fccid=629bf66c8ed71fe3&vjs=3
+Senior Staff Back-end EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=14d933c9700152b8&fccid=56e12959d04ef145&vjs=3
+ÀÎ°øÁö´ÉÆÀ ¹× UX/UIÆÀ Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µöÀÎ½ºÆå¼Ç,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=aa3f47fff445f423&fccid=c5de7e4571bb1a5a&vjs=3
+±İÀ¶ÄÁ¼³ÆÃ ½ÅÀÔ/°æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÃ¤±ÇÆò°¡,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=b523418e7a941c22&fccid=c54b7952dd9d6d70&vjs=3
+[´©¸®¾î½Ã½ºÅÛ] ±â¼ú¿¬±¸¼Ò °³¹ßÀÚ (ML  ºòµ¥ÀÌÅÍ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´©¸®¾î½Ã½ºÅÛ,°æ±âµµ ÇÏ³²,https://kr.indeed.com/rc/clk?jk=186d57db52ed5d6b&fccid=4d0f28f116dd441c&vjs=3
+¿©Çà»ç¾÷º»ºÎ 1¿ù Á¤±â ¼ö½ÃÃ¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±³¿ø±×·ì,¼­¿ï À»Áö·Î2°¡,https://kr.indeed.com/rc/clk?jk=4240704581f26166&fccid=dd616958bd9ddc12&vjs=3
+SDE - Test  DSTS / Device Security / Trusted Security Softwa...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=fff38ad1cd3ba463&fccid=fe2d21eef233e94a&vjs=3
+Data Specialist (Scientist&&Engineer)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾Æ¿ì¸§ÇÃ·¡´Ö,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=dd4d8e59a4a9265d&fccid=553095a190e81a86&vjs=3
+ÇÁ·ĞÆ®¿£µå ½Ã´Ï¾î °³¹ßÀÚ(ÇÃ·§ÆûÆÀ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¼³·ÎÀÎ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=a88a125e20d14eb8&fccid=6ac3a284ff5e0bbf&vjs=3
+Social Platform DevOps EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=13c801b3c08c429d&fccid=e90e80bc9ed9a53f&vjs=3
+(ÀÎÃµ ¼Ûµµ) ÀÎ°øÁö´É(AI)ºĞ¾ß Python °³¹ß ÀÎ·Â ±¸ÀÎÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÁÖ½ÄÈ¸»ç ¾Ö³ª °ü½É±â¾÷,ÀÎÃµ ¼Ûµµµ¿,https://kr.indeed.com/rc/clk?jk=c0fb9320f68bb3e7&fccid=2f6f10515ebbc33c&vjs=3
+Applied Scientist  DSTS / Device Security / Trusted Software...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b3f814ea06ea58c0&fccid=fe2d21eef233e94a&vjs=3
+Senior Deep Learning Software Engineer  Autonomous Vehicles...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Oski Technology,¼­¿ï,https://kr.indeed.com/rc/clk?jk=388af678d4a926f5&fccid=0fcbd08b8cf44e1b&vjs=3
+À¥ °³¹ß Á÷¿ø Ãæ¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,²Üºñ,´ëÀü ¸¸³âµ¿,https://kr.indeed.com/rc/clk?jk=ce94403ec188a45a&fccid=ebfbd1d5051bf9c7&vjs=3
+Software Architect - HSVÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Cadence Design Systems,°æ±âµµ,https://kr.indeed.com/rc/clk?jk=40f76d02de0b45f0&fccid=391006290e845887&vjs=3
+(ÀüºÏÀÏÀÚ¸®¹Ú¶÷È¸)SaaSÇÃ·§Æû À¥¼Ö·ç¼Ç ÀÚ¹Ù Àç¹è·ÎÁ÷/ÆÄÀÌ½ã AI¸ğµ¨¸µ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶½ºÆÊ,ÀüÁÖ ´öÁø±¸,https://kr.indeed.com/rc/clk?jk=84e6c0e23cc579a8&fccid=d8d98de885fa281b&vjs=3
+Engineer  AlgorithmÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KLA,°æ±âµµ È­¼º,https://kr.indeed.com/rc/clk?jk=58c60823622502f5&fccid=c8fc142c28286059&vjs=3
+ÀÚ»ç¼Ö·ç¼Ç (OCEAN) °³¹ß ¹× ±¸Ãà (½ÅÀÔ/°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½º³İ½Ã½ºÅÛ,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=1246a0cd7277bc2b&fccid=afb0c965668b7972&vjs=3
+À½¼ºÃ³¸®/À½¼ºÀÎ½Ä °³¹ßÀÚ_º´¿ªÆ¯·ÊÀü¹®¿¬±¸¿ä¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=6562c0319aa74a1a&fccid=d29ddc820620b02e&vjs=3
+[Àü¹®¿¬±¸¿ä¿ø] Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bear Robotics,¼­¿ï,https://kr.indeed.com/rc/clk?jk=6bcaaf4f1a03a62c&fccid=d7230dda285fd6ea&vjs=3
+Fintech ML/Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=d1fa83881b38e81f&fccid=e90e80bc9ed9a53f&vjs=3
+[Audit] IAº»ºÎ ³»ºÎ°¨»ç  ³»ºÎÅëÁ¦ Áø´Ü ¹× °³¼±  ÄÄÇÃ¶óÀÌ¾ğ½º ºĞ¾ß Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ïÁ¤ KPMG,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=573d408e48f56729&fccid=7651bf7c7525e8f6&vjs=3
+[DIAÀ¯´Ö] Technical Program ManagerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=a3fe2d777ec406d2&fccid=73fe623ec23ed0a5&vjs=3
+Effect Supervisor (°æ·Â 10³â ÀÌ»ó) Effect Artist (½ÅÀÔ)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Mofac,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=0fea9598510abf0e&fccid=6cddb172d498d15c&vjs=3
+ÀÚÀ²ÁÖÇà¼Ö·ç¼Ç»ç¾÷ºÎ SW¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¯Áø·Îº¿,ÀÎÃµ ¿¬¼ö±¸,https://kr.indeed.com/rc/clk?jk=c1da72ae3a28f660&fccid=54e3be5793d39fdd&vjs=3
+°­È­ÇĞ½À ¿¬±¸°³¹ß _¾Ë°í¸®Áò ÆÄÆ®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï ¼±¸ª¿ª,https://kr.indeed.com/rc/clk?jk=082bbcc14be8bcf4&fccid=d29ddc820620b02e&vjs=3
+Platform EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ß³îÀÚ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=76bf41a04455d0b4&fccid=73fe623ec23ed0a5&vjs=3
+Social Media Analytics EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=1d816ad8af04c363&fccid=e90e80bc9ed9a53f&vjs=3
+Social Media Analytics EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=1d816ad8af04c363&fccid=e90e80bc9ed9a53f&vjs=3
+Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=11300c05b9bcc9b3&fccid=d29ddc820620b02e&vjs=3
+Ä«Ä«¿À ºĞ¼® & MLOps ÇÃ·§Æû °æ·Â °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=8ae7c240ef7d5f0b&fccid=32b9af632cf3b9f9&vjs=3
+ÇÑ±Û Q&A ½Ã½ºÅÛ ¿¬±¸ °³¹ß ½ÅÀÔ/°æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ÷Æ¼Åõ¸¶·ç,¼­¿ï °ü¾Ç±¸,https://kr.indeed.com/rc/clk?jk=6f88041c28b6c1ae&fccid=b6cebf2e7d619f07&vjs=3
+Cloud Support Engineer - LinuxÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=29c7d1249cd0b848&fccid=fe2d21eef233e94a&vjs=3
+[À§¸ŞÇÁ¼­ºñ½º] SRE ´ã´çÀÚ(CI/CD)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À§¸ŞÇÁ,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=2ea8c1bc32464079&fccid=2f8799a5ef214646&vjs=3
+Å¬¶ó¿ìµå¼­ºñ½º¿î¿µ ½ÅÀÔ/°æ·ÂÁ÷ ¼ö½Ã Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ±Û°úÄÄÇ»ÅÍ,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=f8c7b9516f6dc71c&fccid=3fcddebf1a696683&vjs=3
+Sr. Application Architect  Professional ServicesÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=df5ab705f3a414ee&fccid=fe2d21eef233e94a&vjs=3
+ÇÏ¹İ±â ÀÎÅÏÁ÷ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑ¼Ö±×·ì,¼­¿ï À»Áö·Î2°¡,https://kr.indeed.com/rc/clk?jk=2f56d4b70c1df086&fccid=c7038d46947c25e0&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î ¸®´õ (±Û·Î¹ú À¥Å÷ ÇÃ·§Æû)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¥Å÷ ÇÃ·§Æû,¼­¿ï °­³²±¸,https://kr.indeed.com/company/Aims-International/jobs/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%A6%AC%EB%8D%94-cdab11270a60767c?fccid=def328ffc9620ff6&vjs=3
+½Å¼±ÇÏÀÌ ÇÁ·Î´öÆ® µ¥ÀÌÅÍ ºĞ¼®°¡ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±×¸°·¦½º,¼­¿ï ¼ÛÆÄ±¸,https://kr.indeed.com/rc/clk?jk=d95b4cd51aa5875e&fccid=feeacbc1377594e2&vjs=3
+JAVA °æ·Â Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹Ğ¶ó³ë»óÀÎ,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=55bb3ada5aa1efe3&fccid=9a64e43d919cf082&vjs=3
+Product Technology Software Engineer at VerticaÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Micro Focus,¼­¿ï,https://kr.indeed.com/rc/clk?jk=6d6c41d0935f4f56&fccid=83cbd453678ade10&vjs=3
+±¹³» ´ë±â¾÷ - Data architecture °æ·ÂÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶óÇÇÇÃÄÚ¸®¾Æ¸®¹ÌÆ¼µå,¼­¿ï,https://kr.indeed.com/rc/clk?jk=18925539d75b4d08&fccid=28f5722fca6f5b12&vjs=3
+[¿Ü±¹°è ½ºÅ¸Æ®¾÷ ¹Ì¼Ò] Product ManagerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,À¯ÇÑÈ¸»ç ¹Ì¼Ò,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=62f2a35c5dd2436b&fccid=02936474a8d39137&vjs=3
+Áß°ß±â¾÷ Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,È¸»ç¸í,¼­¿ï ¿©ÀÇµµ¿ª,https://kr.indeed.com/rc/clk?jk=8d2d9360dc9439d5&fccid=a6a2cb60b8f19368&vjs=3
+Lead Video Design verification EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Qcom,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4680107f7ecf3167&fccid=d40ebe11fc879426&vjs=3
+Staff Back-end Engineer (Site Reliability Engineering)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f9e83091018ab885&fccid=56e12959d04ef145&vjs=3
+AI ÀÀ¿ë¼­ºñ½º R&D ±âÈ¹  °³¹ß  ¿î¿µ ÀÎÀç (½ÅÀÔ/°æ·Â)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°¡Ä¡·¦½º,¾È¾ç ¸¸¾È±¸,https://kr.indeed.com/rc/clk?jk=58fafdb8d77ada92&fccid=2c37c13a0926862d&vjs=3
+Cloud Support Engineer (Afternoon Shift)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=5dc54301b9b629e6&fccid=fe2d21eef233e94a&vjs=3
+±İÀ¶ÄÁ¼³ÆÃ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KISÃ¤±ÇÆò°¡,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=04fe9c7ea7d55ce1&fccid=c54b7952dd9d6d70&vjs=3
+[Vueron] Field Application EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºä·±Å×Å©³î·ÎÁö,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=3eb3475f658a9777&fccid=98608656606c0861&vjs=3
+PTC Thingworx °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶ò½ºÆÄÀÌ¾î,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=3fc4f25ae2dfb0ae&fccid=01368044e18e491c&vjs=3
+Software Architecture ¼³°è ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,µö¿¢½º,¼º³² ºĞ´ç±¸,https://kr.indeed.com/rc/clk?jk=7df915e1f0f86b2d&fccid=e34932b8232a173b&vjs=3
+Analyst in FI/FM RiskÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ING Bank N.V.,¼­¿ï,https://kr.indeed.com/rc/clk?jk=39f3661dbdb518ab&fccid=5b16841c3468a10d&vjs=3
+10¿ù Backend °³¹ß °æ·Â °øÃ¤ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,11¹ø°¡,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=1f1726be215da368&fccid=aba8aade58c00c02&vjs=3
+Software Engineer (Platform Team)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bear Robotics,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f748a8419b3d0018&fccid=d7230dda285fd6ea&vjs=3
+ÇÏ¹İ±â ½ÅÀÔ/°æ·Â Ã¤¿ë[±â¾÷¿©½Å ML/AI ¸ğÇü °³¹ß ¹× ÇÁ·Î¼¼½º °³¼± ÄÁ¼³ÆÃ]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,NICEÆò°¡Á¤º¸,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=a640cc3bfc92f0cf&fccid=6ebd786c94dcbb73&vjs=3
+AI Solution Front-End À¥°³¹ßÀÚ Á¤±ÔÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ïÁ¤ KPMG,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=7f5ba01ccc6a0d36&fccid=7651bf7c7525e8f6&vjs=3
+[(ÁÖ)¿şÀÌÇÃ·¯½º]À¥ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿şÀÌÇÃ·¯½º,Á¦ÁÖ Á¦ÁÖ½Ã,https://kr.indeed.com/rc/clk?jk=0a292006a64cb6f7&fccid=3144f7f2a9e3c20a&vjs=3
+[½Ç³»¹è¼Û·Îº¿ ¿¬±¸°³¹ß] - Robotics Software Engineer ¿ÜÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,·Îº¸Æ¼Áî,¼­¿ï °­¼­±¸,https://kr.indeed.com/rc/clk?jk=83ed0347df60a275&fccid=3f656eb87b759ea2&vjs=3
+Data Scientist °æ·Â»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,SK½ÇÆ®·Ğ,°æ»óºÏµµ ±¸¹Ì,https://kr.indeed.com/rc/clk?jk=a41c9500cb74c055&fccid=2aa427ad89e2b351&vjs=3
+Applications Engineer  IIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Synopsys,°æ±âµµ ¿ëÀÎ,https://kr.indeed.com/rc/clk?jk=491c585a8f0d9d94&fccid=6ce9eba87609c3e9&vjs=3
+Senior Field Applications EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Dolby,¼­¿ï,https://kr.indeed.com/rc/clk?jk=3ee22cd3176712c9&fccid=5dd80d97ea739284&vjs=3
+Product Application EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Applied Intuition,¼­¿ï,https://kr.indeed.com/rc/clk?jk=450cf17c7081a878&fccid=00f9ae225292fb3a&vjs=3
+¸¶ÀÌµ¥ÀÌÅÍ Big Data °³¹ß Á÷±º ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,11¹ø°¡,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=20ddaa4cbcddd345&fccid=aba8aade58c00c02&vjs=3
+(ÁÖ)¿¤¼Ö·ç À¥ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¢ß¿¤¼Ö·ç,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2b8b9164243592b6&fccid=35c61db9f1514baf&vjs=3
+[´©¸®¾î½Ã½ºÅÛ] ±İÀ¶ SI/SM Á¤±ÔÁ÷ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´©¸®¾î½Ã½ºÅÛ,°æ±âµµ ÇÏ³²,https://kr.indeed.com/rc/clk?jk=135bb5a5ca86583e&fccid=4d0f28f116dd441c&vjs=3
+Å¬¶ó¿ìµå º¸¾È ÄÁ¼³ÅÏÆ® ¿µÀÔÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,º£½ºÇÉ±Û·Î¹ú,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=b07fb62d517f48b7&fccid=d2a2cb2dc4e9a38f&vjs=3
+Offline to Online (O2O) / App Member Analyst Manager II - Ni...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Nike,¼­¿ï,https://kr.indeed.com/rc/clk?jk=3aba071bc20af8c5&fccid=2c62e4de04b8f952&vjs=3
+Sr Systems Engineer (8065)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Extreme Networks,¼­¿ï,https://kr.indeed.com/rc/clk?jk=9ea872be5c717533&fccid=3c1ccc4616711149&vjs=3
+ºòµ¥ÀÌÅÍºĞ¼® ´ã´çÀÚ in ÀÚ¿ø¼øÈ¯ ¸ğ¹ÙÀÏ ¾Û ½ºÅ¸Æ®¾÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±×·¹ÀÌÇÁ ÆÄÆ®³ÊÁî,¼­¿ï ¼ºµ¿±¸,https://kr.indeed.com/rc/clk?jk=5dd25746d945e947&fccid=e4111ad0459bc402&vjs=3
+Staff Data Engineer (Data Platform)_L6-IÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=11f4ffbf1923fa35&fccid=56e12959d04ef145&vjs=3
+Ã¤¿ëÀüÁ¦Çü ÀÎÅÏ½Ê ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÌº£½ºÆ®ÅõÀÚÁõ±Ç,¼­¿ï ¿©ÀÇµµ¿ª,https://kr.indeed.com/rc/clk?jk=2165954253e0cd92&fccid=3e0e7a7b61ade699&vjs=3
+Character Technical Artist (Associate to Mid-level) - Overwa...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Blizzard Entertainment,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4bbeef8d49adce7d&fccid=645d83ee4cbe1d25&vjs=3
+R&D Software Engineer: Motion PlanningÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ThorDrive Inc,¼­¿ï,https://kr.indeed.com/rc/clk?jk=3cb126d6340166b9&fccid=3e85ac49dfd6b2c5&vjs=3
+±â¼úÇõ½Å¼¾ÅÍ °æ·Â»ç¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ï¼ºSDI,ÃæÃ»³²µµ Ãµ¾È,https://kr.indeed.com/rc/clk?jk=0235d23399e2eb1b&fccid=6c70210beddc1b13&vjs=3
+(ÁÖ)¹Ì·¡ÄÄÆÛ´Ï S/W°³¹ß ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¹Ì·¡ÄÄÆÛ´Ï,¿ëÀÎ ±âÈï±¸,https://kr.indeed.com/rc/clk?jk=4cdb858b4d6f990b&fccid=f87cb5de41e019f0&vjs=3
+¼ÒÇÁÆ®¿ş¾î ¹× À¥ °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌ¿¥¾Ë,±¤ÁÖ ºÏ±¸,https://kr.indeed.com/rc/clk?jk=f000f2858d22653a&fccid=2072665f7d31a307&vjs=3
+MLOps °³¹ßÀÚ(Back End ºĞ¾ß)_Àü¹®¿¬±¸¿ä¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï ¾çÀç¿ª,https://kr.indeed.com/rc/clk?jk=71b64eeeec040d33&fccid=d29ddc820620b02e&vjs=3
+Lead Video Design Verification EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,15 Qualcomm Korea YH,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f519964869ffc9e5&fccid=1a2cb71c9e836e88&vjs=3
+¼­¿ï °­³²±¸ ÀÎ½æ´Ï¾Æ ½Ã´Ï¾î °³¹ßÀÚ ¹× ÆÛºí¸®¼ÅÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎ½æ´Ï¾Æ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=6c1d50662fa2d7f7&fccid=71bba75c2a7d79a0&vjs=3
+Sr. Application Engineer Consultant - HAVÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=f3032f72a38e5aff&fccid=ea6bb53f0b18b8f2&vjs=3
+[Consumer Health] Manager  eCommerce Data Analytics CBIÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Johnson & Johnson,¼­¿ï,https://kr.indeed.com/rc/clk?jk=8e53a83882340b05&fccid=0bed8e17bc113980&vjs=3
+°³¹ß º¸¾È ¹× Ãë¾àÁ¡ Áø´ÜÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°í¿µÅ×Å©³î·¯Áö,¿ëÀÎ ¼öÁö±¸,https://kr.indeed.com/rc/clk?jk=8a27146bbd6cd5c1&fccid=a13dce9f83ee80a9&vjs=3
+AI °Ë»ö ¿£Áö´Ï¾î (5³âÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï,https://kr.indeed.com/rc/clk?jk=a1d842da6184de96&fccid=d29ddc820620b02e&vjs=3
+Back-end DeveloperÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ANGELSWING,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=38cf5276ad09beae&fccid=0a64f3faaaf0a00c&vjs=3
+[¸¶Æ÷] ¹é¿£µå °³¹ßÀÚ (ÆÄÆ®Àå±Ş)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½Ã´Ï¾î¾ØÆÄÆ®³ÊÁî,¼­¿ï ¸¶Æ÷±¸,https://kr.indeed.com/rc/clk?jk=bdb68fb4a5500e6d&fccid=59060ddcdf96b101&vjs=3
+AI ¿¬±¸ MLOpsÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÚ±×³İ³ªÀÎ,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=36ae5f764253d121&fccid=015d2bad6d9df969&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î - Global Leading Consulting FirmÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡½º¿¡ÇÁÀÎÃÌ,¼­¿ï,https://kr.indeed.com/rc/clk?jk=1293d97af1438e01&fccid=629bf66c8ed71fe3&vjs=3
+¿î¿ëÀü·«/DataScienceÆÀ ÄöÆ®¿î¿ë¿ªÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶ÀÌÆÛ½ºÆ®¿¡¼ÂÀÚ»ê¿î¿ë,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=f24743e609f4200b&fccid=e26f0428e52f0752&vjs=3
+¹é¿£µå °³¹ßÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌÇìÀÌÆ®ÇÃ¶óÀ×¹ö±×½º,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=3f30c7b4483a0b1e&fccid=33acc933918c59c3&vjs=3
+°Ë»ö¼­ºñ½º ¼­¹ö °³¹ß ½ÅÀÔ/°æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ÷Æ¼Åõ¸¶·ç,¼­¿ï °ü¾Ç±¸,https://kr.indeed.com/rc/clk?jk=e010f7780d479126&fccid=b6cebf2e7d619f07&vjs=3
+Technical Sales RepresentativeÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LUCID Vision Labs,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=e54dfb952fa97fc6&fccid=7981d861c3c6e79b&vjs=3
+Data ScientistÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,WWC Global,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2aec9639c4538366&fccid=83acbaa9bba5ed4b&vjs=3
+[ÇÏ³ª±İÀ¶À¶ÇÕ±â¼ú¿ø] Computer Vision °æ·Â»ç¿ø ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÏ³ª±İÀ¶Æ¼¾ÆÀÌ,ÀÎÃµ Ã»¶óµ¿,https://kr.indeed.com/rc/clk?jk=8d43cb4ea87ff50c&fccid=eb82f052aed06b37&vjs=3
+¼®¹Ú»ç ¿­À¯Ã¼ÇØ¼® ÀÚµ¿È­¼³°è µ¥ÀÌÅÍºĞ¼® Vision°Ë»ç LaserÀÀ¿ë°¡°øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,È¸»ç¸í,°æ±âµµ ¼ö¿ø,https://kr.indeed.com/rc/clk?jk=0d1b603ba759318e&fccid=a6a2cb60b8f19368&vjs=3
+YW¸ğ¹ÙÀÏÀÌ °¢ ºÎ¹® ½ÅÀÔ/°æ·Â Á÷¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ÍÀÌ´õºíÀ¯¸ğ¹ÙÀÏ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=329378c4af0b1dca&fccid=c2321a2f73c2eb86&vjs=3
+¸®½ºÅ©°ü¸®ÆÀ °æ·ÂÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­ÀÚ»ê¿î¿ë,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=3cb5da860c933d64&fccid=8561b3f17384fe3c&vjs=3
+WaveBridge BackEnd Developer °æ·ÂÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿şÀÌºê¸´Áö,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=ea7a7ab6e15151c1&fccid=dd616958bd9ddc12&vjs=3
+¼­¹ö °³¹ßÀÚ(Back-End)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=7efc9034c7d09a29&fccid=d29ddc820620b02e&vjs=3
+Ç×°ø ¹× ·Îº¸Æ½½º ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´Ï¾î½º·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=7eb768bc21c3f134&fccid=f3d5eeb09e72b348&vjs=3
+Senior Partner EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Twitch,¼­¿ï,https://kr.indeed.com/rc/clk?jk=7ac7261d6db3c252&fccid=e21f6affbb4bb0b2&vjs=3
+AIDE Field Service Engineer (FSE)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Accenture Federal Services,¼­¿ï,https://kr.indeed.com/rc/clk?jk=e59c1870435e4653&fccid=a4e4e2eaf26690c9&vjs=3
+°³¹ßÀÚ  ±âÈ¹ÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎºê·¹ÀÎ¿¡ÀÌ¾ÆÀÌ,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=05ef4ecae68e5353&fccid=fcfaa1d6661c9175&vjs=3
+°³¹ßÀÚ  ±âÈ¹ÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÀÎºê·¹ÀÎ¿¡ÀÌ¾ÆÀÌ,¼­¿ï ±İÃµ±¸,https://kr.indeed.com/rc/clk?jk=05ef4ecae68e5353&fccid=fcfaa1d6661c9175&vjs=3
+[ÀÏ¹İÁ÷] DX_µ¥ÀÌÅÍ ºĞ¼® °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GS EPS,´çÁø ¼Û¾ÇÀ¾,https://kr.indeed.com/rc/clk?jk=c7ded06db7c0df88&fccid=ed7659df3000676f&vjs=3
+[±×·Î½º¸¶ÄÉÆÃ] ±¤°í ¹× Á¦ÈŞ ¿µ¾÷/±âÈ¹ ´ã´çÀÚÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À¹ğÅ©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=e033bc755324bba2&fccid=a8ac43179956a6aa&vjs=3
+eBeam (SEMVision) Algorithm Developer for R&D Extension Kore...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Applied Materials,°æ±âµµ È­¼º,https://kr.indeed.com/rc/clk?jk=72e47e2903b809e3&fccid=6c6f37e2a6cb4c55&vjs=3
+´ë±â¾÷ EcommerceÀ¯Åë»ç -IT°³¹ß¡¤µ¥ÀÌÅÍ(Java  PL/SQL  Py ¿Ü °æ·Â Á¤±ÔÁ÷  °è¾àÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¶óÇÇÇÃÄÚ¸®¾Æ¸®¹ÌÆ¼µå,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=4f8eb9ff41ccea5a&fccid=28f5722fca6f5b12&vjs=3
+Sr. Software Engineer  BackendÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Roku,¼­¿ï,https://kr.indeed.com/rc/clk?jk=d45caa8adbfe69c4&fccid=f7f27aafffbc37a6&vjs=3
+System Engineer ºĞ¾ß ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,11¹ø°¡,¼­¿ï ³²´ë¹®·Î5°¡,https://kr.indeed.com/rc/clk?jk=dbed337776725715&fccid=aba8aade58c00c02&vjs=3
+SW Development EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,KLA,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=421259d776655193&fccid=c8fc142c28286059&vjs=3
+±â¼úÇõ½ÅÆÀÀå °æ·Â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿øÀÍ¸ÓÆ®¸®¾óÁî,Ã»ÁÖ ¿ÀÃ¢À¾,https://kr.indeed.com/rc/clk?jk=2a7fec63a96033df&fccid=d6680b1e8747a7d6&vjs=3
+Customer Support Engineer Á¤±ÔÁ÷ (»ç¿ø±Ş)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿ÀºñÀÌ·¦,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=21a751001f96988f&fccid=715de450eed29374&vjs=3
+[±Û·Î¹ú µğÁöÅĞ ¸¶ÄÉÆÃ] ÄÜÅÙÃ÷ ¸ğ´ÏÅÍ¸µ PMO ´ë½Ãº¸µå °³¹ß°ü¸® Á¤±ÔÁ÷ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÜ¼¾Æ®¸¯½º¼­ºñ½ºÄÚ¸®¾Æ,¼­¿ï ¿ë»ê±¸,https://kr.indeed.com/rc/clk?jk=e9e8edecbda3f98f&fccid=7789b87d5d996c4a&vjs=3
+ÅõÀÚÇ®»ç¾÷º»ºÎ OCIOÀÚ¹®ÆÀ ¾È³» (~9/23)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,»ï¼ºÀÚ»ê¿î¿ë,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=a8b2d173afc5b11c&fccid=f4406f2325b4296b&vjs=3
+Data Analytics Lead/Manager - KoreaÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ºö¸ğºô¸®Æ¼ÄÚ¸®¾Æ,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=2c23f8bff9a86e20&fccid=e511b649c4727c0e&vjs=3
+Data Scientist/Engineer Á¤±ÔÁ÷ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,jwÈ¦µù½º,¼­¿ï ¼­ÃÊµ¿,https://kr.indeed.com/rc/clk?jk=8a5ddd9b0080e9d9&fccid=19865a66b6af6008&vjs=3
+Software Engineer - Golang  Python - Anbox CloudÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Canonical - Jobs,¼­¿ï,https://kr.indeed.com/rc/clk?jk=e9850c22ac1c345e&fccid=3911cf63fc0692f4&vjs=3
+RF Test Engineer  KoreaÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÇÇÃÄÉ¾îÄÚ¸®¾Æ,ÀÎÃµ,https://kr.indeed.com/rc/clk?jk=06ac5ee96c79b73d&fccid=5d6dd0617b94cf2e&vjs=3
+µö·¯´× ¸ğµ¨¿¬±¸ °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=8d5e948f57c6e292&fccid=d29ddc820620b02e&vjs=3
+[IQVIA] Data Scientist (Clinical Plan Analyst/´ë¸®)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌÅ¥ºñ¾Æ,¼­¿ï Áß±¸,https://kr.indeed.com/rc/clk?jk=3914b6f3e8f672ff&fccid=122e96dbf4df7141&vjs=3
+MVP °³¹ß ¿£Áö´Ï¾î(¼­¹ö  À¥ÇÁ·ĞÆ®) (Á¤±ÔÁ÷  °è¾àÁ÷  ÇÁ¸®·£¼­)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,´õÅ×½ºÅÍ,´ëÀü Áß±¸,https://kr.indeed.com/rc/clk?jk=1748baa27965fdbf&fccid=948325a69d70601e&vjs=3
+R&D Software Engineer: ControlÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ThorDrive Inc,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2429b566d565dcf4&fccid=3e85ac49dfd6b2c5&vjs=3
+Å×Å©´ÏÄÃ ¾ÆÆ¼½ºÆ®ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÇÁ¸®Ä«TV,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=d496fdf7c00b55ed&fccid=bc48816053af06b3&vjs=3
+Manager  Supply Chain Analytics  Operations ResearchÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Bain & Company,¼­¿ï,https://kr.indeed.com/rc/clk?jk=d45d098fc8cca6b0&fccid=48270b2eee62c2c6&vjs=3
+Coupang Business Analyst (Non Tech)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2e471d0cf19be66c&fccid=56e12959d04ef145&vjs=3
+FY2022 ÇÏ¹İ±â °æ·Â»ç¿ø Ã¤¿ë[µ¥ÀÌÅÍºĞ¼®]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,±³º¸»ı¸í,¼­¿ï Á¾·Îµ¿,https://kr.indeed.com/rc/clk?jk=b32da55fd47fb5d9&fccid=011dfac46361e4c7&vjs=3
+Game Operations Specialist  PicoÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ByteDance,¼­¿ï,https://kr.indeed.com/rc/clk?jk=f7e1a723c4af504f&fccid=74fbc768a4e5bece&vjs=3
+Unity °³¹ßÀÚ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½º¹ÒÆÑÅä¸®,¼­¿ï ±¸·Îµ¿,https://kr.indeed.com/rc/clk?jk=1c406cd99095ce16&fccid=00c0e82d65ac4a62&vjs=3
+[2022½ÅÀÔ°øÃ¤] Programming - °ÔÀÓ °³¹ß(Live IP)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿£¾¾¼ÒÇÁÆ®,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=75e1377c5b7f9cae&fccid=a1e4e21b1f33cf40&vjs=3
+ºòµ¥ÀÌÅÍ ÇÃ·§Æû ¹× µ¥ÀÌÅÍ ÆÄÀÌÇÁ¶óÀÎ ±¸Ãà ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GS ITM,¼­¿ï Àçµ¿,https://kr.indeed.com/rc/clk?jk=3fc05acd46eed572&fccid=619a8f6fadae8531&vjs=3
+µö·¯´× ºñÀü ¼­ºñ½º °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=d86e4125ac8496f9&fccid=d29ddc820620b02e&vjs=3
+[¼±Çà±â¼ú¿ø] Â÷·® ½Ã¹Ä·¹ÀÌ¼Ç[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=85ca13bc725681fb&fccid=980d6ecc399a3373&vjs=3
+Data Architect  Professional ServicesÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Amazon Web Services Korea LLC,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b87c295bfb0a95ee&fccid=fe2d21eef233e94a&vjs=3
+MySQL ¹× Oracle Engineer ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=16c7b502df2ac23e&fccid=32b9af632cf3b9f9&vjs=3
+Pipeline TDÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Mofac,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=1d98c46b4900b7e6&fccid=6cddb172d498d15c&vjs=3
+Senior QA EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Superb AI,¼­¿ï,https://kr.indeed.com/rc/clk?jk=b0909e758449b343&fccid=2ce7b49b3fdddbb1&vjs=3
+µ¥ÀÌÅÍ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¾ÆÀÌÇìÀÌÆ®ÇÃ¶óÀ×¹ö±×½º,¼­¿ï ¿µµîÆ÷±¸,https://kr.indeed.com/rc/clk?jk=ba6838bbf60a3982&fccid=33acc933918c59c3&vjs=3
+°ü¸®Á÷ °æ·Â»ç¿ø °ø°³Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,°æµ¿³ªºñ¿£,¼­¿ï ¿©ÀÇµµ,https://kr.indeed.com/rc/clk?jk=a82e3922c29d3373&fccid=3f3b5c7b0119014b&vjs=3
+ÅõÀÚÀÚ¹®ºÎ °æ·ÂÁ÷¿øÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,½Å¿µÁõ±Ç,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=f2c95731ba1db798&fccid=08b98c3fea350315&vjs=3
+½Ã´Ï¾î °Ë»ö ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¸¶ÀÌ¸®¾óÆ®¸³,¼­¿ï ¼­ÃÊ±¸,https://kr.indeed.com/rc/clk?jk=8499b91b2f3a7e7e&fccid=03afb49e1a8b4dd7&vjs=3
+º¸¾È´ã´çÀÚ Ã¤¿ë(°æ·Â 5³â ÀÌ»ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÄÚ¸¶ÄÉÆÃ,¼­¿ï ³íÇöµ¿,https://kr.indeed.com/rc/clk?jk=4775a6863696d472&fccid=5d3316a6c97b8577&vjs=3
+Back-end Developer (Spring  Python  MSA)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï,https://kr.indeed.com/rc/clk?jk=d1243b4702886bbe&fccid=d29ddc820620b02e&vjs=3
+Site Reliability EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=cf3d033d44b99bd0&fccid=e90e80bc9ed9a53f&vjs=3
+¸ğ´ÏÅÍ¸µ ¼Ö·ç¼Ç °³¹ßÀÚ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Ä«Ä«¿À,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=e99d30a8f6947b41&fccid=32b9af632cf3b9f9&vjs=3
+2021³â ÇÏ¹İ±â ¼ö½ÃÃ¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÇÑÈ­Å×Å©À©,¼º³² »ïÆòµ¿,https://kr.indeed.com/rc/clk?jk=d6f30962332942d8&fccid=41ab825ad0dacc35&vjs=3
+Consumer Data Executive Seoul  South Korea ConsumerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Philip Morris International,¼­¿ï,https://kr.indeed.com/rc/clk?jk=273de3a4a78ed0ac&fccid=4141256365dbb7d7&vjs=3
+ºòµ¥ÀÌÅÍ °æ·Â»ç¿ø Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å©·¹ÅØÃ¥ÀÓ,´ë±¸ ÀÎ±³µ¿,https://kr.indeed.com/rc/clk?jk=ffdd72e52b8fa71b&fccid=68f7bb5112674d2a&vjs=3
+(ÁÖ)ÄÉÀÌ¿¥Æ¼¿¤ °Ç¼³ºĞ¾ß R&D º´¿ªÆ¯·Ê(Àü¹®¿¬±¸¿ä¿ø(¿µ»ó°ü·Ã S/W °³¹ß))ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÄÉÀÌ¿¥Æ¼¿¤,¼­¿ï ±¸·Î±¸,https://kr.indeed.com/rc/clk?jk=6103b55a568e7d25&fccid=bde30e3d0a59024a&vjs=3
+[´ë±â¾÷] µ¥ÀÌÅÍ ¿£Áö´Ï¾î (BI °³¹ß) °úÂ÷Àå±ŞÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡ÀÌÄ¡¾Ë´ÏÁî,¼­¿ï,https://kr.indeed.com/rc/clk?jk=2f218efc7f8e3e59&fccid=b8c1027d6dda0525&vjs=3
+DX_IT ½ÅÀÔ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,GS EPS,´çÁø ¼Û¾ÇÀ¾,https://kr.indeed.com/rc/clk?jk=7f6cb91ec23af2b3&fccid=ed7659df3000676f&vjs=3
+Senior Staff Back-end Engineer (Data Platform/ Data Infrastr...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Coupang,¼­¿ï,https://kr.indeed.com/rc/clk?jk=ce173356b91b0864&fccid=56e12959d04ef145&vjs=3
+ÀÚ¿¬¾îÃ³¸®Àü¹®°¡ ±İÀ¶Ãªº¿ ¸¸µé¾î °¥ ¿£Áö´Ï¾îÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄ¿îÆ®,¼­¿ï ÃæÁ¤·Î¿ª,https://kr.indeed.com/rc/clk?jk=a50fce6cc2cb57c9&fccid=df5e7ec512668ebf&vjs=3
+[¼±Çà±â¼ú¿ø] Â÷·® »ş½ÃÁ¦¾î ¼º´É Æò°¡ (°¨¼º/°èÃø)[Ã¥ÀÓ¿¬±¸¿ø]ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Çö´ëÀÚµ¿Â÷±×·ì,¼º³² ÆÇ±³¿ª,https://kr.indeed.com/rc/clk?jk=cc8ac06dba66cc59&fccid=980d6ecc399a3373&vjs=3
+¸ğ¹ÙÀÏ ¾Û ¼­¹ö °³¹ß(Java  Python)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÈŞ¸ÕµğÁöÅĞ,¼­¿ï,https://kr.indeed.com/rc/clk?jk=16dff836029458af&fccid=796208c8550d9592&vjs=3
+[°æ·Â¹«°ü] SW(¼ÒÇÁÆ®¿ş¾î) ºÎ¹® Á¤±ÔÁ÷ ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÁÖ½ÄÈ¸»ç ¿¢¼ÒÆÛÆ® °ü½É±â¾÷,¼­¿ï ¿ë½Åµ¿,https://kr.indeed.com/rc/clk?jk=750bfcd4482b72aa&fccid=e79bea0177cd08fa&vjs=3
+Game Platform - ML/DL EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,LINE Plus corporation,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=fa9751f22445607d&fccid=e90e80bc9ed9a53f&vjs=3
+±İÀ¶IT(UI/UX°³¹ß) ÀÎÀçÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿¡¼ÂÇÃ·¯½ºÀÚ»ê¿î¿ë,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=04751aa927de1b32&fccid=8ab063b7c8c26513&vjs=3
+Lead Video Hardware EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Qcom,¼­¿ï,https://kr.indeed.com/rc/clk?jk=c74ee7d971217128&fccid=d40ebe11fc879426&vjs=3
+IT¿¬±¸ÆÀ ÀÀ¿ë¼ÒÇÁÆ®¿ş¾î °³¹ßÀÚ Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÆÄ³ª½Ã¾Æ,ºÎ»ê ¼ÛÁ¤µ¿,https://kr.indeed.com/rc/clk?jk=c304896e2f88a73a&fccid=73ebeadc607ac6bf&vjs=3
+Web Application ±¸Ãà ÇÁ·ÎÁ§Æ® ¼öÇàÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,´ëÇÑ¹Î±¹,https://kr.indeed.com/rc/clk?jk=74caa9b0d5449b34&fccid=d29ddc820620b02e&vjs=3
+Sr. Product Engineer - Physical DesignÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Siemens,°æ±âµµ ¼º³²,https://kr.indeed.com/rc/clk?jk=0384ca3c5e86e20e&fccid=ea6bb53f0b18b8f2&vjs=3
+(ÁÖ)¿şÀÌºê¿ş¾î 2021 ³âµµ ½ÅÀÔ»ç¿ø (ÇÁ·Î±×·¡¸Ó)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,¿şÀÌºê¿ş¾î,´ëÀü À¯¼º±¸,https://kr.indeed.com/rc/clk?jk=68d62221f2d26c0e&fccid=ddad0ce1cfda8e04&vjs=3
+2021³â »ó¹İ±â R&D °³¹ßÀÚ (º´¿ªÆ¯·Ê °¡´É/°æ·Â ¹«°ü)ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,³×¿À½ºÅØ,ÀÎÃµ ¿¬¼ö±¸,https://kr.indeed.com/rc/clk?jk=754be9e3d78fa802&fccid=6ec20471817e2f20&vjs=3
+Data Scientist Engineer °æ·Â Ã¤¿ëÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,CJ¿Ã¸®ºê³×Æ®¿÷½º,¼º³² ¼­Çöµ¿,https://kr.indeed.com/rc/clk?jk=75615efaa1452da8&fccid=f9d7b79c30512a85&vjs=3
+(ÁÖ)Æ®À« °³¹ßÀÚ(°æ·ÂÁ÷) ºòµ¥ÀÌÅÍ ¿µ»óÃ³¸® ¸Ó½ÅºñÀü/AI µö·¯´×ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Æ®À«,°æ±âµµ È­¼º,https://kr.indeed.com/rc/clk?jk=a0dda478567db352&fccid=8236169ab3bd9551&vjs=3
+Associate Software Engineer  gReach Program for People with...ÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Google,¼­¿ï,https://kr.indeed.com/rc/clk?jk=0907be3f74a45614&fccid=a5b4499d9e91a5c6&vjs=3
+Process Data AnalystÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Umicore,ÃæÃ»³²µµ Ãµ¾È,https://kr.indeed.com/rc/clk?jk=d62af92a91d53a22&fccid=256510e3f2996cac&vjs=3
+Software EngineerÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Maxim Integrated,¼­¿ï,https://kr.indeed.com/rc/clk?jk=4dc59712378908df&fccid=795688f508690d17&vjs=3
+Web Backend °³¹ßÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Success Korea,¼­¿ï ¿©ÀÇµµ¿ª,https://kr.indeed.com/rc/clk?jk=bd67c6434c1bf554&fccid=d29ddc820620b02e&vjs=3
+[Åº·Â±Ù¹«Á¦/Á¤½ÃÅğ±Ù] AI ¸ğµ¨ °³¹ß °æ·ÂÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,Å°¿ÂºñÆ®,¼­¿ï °­³²±¸,https://kr.indeed.com/rc/clk?jk=c1ddb1373e1f448d&fccid=9a888c50ca3f400a&vjs=3
+(ÁÖ)Æ÷¾î½Ã½º °¢ ºÎ¹®º° ½ÅÀÔ ¹× °æ·Â ¸ğÁıÀÇ ÀüÃ¼ ¼¼ºÎ Á¤º¸,ÁÖ½ÄÈ¸»ç Æ÷¾î½Ã½º °ü½É±â¾÷,¼­¿ï ¼­±³µ¿,https://kr.indeed.com/rc/clk?jk=ee1659c488278ccb&fccid=86341b6a945ff62b&vjs=3
 Senior Full Stack Engineer (Node.js  Python),Weflow,Europe Only,https://weworkremotely.com//remote-jobs/weflow-senior-full-stack-engineer-node-js-python
 Senior Open Source Developer & DevOps (Python  Django  React  AWS/OpenStack),OpenCraft,Anywhere in the World,https://weworkremotely.com//remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack
 Senior Python Engineer: Long-term job - 100% remote,Proxify AB,Anywhere in the World,https://weworkremotely.com//remote-jobs/proxify-ab-senior-python-engineer-long-term-job-100-remote
