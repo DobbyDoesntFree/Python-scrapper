@@ -19,8 +19,24 @@ def extract_wwr_jobs(keywords):
                 anchors = post.find_all('a')
                 anchor = anchors[1]
                 link = anchor['href']
-                company, kind, region = anchor.find_all('span', class_="company")
-                title = anchor.find('span', class_='title')
-                job_data = {"company":company.string.replace(",", " "), "location":region.text.replace(",", " "), "position":title.string.replace(",", " "), "link":f"https://weworkremotely.com/{link}"}
+                try:
+                    company = anchor.find_all('span', class_="company")[0].string.replace(",", " ")
+                except:
+                    company = "No data"
+                try:
+                    kind = anchor.find_all('span', class_="company")[1].string.replace(",", " ")
+                except:
+                    kind = "No data"
+                try:
+                    region = anchor.find_all('span', class_="company")[2].string.replace(",", " ")
+                except:
+                    region = "No data"
+                    
+                title = anchor.find('span', class_='title').string.replace(",", " ")
+
+                job_data = {"company":company, "location":region, "position":title, "link":f"https://weworkremotely.com/{link}"}
                 results.append(job_data)      
     return results
+
+print(extract_wwr_jobs("react"))
+

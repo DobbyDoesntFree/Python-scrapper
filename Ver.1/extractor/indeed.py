@@ -24,7 +24,7 @@ def get_page_count(keyword):
     return len(res)
 
 def extract_indeed_jobs(keyword):
-    pages = get_page_count(keyword)
+    pages = 1 # get_page_count(keyword) #if you wish to get more than 1 page
     print("Found", pages, "pages")
     results = []
     for page in range(pages):
