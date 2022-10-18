@@ -1,0 +1,17 @@
+ins_lat:37.56682,
+ins_lng:126.97865,
+p_sido_cd:01,
+p_gugun_cd:0101,
+in_biz_cd:,
+set_date:
+
+
+일반 인증키
+(Encoding)	
+IJlP8vwcJLMNrfU2X%2Fb9jRHfGd0VkLKMl1rQoG%2BykjfjSuv4Mo%2FrDLoTjnXV0uqC%2BWSxo5IUaLPdRTM%2Bdznu0A%3D%3D
+일반 인증키
+(Decoding)	
+IJlP8vwcJLMNrfU2X/b9jRHfGd0VkLKMl1rQoG+ykjfjSuv4Mo/rDLoTjnXV0uqC+WSxo5IUaLPdRTM+dznu0A==
+
+Endpoint
+	http://openapi.data.go.kr/openapi/service/rest/Covid19
